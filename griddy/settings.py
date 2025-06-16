@@ -39,6 +39,7 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
     "corsheaders",
+    "core"
 ]
 
 MIDDLEWARE = [
@@ -129,3 +130,8 @@ STATIC_URL = 'static/'
 # https://docs.djangoproject.com/en/5.2/ref/settings/#default-auto-field
 
 DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
+
+
+#### Begin custom/griddy specific settings ####
+SPORTRADAR_API_KEY = os.getenv("SPORTRADAR_API_KEY")
+SPORTRADAR_API_BASE_URL = os.getenv("SPORTRADAR_API_BASE_URL", "https://api.sportradar.com/")
