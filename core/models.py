@@ -80,6 +80,7 @@ class Franchise(GriddyBaseModel):
 class Team(GriddyBaseModel):
     division = models.ForeignKey(Division, on_delete=models.CASCADE)
     franchise = models.ForeignKey(Franchise, on_delete=models.CASCADE)
+    venue = models.ForeignKey(Venue, on_delete=models.CASCADE, null=True)
     name = models.CharField(max_length=100)
     market = models.CharField(max_length=100)
     alias = models.CharField(max_length=100)
@@ -88,8 +89,12 @@ class Team(GriddyBaseModel):
     founded = models.IntegerField()
     owner = models.CharField(max_length=200)
     general_manager = models.CharField(max_length=200)
+    mascot = models.CharField(max_length=50, null=True)
 
     championships_won = models.IntegerField()
+    # TODO: This is given as a string (comma separated?) by SportRadar
+    # This should be handled differently by Griddy.
+    championship_seasons = models.CharField(max_length=255, null=True)
     conference_titles = models.IntegerField()
     division_titles = models.IntegerField()
     playoff_appearances = models.IntegerField()
