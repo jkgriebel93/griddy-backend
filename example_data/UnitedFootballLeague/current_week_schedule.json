@@ -1,0 +1,133 @@
+{
+  "id": "940a2680-c865-11ef-b016-114bcfc0f1b1",
+  "year": 2025,
+  "type": "PST",
+  "name": "PST",
+  "week": {
+    "id": "436fb380-c87e-453a-a261-0b39aee8dfe4",
+    "sequence": 2,
+    "title": "UFL Championship",
+    "games": [
+      {
+        "id": "39ec0e75-2b87-4311-abeb-a518eec7e24d",
+        "status": "closed",
+        "scheduled": "2025-06-15T00:00:00+00:00",
+        "entry_mode": "LDE",
+        "sr_id": "sr:match:61093853",
+        "neutral_site": true,
+        "game_type": "playoff",
+        "conference_game": false,
+        "title": "UFL Championship",
+        "duration": "3:15",
+        "parent_id": "88aa1b23-013e-4832-b7d4-98c4a0f52231",
+        "venue": {
+          "id": "582c0e30-c046-11ee-8baf-e746db70974a",
+          "name": "The Dome at America's Center",
+          "city": "St. Louis",
+          "state": "MO",
+          "country": "USA",
+          "zip": "63101",
+          "address": "701 Convention Plaza",
+          "capacity": 67277,
+          "surface": "artificial",
+          "roof_type": "dome",
+          "sr_id": "sr:venue:8203",
+          "location": {
+            "lat": "38.6328",
+            "lng": "-90.1885"
+          }
+        },
+        "home": {
+          "id": "8bcdfcd0-9677-11ec-9ad0-d3ebe46bbb12",
+          "name": "Michigan Panthers",
+          "alias": "MICH",
+          "game_number": 2,
+          "sr_id": "sr:competitor:882417",
+          "source": {
+            "id": "b4ff4e6c-2af0-4041-8655-5ea354ede0ae",
+            "title": "USFL Conference Final",
+            "status": "closed",
+            "coverage": "full",
+            "game_type": "playoff",
+            "scheduled": "2025-06-08T19:00:00+00:00",
+            "entry_mode": "LDE",
+            "outcome": "win"
+          }
+        },
+        "away": {
+          "id": "a3407150-c045-11ee-b66f-5d382d09dbaf",
+          "name": "DC Defenders",
+          "alias": "DC",
+          "game_number": 2,
+          "sr_id": "sr:competitor:661851",
+          "source": {
+            "id": "b173451a-6206-4af8-bfd7-532133a1bb0e",
+            "title": "XFL Conference Final",
+            "status": "closed",
+            "coverage": "full",
+            "game_type": "playoff",
+            "scheduled": "2025-06-08T22:20:00+00:00",
+            "entry_mode": "LDE",
+            "outcome": "win"
+          }
+        },
+        "broadcast": {
+          "network": "ABC"
+        },
+        "time_zones": {
+          "venue": "US/Central",
+          "home": "US/Eastern",
+          "away": "US/Eastern"
+        },
+        "weather": {
+          "condition": "Partly cloudy",
+          "humidity": 71,
+          "temp": 80,
+          "wind": {
+            "speed": 8,
+            "direction": "NNE"
+          }
+        },
+        "scoring": {
+          "home_points": 34,
+          "away_points": 58,
+          "periods": [
+            {
+              "period_type": "quarter",
+              "id": "fc39da6e-e145-4503-ace3-2cf284897325",
+              "number": 1,
+              "sequence": 1,
+              "home_points": 13,
+              "away_points": 6
+            },
+            {
+              "period_type": "quarter",
+              "id": "d38712c0-6f7c-43a1-b2c9-64a98173c157",
+              "number": 2,
+              "sequence": 2,
+              "home_points": 6,
+              "away_points": 31
+            },
+            {
+              "period_type": "quarter",
+              "id": "d21f03c5-8193-4731-b07b-6db2719c67c8",
+              "number": 3,
+              "sequence": 3,
+              "home_points": 0,
+              "away_points": 9
+            },
+            {
+              "period_type": "quarter",
+              "id": "af9f162f-9e14-4421-8298-a97acaa42165",
+              "number": 4,
+              "sequence": 4,
+              "home_points": 15,
+              "away_points": 12
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "_comment": "Generation started @ 2025-06-18 10:46:43 UTC ended @ 2025-06-18 10:46:43 UTC"
+}

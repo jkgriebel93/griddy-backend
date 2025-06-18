@@ -1,0 +1,3942 @@
+{
+  "id": "94096330-c865-11ef-b016-114bcfc0f1b1",
+  "year": 2025,
+  "type": "REG",
+  "name": "REG",
+  "weeks": [
+    {
+      "id": "11c06b24-5a12-4a13-8028-2052506c1948",
+      "sequence": 1,
+      "title": "1",
+      "games": [
+        {
+          "id": "2efe831c-bc28-482a-bcca-efa07a6f2da1",
+          "status": "closed",
+          "scheduled": "2025-03-29T00:00:00+00:00",
+          "entry_mode": "LDE",
+          "sr_id": "sr:match:56857925",
+          "game_type": "regular",
+          "conference_game": false,
+          "duration": "2:45",
+          "venue": {
+            "id": "257705c0-c93d-11ef-9d58-ed7e1297e3fd",
+            "name": "TDECU Stadium",
+            "city": "Houston",
+            "state": "TX",
+            "country": "USA",
+            "zip": "77004",
+            "address": "3874 Holman Street",
+            "capacity": 40000,
+            "surface": "artificial",
+            "roof_type": "outdoor",
+            "sr_id": "sr:venue:81597",
+            "location": {
+              "lat": "29.721945",
+              "lng": "-95.349167"
+            }
+          },
+          "home": {
+            "id": "42b04b80-9676-11ec-9ad0-d3ebe46bbb12",
+            "name": "Houston Roughnecks",
+            "alias": "HOU",
+            "game_number": 1,
+            "sr_id": "sr:competitor:882411"
+          },
+          "away": {
+            "id": "d4799bc0-c045-11ee-ad92-cf16c0a8aa31",
+            "name": "St. Louis Battlehawks",
+            "alias": "STL",
+            "game_number": 1,
+            "sr_id": "sr:competitor:661855"
+          },
+          "broadcast": {
+            "network": "FOX"
+          },
+          "time_zones": {
+            "venue": "US/Central",
+            "home": "US/Central",
+            "away": "US/Central"
+          },
+          "weather": {
+            "condition": "Thunderstorm In Vicinity",
+            "humidity": 83,
+            "temp": 70,
+            "wind": {
+              "speed": 2,
+              "direction": "NE"
+            }
+          },
+          "scoring": {
+            "home_points": 6,
+            "away_points": 31,
+            "periods": [
+              {
+                "period_type": "quarter",
+                "id": "a59fa123-cc1f-4cdb-9b63-1402242195cd",
+                "number": 1,
+                "sequence": 1,
+                "home_points": 0,
+                "away_points": 6
+              },
+              {
+                "period_type": "quarter",
+                "id": "c1fad6c5-9d3a-462b-8e08-ec6e3654b7ae",
+                "number": 2,
+                "sequence": 2,
+                "home_points": 0,
+                "away_points": 12
+              },
+              {
+                "period_type": "quarter",
+                "id": "4d744f7c-13e1-4c71-bfdf-5a3c9736bc0d",
+                "number": 3,
+                "sequence": 3,
+                "home_points": 0,
+                "away_points": 0
+              },
+              {
+                "period_type": "quarter",
+                "id": "52ce4de6-11d4-47de-b6ed-abf85dbc606e",
+                "number": 4,
+                "sequence": 4,
+                "home_points": 6,
+                "away_points": 13
+              }
+            ]
+          }
+        },
+        {
+          "id": "6a99d1c5-f07c-4b05-a0ce-4d7ba3b71f2d",
+          "status": "closed",
+          "scheduled": "2025-03-29T20:00:00+00:00",
+          "entry_mode": "LDE",
+          "sr_id": "sr:match:56857927",
+          "game_type": "regular",
+          "conference_game": true,
+          "duration": "3:06",
+          "venue": {
+            "id": "119efd60-c046-11ee-8baf-e746db70974a",
+            "name": "Choctaw Stadium",
+            "city": "Arlington",
+            "state": "TX",
+            "country": "USA",
+            "zip": "76011",
+            "address": "1000 Ballpark Way",
+            "capacity": 25000,
+            "surface": "turf",
+            "roof_type": "outdoor",
+            "sr_id": "sr:venue:52669",
+            "location": {
+              "lat": "32.7510",
+              "lng": "-97.0830"
+            }
+          },
+          "home": {
+            "id": "38355600-c045-11ee-8037-85feac748e1f",
+            "name": "Arlington Renegades",
+            "alias": "ARL",
+            "game_number": 1,
+            "sr_id": "sr:competitor:661843"
+          },
+          "away": {
+            "id": "b7951020-c045-11ee-ad92-cf16c0a8aa31",
+            "name": "San Antonio Brahmas",
+            "alias": "SA",
+            "game_number": 1,
+            "sr_id": "sr:competitor:978099"
+          },
+          "broadcast": {
+            "network": "FOX"
+          },
+          "time_zones": {
+            "venue": "US/Central",
+            "home": "US/Central",
+            "away": "US/Central"
+          },
+          "weather": {
+            "condition": "Sunny",
+            "humidity": 56,
+            "temp": 80,
+            "wind": {
+              "speed": 17,
+              "direction": "SSW"
+            }
+          },
+          "scoring": {
+            "home_points": 33,
+            "away_points": 9,
+            "periods": [
+              {
+                "period_type": "quarter",
+                "id": "4dc493c4-0d30-4cb5-9552-e25d0f993910",
+                "number": 1,
+                "sequence": 1,
+                "home_points": 8,
+                "away_points": 0
+              },
+              {
+                "period_type": "quarter",
+                "id": "bdf5d9e8-2797-401f-a8d0-240a706c64a7",
+                "number": 2,
+                "sequence": 2,
+                "home_points": 8,
+                "away_points": 3
+              },
+              {
+                "period_type": "quarter",
+                "id": "970459d6-d3fe-4cf4-8459-60b772264430",
+                "number": 3,
+                "sequence": 3,
+                "home_points": 8,
+                "away_points": 0
+              },
+              {
+                "period_type": "quarter",
+                "id": "be9bd634-5286-4de7-a02e-77c98c134259",
+                "number": 4,
+                "sequence": 4,
+                "home_points": 9,
+                "away_points": 6
+              }
+            ]
+          }
+        },
+        {
+          "id": "7f9861b3-d386-4f09-a582-851248befa43",
+          "status": "closed",
+          "scheduled": "2025-03-30T16:00:00+00:00",
+          "entry_mode": "LDE",
+          "sr_id": "sr:match:56857929",
+          "game_type": "regular",
+          "conference_game": true,
+          "duration": "2:50",
+          "venue": {
+            "id": "cbdfea20-65c7-11ed-ba73-2996f7aad028",
+            "name": "Simmons Bank Liberty Stadium",
+            "city": "Memphis",
+            "state": "TN",
+            "country": "USA",
+            "zip": "38104",
+            "address": "335 South Hollywood Street",
+            "capacity": 58325,
+            "surface": "artificial",
+            "roof_type": "outdoor",
+            "sr_id": "sr:venue:21266",
+            "location": {
+              "lat": "35.1211",
+              "lng": "-89.9774"
+            }
+          },
+          "home": {
+            "id": "b88f3e30-66c1-11ed-bbea-376dc2cc7dc0",
+            "name": "Memphis Showboats",
+            "alias": "MEM",
+            "game_number": 1,
+            "sr_id": "sr:competitor:982997"
+          },
+          "away": {
+            "id": "8bcdfcd0-9677-11ec-9ad0-d3ebe46bbb12",
+            "name": "Michigan Panthers",
+            "alias": "MICH",
+            "game_number": 1,
+            "sr_id": "sr:competitor:882417"
+          },
+          "broadcast": {
+            "network": "ESPN",
+            "satellite": "206"
+          },
+          "time_zones": {
+            "venue": "US/Central",
+            "home": "US/Central",
+            "away": "US/Eastern"
+          },
+          "weather": {
+            "condition": "Overcast",
+            "humidity": 87,
+            "temp": 69,
+            "wind": {
+              "speed": 13,
+              "direction": "S"
+            }
+          },
+          "scoring": {
+            "home_points": 12,
+            "away_points": 26,
+            "periods": [
+              {
+                "period_type": "quarter",
+                "id": "a9f97626-e5d4-42c9-b476-f7ffcfe154df",
+                "number": 1,
+                "sequence": 1,
+                "home_points": 0,
+                "away_points": 3
+              },
+              {
+                "period_type": "quarter",
+                "id": "81978748-a413-4edc-80c0-6c56aa4a1cc1",
+                "number": 2,
+                "sequence": 2,
+                "home_points": 3,
+                "away_points": 7
+              },
+              {
+                "period_type": "quarter",
+                "id": "ade07bae-6a79-4974-90fd-a20624d8caa0",
+                "number": 3,
+                "sequence": 3,
+                "home_points": 3,
+                "away_points": 7
+              },
+              {
+                "period_type": "quarter",
+                "id": "e33b4c8b-354a-48c6-8ecf-762879b48b1e",
+                "number": 4,
+                "sequence": 4,
+                "home_points": 6,
+                "away_points": 9
+              }
+            ]
+          }
+        },
+        {
+          "id": "0dce9d15-e969-4755-8a71-66e98b3786cd",
+          "status": "closed",
+          "scheduled": "2025-03-30T19:00:00+00:00",
+          "entry_mode": "LDE",
+          "sr_id": "sr:match:56857931",
+          "game_type": "regular",
+          "conference_game": false,
+          "duration": "2:58",
+          "venue": {
+            "id": "59e88b40-c046-11ee-9772-5f005754c5a2",
+            "name": "Audi Field",
+            "city": "Washington",
+            "state": "DC",
+            "country": "USA",
+            "zip": "20024",
+            "address": "100 Potomac Avenue SQ",
+            "capacity": 20000,
+            "surface": "turf",
+            "roof_type": "outdoor",
+            "sr_id": "sr:venue:27207",
+            "location": {
+              "lat": "38.8689",
+              "lng": "-77.0129"
+            }
+          },
+          "home": {
+            "id": "a3407150-c045-11ee-b66f-5d382d09dbaf",
+            "name": "DC Defenders",
+            "alias": "DC",
+            "game_number": 1,
+            "sr_id": "sr:competitor:661851"
+          },
+          "away": {
+            "id": "f4305130-9675-11ec-8570-4594a07130f0",
+            "name": "Birmingham Stallions",
+            "alias": "BHM",
+            "game_number": 1,
+            "sr_id": "sr:competitor:882409"
+          },
+          "broadcast": {
+            "network": "ESPN",
+            "satellite": "206"
+          },
+          "time_zones": {
+            "venue": "US/Eastern",
+            "home": "US/Eastern",
+            "away": "US/Central"
+          },
+          "weather": {
+            "condition": "Partly cloudy",
+            "humidity": 42,
+            "temp": 79,
+            "wind": {
+              "speed": 12,
+              "direction": "SSW"
+            }
+          },
+          "scoring": {
+            "home_points": 18,
+            "away_points": 11,
+            "periods": [
+              {
+                "period_type": "quarter",
+                "id": "7c930342-6988-4fbd-8205-13e2dc04fa96",
+                "number": 1,
+                "sequence": 1,
+                "home_points": 6,
+                "away_points": 3
+              },
+              {
+                "period_type": "quarter",
+                "id": "42ac6c1c-ffe7-48e9-9d37-5080ceafb60c",
+                "number": 2,
+                "sequence": 2,
+                "home_points": 6,
+                "away_points": 8
+              },
+              {
+                "period_type": "quarter",
+                "id": "ca052edd-1d34-4b54-9989-a9f7e0cf1a2b",
+                "number": 3,
+                "sequence": 3,
+                "home_points": 0,
+                "away_points": 0
+              },
+              {
+                "period_type": "quarter",
+                "id": "4aa5abc6-309d-4cc6-8ed2-67672dc4a6c3",
+                "number": 4,
+                "sequence": 4,
+                "home_points": 6,
+                "away_points": 0
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "7c480e06-e7f3-484f-a63e-17a24f069875",
+      "sequence": 2,
+      "title": "2",
+      "games": [
+        {
+          "id": "3495113f-7d68-45cb-9672-2e999030315c",
+          "status": "closed",
+          "scheduled": "2025-04-05T00:00:00+00:00",
+          "entry_mode": "LDE",
+          "sr_id": "sr:match:56857933",
+          "game_type": "regular",
+          "conference_game": true,
+          "duration": "3:05",
+          "venue": {
+            "id": "cffc6a20-9d94-11ed-8c02-458a555ebdac",
+            "name": "Ford Field",
+            "city": "Detroit",
+            "state": "MI",
+            "country": "USA",
+            "zip": "48226",
+            "address": "2000 Brush Street",
+            "capacity": 65000,
+            "surface": "artificial",
+            "roof_type": "dome",
+            "sr_id": "sr:venue:8181",
+            "location": {
+              "lat": "42.3400",
+              "lng": "-83.0456"
+            }
+          },
+          "home": {
+            "id": "8bcdfcd0-9677-11ec-9ad0-d3ebe46bbb12",
+            "name": "Michigan Panthers",
+            "alias": "MICH",
+            "game_number": 2,
+            "sr_id": "sr:competitor:882417"
+          },
+          "away": {
+            "id": "f4305130-9675-11ec-8570-4594a07130f0",
+            "name": "Birmingham Stallions",
+            "alias": "BHM",
+            "game_number": 2,
+            "sr_id": "sr:competitor:882409"
+          },
+          "broadcast": {
+            "network": "FOX"
+          },
+          "time_zones": {
+            "venue": "US/Eastern",
+            "home": "US/Eastern",
+            "away": "US/Central"
+          },
+          "weather": {
+            "condition": "Controlled Climate",
+            "humidity": 0,
+            "temp": 0,
+            "wind": {
+              "speed": 0
+            }
+          },
+          "scoring": {
+            "home_points": 12,
+            "away_points": 21,
+            "periods": [
+              {
+                "period_type": "quarter",
+                "id": "2b3cb339-2fe0-468e-97c1-51ecf706fc49",
+                "number": 1,
+                "sequence": 1,
+                "home_points": 0,
+                "away_points": 3
+              },
+              {
+                "period_type": "quarter",
+                "id": "776b6582-b496-48b7-9d52-3d457cc07c2a",
+                "number": 2,
+                "sequence": 2,
+                "home_points": 0,
+                "away_points": 3
+              },
+              {
+                "period_type": "quarter",
+                "id": "a2781e71-1734-4ac2-b5ef-0f9b898d4b15",
+                "number": 3,
+                "sequence": 3,
+                "home_points": 0,
+                "away_points": 6
+              },
+              {
+                "period_type": "quarter",
+                "id": "77477c31-275a-4654-8111-28a60c019d8b",
+                "number": 4,
+                "sequence": 4,
+                "home_points": 12,
+                "away_points": 9
+              }
+            ]
+          }
+        },
+        {
+          "id": "f33caab6-8cfe-4c9f-a3f1-dfb5ab08a282",
+          "status": "closed",
+          "scheduled": "2025-04-06T00:00:00+00:00",
+          "entry_mode": "LDE",
+          "sr_id": "sr:match:56857935",
+          "game_type": "regular",
+          "conference_game": false,
+          "duration": "3:04",
+          "venue": {
+            "id": "59e88b40-c046-11ee-9772-5f005754c5a2",
+            "name": "Audi Field",
+            "city": "Washington",
+            "state": "DC",
+            "country": "USA",
+            "zip": "20024",
+            "address": "100 Potomac Avenue SQ",
+            "capacity": 20000,
+            "surface": "turf",
+            "roof_type": "outdoor",
+            "sr_id": "sr:venue:27207",
+            "location": {
+              "lat": "38.8689",
+              "lng": "-77.0129"
+            }
+          },
+          "home": {
+            "id": "a3407150-c045-11ee-b66f-5d382d09dbaf",
+            "name": "DC Defenders",
+            "alias": "DC",
+            "game_number": 2,
+            "sr_id": "sr:competitor:661851"
+          },
+          "away": {
+            "id": "b88f3e30-66c1-11ed-bbea-376dc2cc7dc0",
+            "name": "Memphis Showboats",
+            "alias": "MEM",
+            "game_number": 2,
+            "sr_id": "sr:competitor:982997"
+          },
+          "broadcast": {
+            "network": "ABC"
+          },
+          "time_zones": {
+            "venue": "US/Eastern",
+            "home": "US/Eastern",
+            "away": "US/Central"
+          },
+          "weather": {
+            "condition": "Partly cloudy",
+            "humidity": 66,
+            "temp": 77,
+            "wind": {
+              "speed": 4,
+              "direction": "SE"
+            }
+          },
+          "scoring": {
+            "home_points": 17,
+            "away_points": 12,
+            "periods": [
+              {
+                "period_type": "quarter",
+                "id": "491c913a-e6b0-4134-b4d1-8b9ebe73b201",
+                "number": 1,
+                "sequence": 1,
+                "home_points": 0,
+                "away_points": 3
+              },
+              {
+                "period_type": "quarter",
+                "id": "8f127e04-d6ce-4318-ac31-98290cf1fd78",
+                "number": 2,
+                "sequence": 2,
+                "home_points": 6,
+                "away_points": 0
+              },
+              {
+                "period_type": "quarter",
+                "id": "2f97da1f-0de9-4235-bd8f-f144703c67e8",
+                "number": 3,
+                "sequence": 3,
+                "home_points": 3,
+                "away_points": 3
+              },
+              {
+                "period_type": "quarter",
+                "id": "53a2b328-6870-41f9-9d8f-80e4341f4cfc",
+                "number": 4,
+                "sequence": 4,
+                "home_points": 8,
+                "away_points": 6
+              }
+            ]
+          }
+        },
+        {
+          "id": "e9849b65-9607-43ea-a84b-b3ea00e0fa1e",
+          "status": "closed",
+          "scheduled": "2025-04-06T16:00:00+00:00",
+          "entry_mode": "LDE",
+          "sr_id": "sr:match:56857937",
+          "game_type": "regular",
+          "conference_game": false,
+          "duration": "2:50",
+          "venue": {
+            "id": "119efd60-c046-11ee-8baf-e746db70974a",
+            "name": "Choctaw Stadium",
+            "city": "Arlington",
+            "state": "TX",
+            "country": "USA",
+            "zip": "76011",
+            "address": "1000 Ballpark Way",
+            "capacity": 25000,
+            "surface": "turf",
+            "roof_type": "outdoor",
+            "sr_id": "sr:venue:52669",
+            "location": {
+              "lat": "32.7510",
+              "lng": "-97.0830"
+            }
+          },
+          "home": {
+            "id": "38355600-c045-11ee-8037-85feac748e1f",
+            "name": "Arlington Renegades",
+            "alias": "ARL",
+            "game_number": 2,
+            "sr_id": "sr:competitor:661843"
+          },
+          "away": {
+            "id": "42b04b80-9676-11ec-9ad0-d3ebe46bbb12",
+            "name": "Houston Roughnecks",
+            "alias": "HOU",
+            "game_number": 2,
+            "sr_id": "sr:competitor:882411"
+          },
+          "broadcast": {
+            "network": "ESPN",
+            "satellite": "206"
+          },
+          "time_zones": {
+            "venue": "US/Central",
+            "home": "US/Central",
+            "away": "US/Central"
+          },
+          "weather": {
+            "condition": "Overcast",
+            "humidity": 77,
+            "temp": 43,
+            "wind": {
+              "speed": 14,
+              "direction": "NNW"
+            }
+          },
+          "scoring": {
+            "home_points": 11,
+            "away_points": 9,
+            "periods": [
+              {
+                "period_type": "quarter",
+                "id": "97ceae44-4679-4dd3-b49c-3ce6bb16059b",
+                "number": 1,
+                "sequence": 1,
+                "home_points": 3,
+                "away_points": 0
+              },
+              {
+                "period_type": "quarter",
+                "id": "ed362212-3fd9-40c5-8985-7939eb4d912f",
+                "number": 2,
+                "sequence": 2,
+                "home_points": 0,
+                "away_points": 3
+              },
+              {
+                "period_type": "quarter",
+                "id": "cbd75ffd-69fd-4fee-bf7d-6b14e915d917",
+                "number": 3,
+                "sequence": 3,
+                "home_points": 0,
+                "away_points": 0
+              },
+              {
+                "period_type": "quarter",
+                "id": "35dc089b-76a8-4490-aa7c-7f9021e68b41",
+                "number": 4,
+                "sequence": 4,
+                "home_points": 8,
+                "away_points": 6
+              }
+            ]
+          }
+        },
+        {
+          "id": "ec4fe45d-b48b-4a86-9bd9-f51e7b13be44",
+          "status": "closed",
+          "scheduled": "2025-04-06T22:30:00+00:00",
+          "entry_mode": "LDE",
+          "sr_id": "sr:match:56857939",
+          "game_type": "regular",
+          "conference_game": true,
+          "duration": "2:58",
+          "venue": {
+            "id": "582c0e30-c046-11ee-8baf-e746db70974a",
+            "name": "The Dome at America's Center",
+            "city": "St. Louis",
+            "state": "MO",
+            "country": "USA",
+            "zip": "63101",
+            "address": "701 Convention Plaza",
+            "capacity": 67277,
+            "surface": "artificial",
+            "roof_type": "dome",
+            "sr_id": "sr:venue:8203",
+            "location": {
+              "lat": "38.6328",
+              "lng": "-90.1885"
+            }
+          },
+          "home": {
+            "id": "d4799bc0-c045-11ee-ad92-cf16c0a8aa31",
+            "name": "St. Louis Battlehawks",
+            "alias": "STL",
+            "game_number": 2,
+            "sr_id": "sr:competitor:661855"
+          },
+          "away": {
+            "id": "b7951020-c045-11ee-ad92-cf16c0a8aa31",
+            "name": "San Antonio Brahmas",
+            "alias": "SA",
+            "game_number": 2,
+            "sr_id": "sr:competitor:978099"
+          },
+          "broadcast": {
+            "network": "Fox Sports 1",
+            "satellite": "219"
+          },
+          "time_zones": {
+            "venue": "US/Central",
+            "home": "US/Central",
+            "away": "US/Central"
+          },
+          "weather": {
+            "condition": "Partly cloudy",
+            "humidity": 54,
+            "temp": 48,
+            "wind": {
+              "speed": 3,
+              "direction": "S"
+            }
+          },
+          "scoring": {
+            "home_points": 26,
+            "away_points": 9,
+            "periods": [
+              {
+                "period_type": "quarter",
+                "id": "6242a853-b65f-4d6c-b08b-a979ba425fef",
+                "number": 1,
+                "sequence": 1,
+                "home_points": 3,
+                "away_points": 0
+              },
+              {
+                "period_type": "quarter",
+                "id": "f757494b-ec2f-485f-9b5a-9f7ff7bd4bd2",
+                "number": 2,
+                "sequence": 2,
+                "home_points": 14,
+                "away_points": 3
+              },
+              {
+                "period_type": "quarter",
+                "id": "94c9a3d2-01b9-4ea1-903c-2e8a5e75125a",
+                "number": 3,
+                "sequence": 3,
+                "home_points": 6,
+                "away_points": 6
+              },
+              {
+                "period_type": "quarter",
+                "id": "fdec4809-2016-490f-b824-7c9bf9ce4635",
+                "number": 4,
+                "sequence": 4,
+                "home_points": 3,
+                "away_points": 0
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "501feb03-81d8-4ef0-874f-9f8de79468af",
+      "sequence": 3,
+      "title": "3",
+      "games": [
+        {
+          "id": "6aa0bd9d-600c-41d3-9206-2bc2458e69df",
+          "status": "closed",
+          "scheduled": "2025-04-12T00:00:00+00:00",
+          "entry_mode": "LDE",
+          "sr_id": "sr:match:56857941",
+          "game_type": "regular",
+          "conference_game": false,
+          "duration": "3:03",
+          "venue": {
+            "id": "b1f3fd20-90f4-11ec-bf38-efe8ff3d0b79",
+            "name": "Protective Stadium",
+            "city": "Birmingham",
+            "state": "AL",
+            "country": "USA",
+            "zip": "35203",
+            "address": "1020 24th St N",
+            "capacity": 47100,
+            "surface": "artificial",
+            "roof_type": "outdoor",
+            "sr_id": "sr:venue:58724",
+            "location": {
+              "lat": "33.5278",
+              "lng": "-86.8092"
+            }
+          },
+          "home": {
+            "id": "f4305130-9675-11ec-8570-4594a07130f0",
+            "name": "Birmingham Stallions",
+            "alias": "BHM",
+            "game_number": 3,
+            "sr_id": "sr:competitor:882409"
+          },
+          "away": {
+            "id": "38355600-c045-11ee-8037-85feac748e1f",
+            "name": "Arlington Renegades",
+            "alias": "ARL",
+            "game_number": 3,
+            "sr_id": "sr:competitor:661843"
+          },
+          "broadcast": {
+            "network": "FOX"
+          },
+          "time_zones": {
+            "venue": "US/Central",
+            "home": "US/Central",
+            "away": "US/Central"
+          },
+          "weather": {
+            "condition": "Partly cloudy",
+            "humidity": 60,
+            "temp": 59,
+            "wind": {
+              "speed": 9,
+              "direction": "N"
+            }
+          },
+          "scoring": {
+            "home_points": 10,
+            "away_points": 9,
+            "periods": [
+              {
+                "period_type": "quarter",
+                "id": "a017e5d7-5142-4d71-8c0e-f6607bdfc37e",
+                "number": 1,
+                "sequence": 1,
+                "home_points": 0,
+                "away_points": 3
+              },
+              {
+                "period_type": "quarter",
+                "id": "b7450599-f611-4f93-a6c1-1e2d19f0a765",
+                "number": 2,
+                "sequence": 2,
+                "home_points": 0,
+                "away_points": 6
+              },
+              {
+                "period_type": "quarter",
+                "id": "08102aad-1729-470f-98dc-fed7a979ff4d",
+                "number": 3,
+                "sequence": 3,
+                "home_points": 3,
+                "away_points": 0
+              },
+              {
+                "period_type": "quarter",
+                "id": "f7c9b055-65ee-40f8-94b1-1f65316a6cb5",
+                "number": 4,
+                "sequence": 4,
+                "home_points": 7,
+                "away_points": 0
+              }
+            ]
+          }
+        },
+        {
+          "id": "3f04dbde-0d20-4ead-be69-fb5b45778a24",
+          "status": "closed",
+          "scheduled": "2025-04-12T18:30:00+00:00",
+          "entry_mode": "LDE",
+          "sr_id": "sr:match:56857943",
+          "game_type": "regular",
+          "conference_game": true,
+          "duration": "2:51",
+          "venue": {
+            "id": "cbdfea20-65c7-11ed-ba73-2996f7aad028",
+            "name": "Simmons Bank Liberty Stadium",
+            "city": "Memphis",
+            "state": "TN",
+            "country": "USA",
+            "zip": "38104",
+            "address": "335 South Hollywood Street",
+            "capacity": 58325,
+            "surface": "artificial",
+            "roof_type": "outdoor",
+            "sr_id": "sr:venue:21266",
+            "location": {
+              "lat": "35.1211",
+              "lng": "-89.9774"
+            }
+          },
+          "home": {
+            "id": "b88f3e30-66c1-11ed-bbea-376dc2cc7dc0",
+            "name": "Memphis Showboats",
+            "alias": "MEM",
+            "game_number": 3,
+            "sr_id": "sr:competitor:982997"
+          },
+          "away": {
+            "id": "42b04b80-9676-11ec-9ad0-d3ebe46bbb12",
+            "name": "Houston Roughnecks",
+            "alias": "HOU",
+            "game_number": 3,
+            "sr_id": "sr:competitor:882411"
+          },
+          "broadcast": {
+            "network": "ESPN",
+            "satellite": "206"
+          },
+          "time_zones": {
+            "venue": "US/Central",
+            "home": "US/Central",
+            "away": "US/Central"
+          },
+          "weather": {
+            "condition": "Sunny",
+            "humidity": 42,
+            "temp": 63,
+            "wind": {
+              "speed": 5,
+              "direction": "NNE"
+            }
+          },
+          "scoring": {
+            "home_points": 17,
+            "away_points": 18,
+            "periods": [
+              {
+                "period_type": "quarter",
+                "id": "095a97df-8586-49cc-8bfc-94b3c1c801b4",
+                "number": 1,
+                "sequence": 1,
+                "home_points": 3,
+                "away_points": 0
+              },
+              {
+                "period_type": "quarter",
+                "id": "d164ab81-07d6-4a80-950c-10128f22d239",
+                "number": 2,
+                "sequence": 2,
+                "home_points": 8,
+                "away_points": 3
+              },
+              {
+                "period_type": "quarter",
+                "id": "819df771-8716-4df2-a498-f45e4b9ccd67",
+                "number": 3,
+                "sequence": 3,
+                "home_points": 0,
+                "away_points": 12
+              },
+              {
+                "period_type": "quarter",
+                "id": "4bcd85ed-9360-4776-8056-4a3ae397a501",
+                "number": 4,
+                "sequence": 4,
+                "home_points": 6,
+                "away_points": 3
+              }
+            ]
+          }
+        },
+        {
+          "id": "0c6ba548-fe0e-4540-8175-b9fc49b79a4d",
+          "status": "closed",
+          "scheduled": "2025-04-13T16:00:00+00:00",
+          "entry_mode": "LDE",
+          "sr_id": "sr:match:56857945",
+          "game_type": "regular",
+          "conference_game": false,
+          "duration": "2:59",
+          "venue": {
+            "id": "cffc6a20-9d94-11ed-8c02-458a555ebdac",
+            "name": "Ford Field",
+            "city": "Detroit",
+            "state": "MI",
+            "country": "USA",
+            "zip": "48226",
+            "address": "2000 Brush Street",
+            "capacity": 65000,
+            "surface": "artificial",
+            "roof_type": "dome",
+            "sr_id": "sr:venue:8181",
+            "location": {
+              "lat": "42.3400",
+              "lng": "-83.0456"
+            }
+          },
+          "home": {
+            "id": "8bcdfcd0-9677-11ec-9ad0-d3ebe46bbb12",
+            "name": "Michigan Panthers",
+            "alias": "MICH",
+            "game_number": 3,
+            "sr_id": "sr:competitor:882417"
+          },
+          "away": {
+            "id": "b7951020-c045-11ee-ad92-cf16c0a8aa31",
+            "name": "San Antonio Brahmas",
+            "alias": "SA",
+            "game_number": 3,
+            "sr_id": "sr:competitor:978099"
+          },
+          "broadcast": {
+            "network": "ABC"
+          },
+          "time_zones": {
+            "venue": "US/Eastern",
+            "home": "US/Eastern",
+            "away": "US/Central"
+          },
+          "weather": {
+            "condition": "Sunny",
+            "humidity": 39,
+            "temp": 57,
+            "wind": {
+              "speed": 9,
+              "direction": "SSW"
+            }
+          },
+          "scoring": {
+            "home_points": 26,
+            "away_points": 23,
+            "periods": [
+              {
+                "period_type": "quarter",
+                "id": "12546021-6031-4652-b608-077ccdaeb395",
+                "number": 1,
+                "sequence": 1,
+                "home_points": 0,
+                "away_points": 3
+              },
+              {
+                "period_type": "quarter",
+                "id": "2c9cbe94-a5c6-4e5e-8f7b-95311dbc8dc3",
+                "number": 2,
+                "sequence": 2,
+                "home_points": 10,
+                "away_points": 6
+              },
+              {
+                "period_type": "quarter",
+                "id": "484d366d-0f68-4b4a-b603-ce1a59fed001",
+                "number": 3,
+                "sequence": 3,
+                "home_points": 13,
+                "away_points": 6
+              },
+              {
+                "period_type": "quarter",
+                "id": "278a2e5a-0990-425c-9e20-5a4eaa98d6d3",
+                "number": 4,
+                "sequence": 4,
+                "home_points": 3,
+                "away_points": 8
+              }
+            ]
+          }
+        },
+        {
+          "id": "bdefa455-14f1-40e7-9196-51a8272de5aa",
+          "status": "closed",
+          "scheduled": "2025-04-13T19:00:00+00:00",
+          "entry_mode": "LDE",
+          "sr_id": "sr:match:56857947",
+          "game_type": "regular",
+          "conference_game": true,
+          "duration": "3:10",
+          "venue": {
+            "id": "582c0e30-c046-11ee-8baf-e746db70974a",
+            "name": "The Dome at America's Center",
+            "city": "St. Louis",
+            "state": "MO",
+            "country": "USA",
+            "zip": "63101",
+            "address": "701 Convention Plaza",
+            "capacity": 67277,
+            "surface": "artificial",
+            "roof_type": "dome",
+            "sr_id": "sr:venue:8203",
+            "location": {
+              "lat": "38.6328",
+              "lng": "-90.1885"
+            }
+          },
+          "home": {
+            "id": "d4799bc0-c045-11ee-ad92-cf16c0a8aa31",
+            "name": "St. Louis Battlehawks",
+            "alias": "STL",
+            "game_number": 3,
+            "sr_id": "sr:competitor:661855"
+          },
+          "away": {
+            "id": "a3407150-c045-11ee-b66f-5d382d09dbaf",
+            "name": "DC Defenders",
+            "alias": "DC",
+            "game_number": 3,
+            "sr_id": "sr:competitor:661851"
+          },
+          "broadcast": {
+            "network": "ABC"
+          },
+          "time_zones": {
+            "venue": "US/Central",
+            "home": "US/Central",
+            "away": "US/Eastern"
+          },
+          "weather": {
+            "condition": "Sunny",
+            "humidity": 39,
+            "temp": 76,
+            "wind": {
+              "speed": 20,
+              "direction": "S"
+            }
+          },
+          "scoring": {
+            "home_points": 15,
+            "away_points": 27,
+            "periods": [
+              {
+                "period_type": "quarter",
+                "id": "b7c93430-da0d-435d-a417-d3d0d36127c6",
+                "number": 1,
+                "sequence": 1,
+                "home_points": 0,
+                "away_points": 12
+              },
+              {
+                "period_type": "quarter",
+                "id": "e0c5aded-2682-495e-b867-940ebc5a1497",
+                "number": 2,
+                "sequence": 2,
+                "home_points": 12,
+                "away_points": 6
+              },
+              {
+                "period_type": "quarter",
+                "id": "f2a3f7eb-c5a4-43d1-9960-166015bae6fc",
+                "number": 3,
+                "sequence": 3,
+                "home_points": 3,
+                "away_points": 0
+              },
+              {
+                "period_type": "quarter",
+                "id": "1415a470-6922-4a21-a3e4-0dde6c7dafb9",
+                "number": 4,
+                "sequence": 4,
+                "home_points": 0,
+                "away_points": 9
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "b1b7020e-0a5e-4d4b-839e-a7e3e7b4c2bb",
+      "sequence": 4,
+      "title": "4",
+      "games": [
+        {
+          "id": "03cf7a36-82b4-41b9-8c06-040320612d9f",
+          "status": "closed",
+          "scheduled": "2025-04-19T00:00:00+00:00",
+          "entry_mode": "LDE",
+          "sr_id": "sr:match:56857949",
+          "game_type": "regular",
+          "conference_game": true,
+          "duration": "3:01",
+          "venue": {
+            "id": "cffc6a20-9d94-11ed-8c02-458a555ebdac",
+            "name": "Ford Field",
+            "city": "Detroit",
+            "state": "MI",
+            "country": "USA",
+            "zip": "48226",
+            "address": "2000 Brush Street",
+            "capacity": 65000,
+            "surface": "artificial",
+            "roof_type": "dome",
+            "sr_id": "sr:venue:8181",
+            "location": {
+              "lat": "42.3400",
+              "lng": "-83.0456"
+            }
+          },
+          "home": {
+            "id": "8bcdfcd0-9677-11ec-9ad0-d3ebe46bbb12",
+            "name": "Michigan Panthers",
+            "alias": "MICH",
+            "game_number": 4,
+            "sr_id": "sr:competitor:882417"
+          },
+          "away": {
+            "id": "b88f3e30-66c1-11ed-bbea-376dc2cc7dc0",
+            "name": "Memphis Showboats",
+            "alias": "MEM",
+            "game_number": 4,
+            "sr_id": "sr:competitor:982997"
+          },
+          "broadcast": {
+            "network": "FOX"
+          },
+          "time_zones": {
+            "venue": "US/Eastern",
+            "home": "US/Eastern",
+            "away": "US/Central"
+          },
+          "weather": {
+            "condition": "Partly cloudy",
+            "humidity": 47,
+            "temp": 78,
+            "wind": {
+              "speed": 15,
+              "direction": "WSW"
+            }
+          },
+          "scoring": {
+            "home_points": 27,
+            "away_points": 9,
+            "periods": [
+              {
+                "period_type": "quarter",
+                "id": "4f1505ca-af74-44eb-af65-9e5cc2505839",
+                "number": 1,
+                "sequence": 1,
+                "home_points": 7,
+                "away_points": 6
+              },
+              {
+                "period_type": "quarter",
+                "id": "c36026ef-b032-4dfb-a371-ed71293d33db",
+                "number": 2,
+                "sequence": 2,
+                "home_points": 7,
+                "away_points": 3
+              },
+              {
+                "period_type": "quarter",
+                "id": "78f9d67b-69e9-4140-848e-f1661fc9f81c",
+                "number": 3,
+                "sequence": 3,
+                "home_points": 0,
+                "away_points": 0
+              },
+              {
+                "period_type": "quarter",
+                "id": "005044aa-52a6-446e-bf3c-5cd4fab144b7",
+                "number": 4,
+                "sequence": 4,
+                "home_points": 13,
+                "away_points": 0
+              }
+            ]
+          }
+        },
+        {
+          "id": "30ed59b1-20e4-469a-b3d8-45d8ebeed52e",
+          "status": "closed",
+          "scheduled": "2025-04-19T16:30:00+00:00",
+          "entry_mode": "LDE",
+          "sr_id": "sr:match:56857951",
+          "game_type": "regular",
+          "conference_game": true,
+          "duration": "2:58",
+          "venue": {
+            "id": "119efd60-c046-11ee-8baf-e746db70974a",
+            "name": "Choctaw Stadium",
+            "city": "Arlington",
+            "state": "TX",
+            "country": "USA",
+            "zip": "76011",
+            "address": "1000 Ballpark Way",
+            "capacity": 25000,
+            "surface": "turf",
+            "roof_type": "outdoor",
+            "sr_id": "sr:venue:52669",
+            "location": {
+              "lat": "32.7510",
+              "lng": "-97.0830"
+            }
+          },
+          "home": {
+            "id": "38355600-c045-11ee-8037-85feac748e1f",
+            "name": "Arlington Renegades",
+            "alias": "ARL",
+            "game_number": 4,
+            "sr_id": "sr:competitor:661843"
+          },
+          "away": {
+            "id": "d4799bc0-c045-11ee-ad92-cf16c0a8aa31",
+            "name": "St. Louis Battlehawks",
+            "alias": "STL",
+            "game_number": 4,
+            "sr_id": "sr:competitor:661855"
+          },
+          "broadcast": {
+            "network": "ABC"
+          },
+          "time_zones": {
+            "venue": "US/Central",
+            "home": "US/Central",
+            "away": "US/Central"
+          },
+          "weather": {
+            "condition": "Overcast ",
+            "humidity": 85,
+            "temp": 68,
+            "wind": {
+              "speed": 15,
+              "direction": "S"
+            }
+          },
+          "scoring": {
+            "home_points": 30,
+            "away_points": 15,
+            "periods": [
+              {
+                "period_type": "quarter",
+                "id": "b7f2f791-1155-4505-b66f-0bc49840760c",
+                "number": 1,
+                "sequence": 1,
+                "home_points": 16,
+                "away_points": 3
+              },
+              {
+                "period_type": "quarter",
+                "id": "04d035af-4765-447e-95b5-3e5a0f6f14da",
+                "number": 2,
+                "sequence": 2,
+                "home_points": 0,
+                "away_points": 3
+              },
+              {
+                "period_type": "quarter",
+                "id": "ee545371-3283-4813-b3d2-8a8d22dee938",
+                "number": 3,
+                "sequence": 3,
+                "home_points": 0,
+                "away_points": 9
+              },
+              {
+                "period_type": "quarter",
+                "id": "ffd5aad0-4f2e-4c42-ab4f-8194d99fcf38",
+                "number": 4,
+                "sequence": 4,
+                "home_points": 14,
+                "away_points": 0
+              }
+            ]
+          }
+        },
+        {
+          "id": "dd1e0456-d727-40b9-83a3-a73254f0abe8",
+          "status": "closed",
+          "scheduled": "2025-04-19T23:00:00+00:00",
+          "entry_mode": "LDE",
+          "sr_id": "sr:match:56857953",
+          "game_type": "regular",
+          "conference_game": true,
+          "duration": "3:04",
+          "venue": {
+            "id": "257705c0-c93d-11ef-9d58-ed7e1297e3fd",
+            "name": "TDECU Stadium",
+            "city": "Houston",
+            "state": "TX",
+            "country": "USA",
+            "zip": "77004",
+            "address": "3874 Holman Street",
+            "capacity": 40000,
+            "surface": "artificial",
+            "roof_type": "outdoor",
+            "sr_id": "sr:venue:81597",
+            "location": {
+              "lat": "29.721945",
+              "lng": "-95.349167"
+            }
+          },
+          "home": {
+            "id": "42b04b80-9676-11ec-9ad0-d3ebe46bbb12",
+            "name": "Houston Roughnecks",
+            "alias": "HOU",
+            "game_number": 4,
+            "sr_id": "sr:competitor:882411"
+          },
+          "away": {
+            "id": "f4305130-9675-11ec-8570-4594a07130f0",
+            "name": "Birmingham Stallions",
+            "alias": "BHM",
+            "game_number": 4,
+            "sr_id": "sr:competitor:882409"
+          },
+          "broadcast": {
+            "network": "FOX"
+          },
+          "time_zones": {
+            "venue": "US/Central",
+            "home": "US/Central",
+            "away": "US/Central"
+          },
+          "weather": {
+            "condition": "Haze",
+            "humidity": 74,
+            "temp": 79,
+            "wind": {
+              "speed": 15,
+              "direction": "SSE"
+            }
+          },
+          "scoring": {
+            "home_points": 16,
+            "away_points": 23,
+            "periods": [
+              {
+                "period_type": "quarter",
+                "id": "8d96e22d-eef5-4555-a9d9-accb9678cf3b",
+                "number": 1,
+                "sequence": 1,
+                "home_points": 0,
+                "away_points": 3
+              },
+              {
+                "period_type": "quarter",
+                "id": "64db9f97-52ad-4c76-a48f-98b608eeb05d",
+                "number": 2,
+                "sequence": 2,
+                "home_points": 10,
+                "away_points": 14
+              },
+              {
+                "period_type": "quarter",
+                "id": "a9a0a0d6-05e3-4a77-9d22-df1073b4d706",
+                "number": 3,
+                "sequence": 3,
+                "home_points": 6,
+                "away_points": 0
+              },
+              {
+                "period_type": "quarter",
+                "id": "be335112-f2de-4591-b144-bb35f309ccaf",
+                "number": 4,
+                "sequence": 4,
+                "home_points": 0,
+                "away_points": 6
+              }
+            ]
+          }
+        },
+        {
+          "id": "ad57a53f-6b2d-4e9f-bf7d-4b234c605aff",
+          "status": "closed",
+          "scheduled": "2025-04-20T21:00:00+00:00",
+          "entry_mode": "LDE",
+          "sr_id": "sr:match:56857955",
+          "game_type": "regular",
+          "conference_game": true,
+          "duration": "3:11",
+          "venue": {
+            "id": "59e88b40-c046-11ee-9772-5f005754c5a2",
+            "name": "Audi Field",
+            "city": "Washington",
+            "state": "DC",
+            "country": "USA",
+            "zip": "20024",
+            "address": "100 Potomac Avenue SQ",
+            "capacity": 20000,
+            "surface": "turf",
+            "roof_type": "outdoor",
+            "sr_id": "sr:venue:27207",
+            "location": {
+              "lat": "38.8689",
+              "lng": "-77.0129"
+            }
+          },
+          "home": {
+            "id": "a3407150-c045-11ee-b66f-5d382d09dbaf",
+            "name": "DC Defenders",
+            "alias": "DC",
+            "game_number": 4,
+            "sr_id": "sr:competitor:661851"
+          },
+          "away": {
+            "id": "b7951020-c045-11ee-ad92-cf16c0a8aa31",
+            "name": "San Antonio Brahmas",
+            "alias": "SA",
+            "game_number": 4,
+            "sr_id": "sr:competitor:978099"
+          },
+          "broadcast": {
+            "network": "FOX"
+          },
+          "time_zones": {
+            "venue": "US/Eastern",
+            "home": "US/Eastern",
+            "away": "US/Central"
+          },
+          "weather": {
+            "condition": "Overcast",
+            "humidity": 42,
+            "temp": 70,
+            "wind": {
+              "speed": 6,
+              "direction": "E"
+            }
+          },
+          "scoring": {
+            "home_points": 18,
+            "away_points": 24,
+            "periods": [
+              {
+                "period_type": "quarter",
+                "id": "cbb5eca7-56d3-4159-9f8f-a95c11c5979c",
+                "number": 1,
+                "sequence": 1,
+                "home_points": 0,
+                "away_points": 12
+              },
+              {
+                "period_type": "quarter",
+                "id": "54ccc3e4-a2b9-49b2-afd4-2b2ae5868934",
+                "number": 2,
+                "sequence": 2,
+                "home_points": 12,
+                "away_points": 6
+              },
+              {
+                "period_type": "quarter",
+                "id": "c8a59a9d-1e4b-414c-aaae-759e97962c00",
+                "number": 3,
+                "sequence": 3,
+                "home_points": 6,
+                "away_points": 6
+              },
+              {
+                "period_type": "quarter",
+                "id": "467277ac-79e2-458f-ad38-488db727c990",
+                "number": 4,
+                "sequence": 4,
+                "home_points": 0,
+                "away_points": 0
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "c778a392-e88b-4195-9a8e-215648d08f9e",
+      "sequence": 5,
+      "title": "5",
+      "games": [
+        {
+          "id": "727efc10-28f7-456c-b083-7950d33057f0",
+          "status": "closed",
+          "scheduled": "2025-04-26T00:00:00+00:00",
+          "entry_mode": "LDE",
+          "sr_id": "sr:match:56857961",
+          "game_type": "regular",
+          "conference_game": true,
+          "duration": "3:14",
+          "venue": {
+            "id": "b1f3fd20-90f4-11ec-bf38-efe8ff3d0b79",
+            "name": "Protective Stadium",
+            "city": "Birmingham",
+            "state": "AL",
+            "country": "USA",
+            "zip": "35203",
+            "address": "1020 24th St N",
+            "capacity": 47100,
+            "surface": "artificial",
+            "roof_type": "outdoor",
+            "sr_id": "sr:venue:58724",
+            "location": {
+              "lat": "33.5278",
+              "lng": "-86.8092"
+            }
+          },
+          "home": {
+            "id": "f4305130-9675-11ec-8570-4594a07130f0",
+            "name": "Birmingham Stallions",
+            "alias": "BHM",
+            "game_number": 5,
+            "sr_id": "sr:competitor:882409"
+          },
+          "away": {
+            "id": "b88f3e30-66c1-11ed-bbea-376dc2cc7dc0",
+            "name": "Memphis Showboats",
+            "alias": "MEM",
+            "game_number": 5,
+            "sr_id": "sr:competitor:982997"
+          },
+          "broadcast": {
+            "network": "FOX"
+          },
+          "time_zones": {
+            "venue": "US/Central",
+            "home": "US/Central",
+            "away": "US/Central"
+          },
+          "weather": {
+            "condition": "Overcast",
+            "humidity": 90,
+            "temp": 69,
+            "wind": {
+              "speed": 5,
+              "direction": "SW"
+            }
+          },
+          "scoring": {
+            "home_points": 20,
+            "away_points": 24,
+            "periods": [
+              {
+                "period_type": "quarter",
+                "id": "7c9e4ba7-21f6-4943-86ed-46bb35aad204",
+                "number": 1,
+                "sequence": 1,
+                "home_points": 0,
+                "away_points": 11
+              },
+              {
+                "period_type": "quarter",
+                "id": "c45a63c3-3ba6-4873-9051-ef56ba280064",
+                "number": 2,
+                "sequence": 2,
+                "home_points": 3,
+                "away_points": 6
+              },
+              {
+                "period_type": "quarter",
+                "id": "75ba8cd9-63d0-46dd-8e6a-2b5540901618",
+                "number": 3,
+                "sequence": 3,
+                "home_points": 6,
+                "away_points": 0
+              },
+              {
+                "period_type": "quarter",
+                "id": "7c7fc338-e4ce-4647-82ac-f69e1a33c3cc",
+                "number": 4,
+                "sequence": 4,
+                "home_points": 11,
+                "away_points": 3
+              },
+              {
+                "period_type": "overtime",
+                "id": "972337f5-4b72-4ef7-a4d0-290bd9d531ed",
+                "number": 1,
+                "sequence": 5,
+                "home_points": 0,
+                "away_points": 4
+              }
+            ]
+          }
+        },
+        {
+          "id": "f12ea791-e5fc-4b9a-b6f5-bfc870ef6c4e",
+          "status": "closed",
+          "scheduled": "2025-04-26T23:00:00+00:00",
+          "entry_mode": "LDE",
+          "sr_id": "sr:match:56874881",
+          "game_type": "regular",
+          "conference_game": false,
+          "duration": "2:56",
+          "venue": {
+            "id": "582c0e30-c046-11ee-8baf-e746db70974a",
+            "name": "The Dome at America's Center",
+            "city": "St. Louis",
+            "state": "MO",
+            "country": "USA",
+            "zip": "63101",
+            "address": "701 Convention Plaza",
+            "capacity": 67277,
+            "surface": "artificial",
+            "roof_type": "dome",
+            "sr_id": "sr:venue:8203",
+            "location": {
+              "lat": "38.6328",
+              "lng": "-90.1885"
+            }
+          },
+          "home": {
+            "id": "d4799bc0-c045-11ee-ad92-cf16c0a8aa31",
+            "name": "St. Louis Battlehawks",
+            "alias": "STL",
+            "game_number": 5,
+            "sr_id": "sr:competitor:661855"
+          },
+          "away": {
+            "id": "8bcdfcd0-9677-11ec-9ad0-d3ebe46bbb12",
+            "name": "Michigan Panthers",
+            "alias": "MICH",
+            "game_number": 5,
+            "sr_id": "sr:competitor:882417"
+          },
+          "broadcast": {
+            "network": "ESPN",
+            "satellite": "206"
+          },
+          "time_zones": {
+            "venue": "US/Central",
+            "home": "US/Central",
+            "away": "US/Eastern"
+          },
+          "weather": {
+            "condition": "Partly cloudy",
+            "humidity": 56,
+            "temp": 62,
+            "wind": {
+              "speed": 8,
+              "direction": "ENE"
+            }
+          },
+          "scoring": {
+            "home_points": 32,
+            "away_points": 27,
+            "periods": [
+              {
+                "period_type": "quarter",
+                "id": "9f4a6c8d-82a6-430f-aaa0-6f281834ee33",
+                "number": 1,
+                "sequence": 1,
+                "home_points": 3,
+                "away_points": 6
+              },
+              {
+                "period_type": "quarter",
+                "id": "876de8ab-f596-4f78-9a5a-8cc88cfce4b4",
+                "number": 2,
+                "sequence": 2,
+                "home_points": 14,
+                "away_points": 0
+              },
+              {
+                "period_type": "quarter",
+                "id": "4a4c71de-86ac-4344-b4ec-d1fdf9858bf0",
+                "number": 3,
+                "sequence": 3,
+                "home_points": 3,
+                "away_points": 8
+              },
+              {
+                "period_type": "quarter",
+                "id": "e7f1095d-723f-460b-bbd5-0f01a8fa6e48",
+                "number": 4,
+                "sequence": 4,
+                "home_points": 12,
+                "away_points": 13
+              }
+            ]
+          }
+        },
+        {
+          "id": "c3e7f8d0-fb45-43ff-b10c-33703eefa6e0",
+          "status": "closed",
+          "scheduled": "2025-04-27T16:00:00+00:00",
+          "entry_mode": "LDE",
+          "sr_id": "sr:match:56857963",
+          "game_type": "regular",
+          "conference_game": true,
+          "duration": "3:16",
+          "venue": {
+            "id": "119efd60-c046-11ee-8baf-e746db70974a",
+            "name": "Choctaw Stadium",
+            "city": "Arlington",
+            "state": "TX",
+            "country": "USA",
+            "zip": "76011",
+            "address": "1000 Ballpark Way",
+            "capacity": 25000,
+            "surface": "turf",
+            "roof_type": "outdoor",
+            "sr_id": "sr:venue:52669",
+            "location": {
+              "lat": "32.7510",
+              "lng": "-97.0830"
+            }
+          },
+          "home": {
+            "id": "38355600-c045-11ee-8037-85feac748e1f",
+            "name": "Arlington Renegades",
+            "alias": "ARL",
+            "game_number": 5,
+            "sr_id": "sr:competitor:661843"
+          },
+          "away": {
+            "id": "a3407150-c045-11ee-b66f-5d382d09dbaf",
+            "name": "DC Defenders",
+            "alias": "DC",
+            "game_number": 5,
+            "sr_id": "sr:competitor:661851"
+          },
+          "broadcast": {
+            "network": "ESPN",
+            "satellite": "206"
+          },
+          "time_zones": {
+            "venue": "US/Central",
+            "home": "US/Central",
+            "away": "US/Eastern"
+          },
+          "weather": {
+            "condition": "Overcast",
+            "humidity": 73,
+            "temp": 75,
+            "wind": {
+              "speed": 11,
+              "direction": "S"
+            }
+          },
+          "scoring": {
+            "home_points": 33,
+            "away_points": 37,
+            "periods": [
+              {
+                "period_type": "quarter",
+                "id": "67f3fe51-4c37-4aff-9248-e6d86c94f0b1",
+                "number": 1,
+                "sequence": 1,
+                "home_points": 11,
+                "away_points": 0
+              },
+              {
+                "period_type": "quarter",
+                "id": "f5f74203-3308-4490-a977-7945595e35b0",
+                "number": 2,
+                "sequence": 2,
+                "home_points": 16,
+                "away_points": 15
+              },
+              {
+                "period_type": "quarter",
+                "id": "2287de64-353b-4114-b533-3a62a2e59989",
+                "number": 3,
+                "sequence": 3,
+                "home_points": 3,
+                "away_points": 7
+              },
+              {
+                "period_type": "quarter",
+                "id": "a5124495-dacb-4951-b7e6-2fa8954a6071",
+                "number": 4,
+                "sequence": 4,
+                "home_points": 3,
+                "away_points": 15
+              }
+            ]
+          }
+        },
+        {
+          "id": "c8765af4-cfec-4d2b-a7d5-838933256e39",
+          "status": "closed",
+          "scheduled": "2025-04-27T19:00:00+00:00",
+          "entry_mode": "LDE",
+          "sr_id": "sr:match:56874885",
+          "game_type": "regular",
+          "conference_game": false,
+          "duration": "2:45",
+          "venue": {
+            "id": "8124cb60-c046-11ee-9772-5f005754c5a2",
+            "name": "Alamodome",
+            "city": "San Antonio",
+            "state": "TX",
+            "country": "USA",
+            "zip": "78203",
+            "address": "100 Montana Street",
+            "capacity": 64000,
+            "surface": "artificial",
+            "roof_type": "dome",
+            "sr_id": "sr:venue:17734",
+            "location": {
+              "lat": "29.4170",
+              "lng": "-98.4788"
+            }
+          },
+          "home": {
+            "id": "b7951020-c045-11ee-ad92-cf16c0a8aa31",
+            "name": "San Antonio Brahmas",
+            "alias": "SA",
+            "game_number": 5,
+            "sr_id": "sr:competitor:978099"
+          },
+          "away": {
+            "id": "42b04b80-9676-11ec-9ad0-d3ebe46bbb12",
+            "name": "Houston Roughnecks",
+            "alias": "HOU",
+            "game_number": 5,
+            "sr_id": "sr:competitor:882411"
+          },
+          "broadcast": {
+            "network": "ESPN",
+            "satellite": "206"
+          },
+          "time_zones": {
+            "venue": "US/Central",
+            "home": "US/Central",
+            "away": "US/Central"
+          },
+          "weather": {
+            "condition": "Partly cloudy",
+            "humidity": 57,
+            "temp": 83,
+            "wind": {
+              "speed": 14,
+              "direction": "SSE"
+            }
+          },
+          "scoring": {
+            "home_points": 3,
+            "away_points": 27,
+            "periods": [
+              {
+                "period_type": "quarter",
+                "id": "05101ca6-ec9d-48be-ae0d-c6feb3bdaef9",
+                "number": 1,
+                "sequence": 1,
+                "home_points": 0,
+                "away_points": 3
+              },
+              {
+                "period_type": "quarter",
+                "id": "bd086185-c7d7-4df5-933f-cb97a159c744",
+                "number": 2,
+                "sequence": 2,
+                "home_points": 0,
+                "away_points": 9
+              },
+              {
+                "period_type": "quarter",
+                "id": "db847f77-cba6-4eae-93f5-0bb630ebb219",
+                "number": 3,
+                "sequence": 3,
+                "home_points": 3,
+                "away_points": 6
+              },
+              {
+                "period_type": "quarter",
+                "id": "b91b6439-2054-4c67-9340-9ee94d043b5f",
+                "number": 4,
+                "sequence": 4,
+                "home_points": 0,
+                "away_points": 9
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "4758b9e4-4857-44dd-8a09-00511c044e04",
+      "sequence": 6,
+      "title": "6",
+      "games": [
+        {
+          "id": "51ff917f-0721-457e-99f0-c044a110c48b",
+          "status": "closed",
+          "scheduled": "2025-05-03T00:00:00+00:00",
+          "entry_mode": "LDE",
+          "sr_id": "sr:match:56857967",
+          "game_type": "regular",
+          "conference_game": true,
+          "duration": "2:58",
+          "venue": {
+            "id": "582c0e30-c046-11ee-8baf-e746db70974a",
+            "name": "The Dome at America's Center",
+            "city": "St. Louis",
+            "state": "MO",
+            "country": "USA",
+            "zip": "63101",
+            "address": "701 Convention Plaza",
+            "capacity": 67277,
+            "surface": "artificial",
+            "roof_type": "dome",
+            "sr_id": "sr:venue:8203",
+            "location": {
+              "lat": "38.6328",
+              "lng": "-90.1885"
+            }
+          },
+          "home": {
+            "id": "d4799bc0-c045-11ee-ad92-cf16c0a8aa31",
+            "name": "St. Louis Battlehawks",
+            "alias": "STL",
+            "game_number": 6,
+            "sr_id": "sr:competitor:661855"
+          },
+          "away": {
+            "id": "38355600-c045-11ee-8037-85feac748e1f",
+            "name": "Arlington Renegades",
+            "alias": "ARL",
+            "game_number": 6,
+            "sr_id": "sr:competitor:661843"
+          },
+          "broadcast": {
+            "network": "FOX"
+          },
+          "time_zones": {
+            "venue": "US/Central",
+            "home": "US/Central",
+            "away": "US/Central"
+          },
+          "weather": {
+            "condition": "Sunny",
+            "humidity": 63,
+            "temp": 64,
+            "wind": {
+              "speed": 3,
+              "direction": "WSW"
+            }
+          },
+          "scoring": {
+            "home_points": 12,
+            "away_points": 6,
+            "periods": [
+              {
+                "period_type": "quarter",
+                "id": "e101e190-ac5d-4e9f-a415-58a86d6bb432",
+                "number": 1,
+                "sequence": 1,
+                "home_points": 0,
+                "away_points": 0
+              },
+              {
+                "period_type": "quarter",
+                "id": "b272ddf1-e6f9-42f8-8ebb-2e691f417b30",
+                "number": 2,
+                "sequence": 2,
+                "home_points": 9,
+                "away_points": 0
+              },
+              {
+                "period_type": "quarter",
+                "id": "cf42fbf0-2ec7-4393-9a77-0b81f552af7c",
+                "number": 3,
+                "sequence": 3,
+                "home_points": 0,
+                "away_points": 0
+              },
+              {
+                "period_type": "quarter",
+                "id": "1904734b-27ed-4734-8efc-775700b84915",
+                "number": 4,
+                "sequence": 4,
+                "home_points": 3,
+                "away_points": 6
+              }
+            ]
+          }
+        },
+        {
+          "id": "0fcc07ee-6a07-40ac-bd8e-5bce00783d15",
+          "status": "closed",
+          "scheduled": "2025-05-03T16:00:00+00:00",
+          "entry_mode": "LDE",
+          "sr_id": "sr:match:56857969",
+          "game_type": "regular",
+          "conference_game": true,
+          "duration": "3:04",
+          "venue": {
+            "id": "257705c0-c93d-11ef-9d58-ed7e1297e3fd",
+            "name": "TDECU Stadium",
+            "city": "Houston",
+            "state": "TX",
+            "country": "USA",
+            "zip": "77004",
+            "address": "3874 Holman Street",
+            "capacity": 40000,
+            "surface": "artificial",
+            "roof_type": "outdoor",
+            "sr_id": "sr:venue:81597",
+            "location": {
+              "lat": "29.721945",
+              "lng": "-95.349167"
+            }
+          },
+          "home": {
+            "id": "42b04b80-9676-11ec-9ad0-d3ebe46bbb12",
+            "name": "Houston Roughnecks",
+            "alias": "HOU",
+            "game_number": 6,
+            "sr_id": "sr:competitor:882411"
+          },
+          "away": {
+            "id": "b88f3e30-66c1-11ed-bbea-376dc2cc7dc0",
+            "name": "Memphis Showboats",
+            "alias": "MEM",
+            "game_number": 6,
+            "sr_id": "sr:competitor:982997"
+          },
+          "broadcast": {
+            "network": "ABC"
+          },
+          "time_zones": {
+            "venue": "US/Central",
+            "home": "US/Central",
+            "away": "US/Central"
+          },
+          "weather": {
+            "condition": "Overcast ",
+            "humidity": 64,
+            "temp": 70,
+            "wind": {
+              "speed": 11,
+              "direction": "NNE"
+            }
+          },
+          "scoring": {
+            "home_points": 21,
+            "away_points": 20,
+            "periods": [
+              {
+                "period_type": "quarter",
+                "id": "4bed26d1-6521-4478-acd6-0a95fad4aeba",
+                "number": 1,
+                "sequence": 1,
+                "home_points": 7,
+                "away_points": 0
+              },
+              {
+                "period_type": "quarter",
+                "id": "22595f5f-fba4-45b9-88cb-215149ccd3be",
+                "number": 2,
+                "sequence": 2,
+                "home_points": 3,
+                "away_points": 14
+              },
+              {
+                "period_type": "quarter",
+                "id": "88221e30-3b37-49ef-8333-94b4fae1ec29",
+                "number": 3,
+                "sequence": 3,
+                "home_points": 11,
+                "away_points": 0
+              },
+              {
+                "period_type": "quarter",
+                "id": "52c84f29-c179-4f0a-b5d3-550f5acf374d",
+                "number": 4,
+                "sequence": 4,
+                "home_points": 0,
+                "away_points": 6
+              }
+            ]
+          }
+        },
+        {
+          "id": "123d8c11-49a5-4e57-bf7c-ee719ca08c19",
+          "status": "closed",
+          "scheduled": "2025-05-04T16:00:00+00:00",
+          "entry_mode": "LDE",
+          "sr_id": "sr:match:56857971",
+          "game_type": "regular",
+          "conference_game": false,
+          "duration": "2:52",
+          "venue": {
+            "id": "cffc6a20-9d94-11ed-8c02-458a555ebdac",
+            "name": "Ford Field",
+            "city": "Detroit",
+            "state": "MI",
+            "country": "USA",
+            "zip": "48226",
+            "address": "2000 Brush Street",
+            "capacity": 65000,
+            "surface": "artificial",
+            "roof_type": "dome",
+            "sr_id": "sr:venue:8181",
+            "location": {
+              "lat": "42.3400",
+              "lng": "-83.0456"
+            }
+          },
+          "home": {
+            "id": "8bcdfcd0-9677-11ec-9ad0-d3ebe46bbb12",
+            "name": "Michigan Panthers",
+            "alias": "MICH",
+            "game_number": 6,
+            "sr_id": "sr:competitor:882417"
+          },
+          "away": {
+            "id": "a3407150-c045-11ee-b66f-5d382d09dbaf",
+            "name": "DC Defenders",
+            "alias": "DC",
+            "game_number": 6,
+            "sr_id": "sr:competitor:661851"
+          },
+          "broadcast": {
+            "network": "ESPN",
+            "satellite": "206"
+          },
+          "time_zones": {
+            "venue": "US/Eastern",
+            "home": "US/Eastern",
+            "away": "US/Eastern"
+          },
+          "weather": {
+            "condition": "Overcast",
+            "humidity": 63,
+            "temp": 52,
+            "wind": {
+              "speed": 13,
+              "direction": "NE"
+            }
+          },
+          "scoring": {
+            "home_points": 38,
+            "away_points": 14,
+            "periods": [
+              {
+                "period_type": "quarter",
+                "id": "bb3a182b-ed56-45dc-9474-0cdc845bb15d",
+                "number": 1,
+                "sequence": 1,
+                "home_points": 7,
+                "away_points": 0
+              },
+              {
+                "period_type": "quarter",
+                "id": "6ca6d574-6978-468d-a014-0f41d3df7bb0",
+                "number": 2,
+                "sequence": 2,
+                "home_points": 10,
+                "away_points": 6
+              },
+              {
+                "period_type": "quarter",
+                "id": "8024b23d-7485-423a-802d-04e92f72240a",
+                "number": 3,
+                "sequence": 3,
+                "home_points": 13,
+                "away_points": 8
+              },
+              {
+                "period_type": "quarter",
+                "id": "c5e7ba6b-6462-4ded-b9fc-649ed1ee2789",
+                "number": 4,
+                "sequence": 4,
+                "home_points": 8,
+                "away_points": 0
+              }
+            ]
+          }
+        },
+        {
+          "id": "4e1e5099-bdae-45c2-9920-8c940d2b4a75",
+          "status": "closed",
+          "scheduled": "2025-05-04T20:00:00+00:00",
+          "entry_mode": "LDE",
+          "sr_id": "sr:match:56857973",
+          "game_type": "regular",
+          "conference_game": false,
+          "duration": "3:01",
+          "venue": {
+            "id": "b1f3fd20-90f4-11ec-bf38-efe8ff3d0b79",
+            "name": "Protective Stadium",
+            "city": "Birmingham",
+            "state": "AL",
+            "country": "USA",
+            "zip": "35203",
+            "address": "1020 24th St N",
+            "capacity": 47100,
+            "surface": "artificial",
+            "roof_type": "outdoor",
+            "sr_id": "sr:venue:58724",
+            "location": {
+              "lat": "33.5278",
+              "lng": "-86.8092"
+            }
+          },
+          "home": {
+            "id": "f4305130-9675-11ec-8570-4594a07130f0",
+            "name": "Birmingham Stallions",
+            "alias": "BHM",
+            "game_number": 6,
+            "sr_id": "sr:competitor:882409"
+          },
+          "away": {
+            "id": "b7951020-c045-11ee-ad92-cf16c0a8aa31",
+            "name": "San Antonio Brahmas",
+            "alias": "SA",
+            "game_number": 6,
+            "sr_id": "sr:competitor:978099"
+          },
+          "broadcast": {
+            "network": "FOX"
+          },
+          "time_zones": {
+            "venue": "US/Central",
+            "home": "US/Central",
+            "away": "US/Central"
+          },
+          "weather": {
+            "condition": "Partly cloudy",
+            "humidity": 54,
+            "temp": 65,
+            "wind": {
+              "speed": 9,
+              "direction": "NW"
+            }
+          },
+          "scoring": {
+            "home_points": 26,
+            "away_points": 3,
+            "periods": [
+              {
+                "period_type": "quarter",
+                "id": "6c387dcd-e2ec-47b9-8a1c-6abe918b3594",
+                "number": 1,
+                "sequence": 1,
+                "home_points": 6,
+                "away_points": 0
+              },
+              {
+                "period_type": "quarter",
+                "id": "2e643956-2ae4-42ff-bee2-a0d2b15dfb9e",
+                "number": 2,
+                "sequence": 2,
+                "home_points": 6,
+                "away_points": 3
+              },
+              {
+                "period_type": "quarter",
+                "id": "6debedc7-5602-46ab-b5d6-032085fd645e",
+                "number": 3,
+                "sequence": 3,
+                "home_points": 6,
+                "away_points": 0
+              },
+              {
+                "period_type": "quarter",
+                "id": "2fe79c6a-5777-47a1-bb8a-f097cdc03555",
+                "number": 4,
+                "sequence": 4,
+                "home_points": 8,
+                "away_points": 0
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "0041424c-81b4-40ca-ac4e-2b2cf29e570a",
+      "sequence": 7,
+      "title": "7",
+      "games": [
+        {
+          "id": "ae366b77-339e-4791-8f27-c03a15340397",
+          "status": "closed",
+          "scheduled": "2025-05-10T00:00:00+00:00",
+          "entry_mode": "LDE",
+          "sr_id": "sr:match:56857975",
+          "game_type": "regular",
+          "conference_game": true,
+          "venue": {
+            "id": "8124cb60-c046-11ee-9772-5f005754c5a2",
+            "name": "Alamodome",
+            "city": "San Antonio",
+            "state": "TX",
+            "country": "USA",
+            "zip": "78203",
+            "address": "100 Montana Street",
+            "capacity": 64000,
+            "surface": "artificial",
+            "roof_type": "dome",
+            "sr_id": "sr:venue:17734",
+            "location": {
+              "lat": "29.4170",
+              "lng": "-98.4788"
+            }
+          },
+          "home": {
+            "id": "b7951020-c045-11ee-ad92-cf16c0a8aa31",
+            "name": "San Antonio Brahmas",
+            "alias": "SA",
+            "game_number": 7,
+            "sr_id": "sr:competitor:978099"
+          },
+          "away": {
+            "id": "a3407150-c045-11ee-b66f-5d382d09dbaf",
+            "name": "DC Defenders",
+            "alias": "DC",
+            "game_number": 7,
+            "sr_id": "sr:competitor:661851"
+          },
+          "broadcast": {
+            "network": "FOX"
+          },
+          "time_zones": {
+            "venue": "US/Central",
+            "home": "US/Central",
+            "away": "US/Eastern"
+          },
+          "weather": {
+            "condition": "Partly cloudy",
+            "humidity": 29,
+            "temp": 87,
+            "wind": {
+              "speed": 17,
+              "direction": "N"
+            }
+          },
+          "scoring": {
+            "home_points": 24,
+            "away_points": 32,
+            "periods": [
+              {
+                "period_type": "quarter",
+                "id": "3bdac21b-f155-4a77-8290-c1ce01956bb3",
+                "number": 1,
+                "sequence": 1,
+                "home_points": 0,
+                "away_points": 6
+              },
+              {
+                "period_type": "quarter",
+                "id": "46de758e-c3b3-4198-8363-24c3c5561524",
+                "number": 2,
+                "sequence": 2,
+                "home_points": 12,
+                "away_points": 6
+              },
+              {
+                "period_type": "quarter",
+                "id": "f50bf334-125c-47e8-b13e-b2cbca0bacc7",
+                "number": 3,
+                "sequence": 3,
+                "home_points": 6,
+                "away_points": 7
+              },
+              {
+                "period_type": "quarter",
+                "id": "a4796ed3-40ca-44db-a9ac-7ce30aad7445",
+                "number": 4,
+                "sequence": 4,
+                "home_points": 6,
+                "away_points": 13
+              }
+            ]
+          }
+        },
+        {
+          "id": "a2085b84-0ec3-4221-827d-757dfd7180db",
+          "status": "closed",
+          "scheduled": "2025-05-10T17:00:00+00:00",
+          "entry_mode": "LDE",
+          "sr_id": "sr:match:56857977",
+          "game_type": "regular",
+          "conference_game": false,
+          "duration": "3:03",
+          "venue": {
+            "id": "119efd60-c046-11ee-8baf-e746db70974a",
+            "name": "Choctaw Stadium",
+            "city": "Arlington",
+            "state": "TX",
+            "country": "USA",
+            "zip": "76011",
+            "address": "1000 Ballpark Way",
+            "capacity": 25000,
+            "surface": "turf",
+            "roof_type": "outdoor",
+            "sr_id": "sr:venue:52669",
+            "location": {
+              "lat": "32.7510",
+              "lng": "-97.0830"
+            }
+          },
+          "home": {
+            "id": "38355600-c045-11ee-8037-85feac748e1f",
+            "name": "Arlington Renegades",
+            "alias": "ARL",
+            "game_number": 7,
+            "sr_id": "sr:competitor:661843"
+          },
+          "away": {
+            "id": "8bcdfcd0-9677-11ec-9ad0-d3ebe46bbb12",
+            "name": "Michigan Panthers",
+            "alias": "MICH",
+            "game_number": 7,
+            "sr_id": "sr:competitor:882417"
+          },
+          "broadcast": {
+            "network": "FOX"
+          },
+          "time_zones": {
+            "venue": "US/Central",
+            "home": "US/Central",
+            "away": "US/Eastern"
+          },
+          "weather": {
+            "condition": "Sunny",
+            "humidity": 55,
+            "temp": 74,
+            "wind": {
+              "speed": 8,
+              "direction": "NNE"
+            }
+          },
+          "scoring": {
+            "home_points": 24,
+            "away_points": 25,
+            "periods": [
+              {
+                "period_type": "quarter",
+                "id": "e5566f4e-1681-46f9-a3c3-8e7ce9185e98",
+                "number": 1,
+                "sequence": 1,
+                "home_points": 3,
+                "away_points": 0
+              },
+              {
+                "period_type": "quarter",
+                "id": "398cbcb7-f633-4d57-bd9b-97acf66fea09",
+                "number": 2,
+                "sequence": 2,
+                "home_points": 3,
+                "away_points": 9
+              },
+              {
+                "period_type": "quarter",
+                "id": "697b095b-d21b-4f10-9c8b-77bda6ec4f9c",
+                "number": 3,
+                "sequence": 3,
+                "home_points": 6,
+                "away_points": 0
+              },
+              {
+                "period_type": "quarter",
+                "id": "c7d732be-5e75-429c-ba68-c9d33a13ccfa",
+                "number": 4,
+                "sequence": 4,
+                "home_points": 12,
+                "away_points": 16
+              }
+            ]
+          }
+        },
+        {
+          "id": "972af1a1-c55d-448a-a740-5a87d48e309d",
+          "status": "closed",
+          "scheduled": "2025-05-11T16:00:00+00:00",
+          "entry_mode": "LDE",
+          "sr_id": "sr:match:56857979",
+          "game_type": "regular",
+          "conference_game": true,
+          "venue": {
+            "id": "b1f3fd20-90f4-11ec-bf38-efe8ff3d0b79",
+            "name": "Protective Stadium",
+            "city": "Birmingham",
+            "state": "AL",
+            "country": "USA",
+            "zip": "35203",
+            "address": "1020 24th St N",
+            "capacity": 47100,
+            "surface": "artificial",
+            "roof_type": "outdoor",
+            "sr_id": "sr:venue:58724",
+            "location": {
+              "lat": "33.5278",
+              "lng": "-86.8092"
+            }
+          },
+          "home": {
+            "id": "f4305130-9675-11ec-8570-4594a07130f0",
+            "name": "Birmingham Stallions",
+            "alias": "BHM",
+            "game_number": 7,
+            "sr_id": "sr:competitor:882409"
+          },
+          "away": {
+            "id": "42b04b80-9676-11ec-9ad0-d3ebe46bbb12",
+            "name": "Houston Roughnecks",
+            "alias": "HOU",
+            "game_number": 7,
+            "sr_id": "sr:competitor:882411"
+          },
+          "broadcast": {
+            "network": "ABC"
+          },
+          "time_zones": {
+            "venue": "US/Central",
+            "home": "US/Central",
+            "away": "US/Central"
+          },
+          "weather": {
+            "condition": "Overcast",
+            "humidity": 87,
+            "temp": 65,
+            "wind": {
+              "speed": 10,
+              "direction": "ESE"
+            }
+          },
+          "scoring": {
+            "home_points": 33,
+            "away_points": 25,
+            "periods": [
+              {
+                "period_type": "quarter",
+                "id": "f232c857-99d0-4aed-9ce0-2b375b3e9fa3",
+                "number": 1,
+                "sequence": 1,
+                "home_points": 6,
+                "away_points": 18
+              },
+              {
+                "period_type": "quarter",
+                "id": "a51de2a6-e16b-4c01-a25b-aebbe232d33c",
+                "number": 2,
+                "sequence": 2,
+                "home_points": 6,
+                "away_points": 7
+              },
+              {
+                "period_type": "quarter",
+                "id": "dc9317c3-b63f-4db8-8c90-9c7db57965de",
+                "number": 3,
+                "sequence": 3,
+                "home_points": 6,
+                "away_points": 0
+              },
+              {
+                "period_type": "quarter",
+                "id": "7c5c8d72-41ef-4597-9f4f-f4328a93f00b",
+                "number": 4,
+                "sequence": 4,
+                "home_points": 15,
+                "away_points": 0
+              }
+            ]
+          }
+        },
+        {
+          "id": "8e63d419-0d54-4fb4-8853-7d75c2c63439",
+          "status": "closed",
+          "scheduled": "2025-05-11T19:00:00+00:00",
+          "entry_mode": "LDE",
+          "sr_id": "sr:match:56857981",
+          "game_type": "regular",
+          "conference_game": false,
+          "venue": {
+            "id": "cbdfea20-65c7-11ed-ba73-2996f7aad028",
+            "name": "Simmons Bank Liberty Stadium",
+            "city": "Memphis",
+            "state": "TN",
+            "country": "USA",
+            "zip": "38104",
+            "address": "335 South Hollywood Street",
+            "capacity": 58325,
+            "surface": "artificial",
+            "roof_type": "outdoor",
+            "sr_id": "sr:venue:21266",
+            "location": {
+              "lat": "35.1211",
+              "lng": "-89.9774"
+            }
+          },
+          "home": {
+            "id": "b88f3e30-66c1-11ed-bbea-376dc2cc7dc0",
+            "name": "Memphis Showboats",
+            "alias": "MEM",
+            "game_number": 7,
+            "sr_id": "sr:competitor:982997"
+          },
+          "away": {
+            "id": "d4799bc0-c045-11ee-ad92-cf16c0a8aa31",
+            "name": "St. Louis Battlehawks",
+            "alias": "STL",
+            "game_number": 7,
+            "sr_id": "sr:competitor:661855"
+          },
+          "broadcast": {
+            "network": "ESPN",
+            "satellite": "206"
+          },
+          "time_zones": {
+            "venue": "US/Central",
+            "home": "US/Central",
+            "away": "US/Central"
+          },
+          "weather": {
+            "condition": "Overcast",
+            "humidity": 81,
+            "temp": 68,
+            "wind": {
+              "speed": 12,
+              "direction": "E"
+            }
+          },
+          "scoring": {
+            "home_points": 9,
+            "away_points": 19,
+            "periods": [
+              {
+                "period_type": "quarter",
+                "id": "ce53c753-e31d-4ac3-bfda-b983664db665",
+                "number": 1,
+                "sequence": 1,
+                "home_points": 0,
+                "away_points": 10
+              },
+              {
+                "period_type": "quarter",
+                "id": "5395dbe7-f0c9-408f-86fe-dbdc0c8491dc",
+                "number": 2,
+                "sequence": 2,
+                "home_points": 6,
+                "away_points": 6
+              },
+              {
+                "period_type": "quarter",
+                "id": "dd412337-fd08-4037-bfc5-54171ab7c6a1",
+                "number": 3,
+                "sequence": 3,
+                "home_points": 3,
+                "away_points": 0
+              },
+              {
+                "period_type": "quarter",
+                "id": "db60b531-e91c-459e-a9fd-3ec73361e993",
+                "number": 4,
+                "sequence": 4,
+                "home_points": 0,
+                "away_points": 3
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "f5cb59e9-1433-4a37-b991-bf64d5cf8007",
+      "sequence": 8,
+      "title": "8",
+      "games": [
+        {
+          "id": "27ff1710-73ce-413a-aaaa-d4601d2461f8",
+          "status": "closed",
+          "scheduled": "2025-05-17T00:00:00+00:00",
+          "entry_mode": "LDE",
+          "sr_id": "sr:match:56857983",
+          "game_type": "regular",
+          "conference_game": false,
+          "duration": "3:08",
+          "venue": {
+            "id": "8124cb60-c046-11ee-9772-5f005754c5a2",
+            "name": "Alamodome",
+            "city": "San Antonio",
+            "state": "TX",
+            "country": "USA",
+            "zip": "78203",
+            "address": "100 Montana Street",
+            "capacity": 64000,
+            "surface": "artificial",
+            "roof_type": "dome",
+            "sr_id": "sr:venue:17734",
+            "location": {
+              "lat": "29.4170",
+              "lng": "-98.4788"
+            }
+          },
+          "home": {
+            "id": "b7951020-c045-11ee-ad92-cf16c0a8aa31",
+            "name": "San Antonio Brahmas",
+            "alias": "SA",
+            "game_number": 8,
+            "sr_id": "sr:competitor:978099"
+          },
+          "away": {
+            "id": "b88f3e30-66c1-11ed-bbea-376dc2cc7dc0",
+            "name": "Memphis Showboats",
+            "alias": "MEM",
+            "game_number": 8,
+            "sr_id": "sr:competitor:982997"
+          },
+          "broadcast": {
+            "network": "FOX"
+          },
+          "time_zones": {
+            "venue": "US/Central",
+            "home": "US/Central",
+            "away": "US/Central"
+          },
+          "weather": {
+            "condition": "Sunny",
+            "humidity": 38,
+            "temp": 98,
+            "wind": {
+              "speed": 12,
+              "direction": "SSE"
+            }
+          },
+          "scoring": {
+            "home_points": 22,
+            "away_points": 24,
+            "periods": [
+              {
+                "period_type": "quarter",
+                "id": "1caebd1f-d602-4feb-b477-7ddfe1367789",
+                "number": 1,
+                "sequence": 1,
+                "home_points": 0,
+                "away_points": 8
+              },
+              {
+                "period_type": "quarter",
+                "id": "0754933a-7d70-4aad-a005-73df234ba52b",
+                "number": 2,
+                "sequence": 2,
+                "home_points": 14,
+                "away_points": 9
+              },
+              {
+                "period_type": "quarter",
+                "id": "8345cbf0-51c5-4de1-8eae-85a42c2c7f65",
+                "number": 3,
+                "sequence": 3,
+                "home_points": 0,
+                "away_points": 3
+              },
+              {
+                "period_type": "quarter",
+                "id": "0f99806e-0f40-482a-bd1a-2c21d32f9bf4",
+                "number": 4,
+                "sequence": 4,
+                "home_points": 6,
+                "away_points": 0
+              },
+              {
+                "period_type": "overtime",
+                "id": "5ad01a70-8fc8-42b4-a7d9-0de59c37fa4d",
+                "number": 1,
+                "sequence": 5,
+                "home_points": 2,
+                "away_points": 4
+              }
+            ]
+          }
+        },
+        {
+          "id": "465ef3a8-929f-4dc8-81af-6fb8954a4ca8",
+          "status": "closed",
+          "scheduled": "2025-05-17T17:00:00+00:00",
+          "entry_mode": "LDE",
+          "sr_id": "sr:match:56857985",
+          "game_type": "regular",
+          "conference_game": false,
+          "duration": "3:20",
+          "venue": {
+            "id": "582c0e30-c046-11ee-8baf-e746db70974a",
+            "name": "The Dome at America's Center",
+            "city": "St. Louis",
+            "state": "MO",
+            "country": "USA",
+            "zip": "63101",
+            "address": "701 Convention Plaza",
+            "capacity": 67277,
+            "surface": "artificial",
+            "roof_type": "dome",
+            "sr_id": "sr:venue:8203",
+            "location": {
+              "lat": "38.6328",
+              "lng": "-90.1885"
+            }
+          },
+          "home": {
+            "id": "d4799bc0-c045-11ee-ad92-cf16c0a8aa31",
+            "name": "St. Louis Battlehawks",
+            "alias": "STL",
+            "game_number": 8,
+            "sr_id": "sr:competitor:661855"
+          },
+          "away": {
+            "id": "f4305130-9675-11ec-8570-4594a07130f0",
+            "name": "Birmingham Stallions",
+            "alias": "BHM",
+            "game_number": 8,
+            "sr_id": "sr:competitor:882409"
+          },
+          "broadcast": {
+            "network": "FOX"
+          },
+          "time_zones": {
+            "venue": "US/Central",
+            "home": "US/Central",
+            "away": "US/Central"
+          },
+          "weather": {
+            "condition": "Sunny",
+            "humidity": 49,
+            "temp": 68,
+            "wind": {
+              "speed": 15,
+              "direction": "WNW"
+            }
+          },
+          "scoring": {
+            "home_points": 29,
+            "away_points": 28,
+            "periods": [
+              {
+                "period_type": "quarter",
+                "id": "2929b63e-8215-4aa6-8fb9-b013b015cdea",
+                "number": 1,
+                "sequence": 1,
+                "home_points": 6,
+                "away_points": 9
+              },
+              {
+                "period_type": "quarter",
+                "id": "adb92727-f6b7-41b9-a99e-b48336a76e0c",
+                "number": 2,
+                "sequence": 2,
+                "home_points": 7,
+                "away_points": 3
+              },
+              {
+                "period_type": "quarter",
+                "id": "b53fd38d-98cc-43bc-bc44-85983764ff94",
+                "number": 3,
+                "sequence": 3,
+                "home_points": 0,
+                "away_points": 9
+              },
+              {
+                "period_type": "quarter",
+                "id": "2c6a905a-a4f7-48c1-b75a-ac44ca379637",
+                "number": 4,
+                "sequence": 4,
+                "home_points": 16,
+                "away_points": 7
+              }
+            ]
+          }
+        },
+        {
+          "id": "1bc1a54f-6d6e-4dc4-956b-e4c6cd8b62ec",
+          "status": "closed",
+          "scheduled": "2025-05-17T17:00:00+00:00",
+          "entry_mode": "LDE",
+          "sr_id": "sr:match:56857987",
+          "game_type": "regular",
+          "conference_game": true,
+          "duration": "2:56",
+          "venue": {
+            "id": "257705c0-c93d-11ef-9d58-ed7e1297e3fd",
+            "name": "TDECU Stadium",
+            "city": "Houston",
+            "state": "TX",
+            "country": "USA",
+            "zip": "77004",
+            "address": "3874 Holman Street",
+            "capacity": 40000,
+            "surface": "artificial",
+            "roof_type": "outdoor",
+            "sr_id": "sr:venue:81597",
+            "location": {
+              "lat": "29.721945",
+              "lng": "-95.349167"
+            }
+          },
+          "home": {
+            "id": "42b04b80-9676-11ec-9ad0-d3ebe46bbb12",
+            "name": "Houston Roughnecks",
+            "alias": "HOU",
+            "game_number": 8,
+            "sr_id": "sr:competitor:882411"
+          },
+          "away": {
+            "id": "8bcdfcd0-9677-11ec-9ad0-d3ebe46bbb12",
+            "name": "Michigan Panthers",
+            "alias": "MICH",
+            "game_number": 8,
+            "sr_id": "sr:competitor:882417"
+          },
+          "broadcast": {
+            "network": "FOX"
+          },
+          "time_zones": {
+            "venue": "US/Central",
+            "home": "US/Central",
+            "away": "US/Eastern"
+          },
+          "weather": {
+            "condition": "Partly cloudy",
+            "humidity": 70,
+            "temp": 85,
+            "wind": {
+              "speed": 10,
+              "direction": "S"
+            }
+          },
+          "scoring": {
+            "home_points": 18,
+            "away_points": 30,
+            "periods": [
+              {
+                "period_type": "quarter",
+                "id": "086a5f2c-2b19-45ab-8b04-064c983f5bce",
+                "number": 1,
+                "sequence": 1,
+                "home_points": 3,
+                "away_points": 7
+              },
+              {
+                "period_type": "quarter",
+                "id": "9000154b-7e38-4653-9af7-75e74b4d7eb8",
+                "number": 2,
+                "sequence": 2,
+                "home_points": 9,
+                "away_points": 7
+              },
+              {
+                "period_type": "quarter",
+                "id": "069128a1-1c70-40dd-b2a8-d946159e7f5e",
+                "number": 3,
+                "sequence": 3,
+                "home_points": 0,
+                "away_points": 13
+              },
+              {
+                "period_type": "quarter",
+                "id": "5ed4ebf9-de10-4cce-8725-f66a221ce0db",
+                "number": 4,
+                "sequence": 4,
+                "home_points": 6,
+                "away_points": 3
+              }
+            ]
+          }
+        },
+        {
+          "id": "eb6b84ff-7e53-4d70-b7a6-99355af12dd3",
+          "status": "closed",
+          "scheduled": "2025-05-18T16:00:00+00:00",
+          "entry_mode": "LDE",
+          "sr_id": "sr:match:56857989",
+          "game_type": "regular",
+          "conference_game": true,
+          "duration": "3:12",
+          "venue": {
+            "id": "59e88b40-c046-11ee-9772-5f005754c5a2",
+            "name": "Audi Field",
+            "city": "Washington",
+            "state": "DC",
+            "country": "USA",
+            "zip": "20024",
+            "address": "100 Potomac Avenue SQ",
+            "capacity": 20000,
+            "surface": "turf",
+            "roof_type": "outdoor",
+            "sr_id": "sr:venue:27207",
+            "location": {
+              "lat": "38.8689",
+              "lng": "-77.0129"
+            }
+          },
+          "home": {
+            "id": "a3407150-c045-11ee-b66f-5d382d09dbaf",
+            "name": "DC Defenders",
+            "alias": "DC",
+            "game_number": 8,
+            "sr_id": "sr:competitor:661851"
+          },
+          "away": {
+            "id": "38355600-c045-11ee-8037-85feac748e1f",
+            "name": "Arlington Renegades",
+            "alias": "ARL",
+            "game_number": 8,
+            "sr_id": "sr:competitor:661843"
+          },
+          "broadcast": {
+            "network": "ABC"
+          },
+          "time_zones": {
+            "venue": "US/Eastern",
+            "home": "US/Eastern",
+            "away": "US/Central"
+          },
+          "weather": {
+            "condition": "Partly cloudy",
+            "humidity": 44,
+            "temp": 73,
+            "wind": {
+              "speed": 10,
+              "direction": "W"
+            }
+          },
+          "scoring": {
+            "home_points": 33,
+            "away_points": 30,
+            "periods": [
+              {
+                "period_type": "quarter",
+                "id": "bf1fe6a9-ecde-4d51-976c-8637b71992a8",
+                "number": 1,
+                "sequence": 1,
+                "home_points": 9,
+                "away_points": 3
+              },
+              {
+                "period_type": "quarter",
+                "id": "90e5d3af-afb7-4986-8356-1f1bd7652fe4",
+                "number": 2,
+                "sequence": 2,
+                "home_points": 12,
+                "away_points": 14
+              },
+              {
+                "period_type": "quarter",
+                "id": "8a054754-4cd1-49f6-bcde-ac30526895b8",
+                "number": 3,
+                "sequence": 3,
+                "home_points": 6,
+                "away_points": 6
+              },
+              {
+                "period_type": "quarter",
+                "id": "0dd2ea49-7880-41f0-b4f4-519f66af0943",
+                "number": 4,
+                "sequence": 4,
+                "home_points": 6,
+                "away_points": 7
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "3d684123-5013-4dd1-aa8f-dc806ff3fd22",
+      "sequence": 9,
+      "title": "9",
+      "games": [
+        {
+          "id": "63e717ef-eaa9-455d-8857-2bb3cc1887c3",
+          "status": "closed",
+          "scheduled": "2025-05-24T00:00:00+00:00",
+          "entry_mode": "LDE",
+          "sr_id": "sr:match:56857991",
+          "game_type": "regular",
+          "conference_game": true,
+          "duration": "2:50",
+          "venue": {
+            "id": "582c0e30-c046-11ee-8baf-e746db70974a",
+            "name": "The Dome at America's Center",
+            "city": "St. Louis",
+            "state": "MO",
+            "country": "USA",
+            "zip": "63101",
+            "address": "701 Convention Plaza",
+            "capacity": 67277,
+            "surface": "artificial",
+            "roof_type": "dome",
+            "sr_id": "sr:venue:8203",
+            "location": {
+              "lat": "38.6328",
+              "lng": "-90.1885"
+            }
+          },
+          "home": {
+            "id": "b7951020-c045-11ee-ad92-cf16c0a8aa31",
+            "name": "San Antonio Brahmas",
+            "alias": "SA",
+            "game_number": 9,
+            "sr_id": "sr:competitor:978099"
+          },
+          "away": {
+            "id": "d4799bc0-c045-11ee-ad92-cf16c0a8aa31",
+            "name": "St. Louis Battlehawks",
+            "alias": "STL",
+            "game_number": 9,
+            "sr_id": "sr:competitor:661855"
+          },
+          "broadcast": {
+            "network": "FOX"
+          },
+          "time_zones": {
+            "venue": "US/Central",
+            "home": "US/Central",
+            "away": "US/Central"
+          },
+          "weather": {
+            "condition": "Overcast ",
+            "humidity": 35,
+            "temp": 71,
+            "wind": {
+              "speed": 5,
+              "direction": "E"
+            }
+          },
+          "scoring": {
+            "home_points": 13,
+            "away_points": 39,
+            "periods": [
+              {
+                "period_type": "quarter",
+                "id": "9023cbcb-9685-460c-83a5-b974813fc4a1",
+                "number": 1,
+                "sequence": 1,
+                "home_points": 0,
+                "away_points": 3
+              },
+              {
+                "period_type": "quarter",
+                "id": "b3d59ae6-385b-4d26-a701-aea9ac13df2c",
+                "number": 2,
+                "sequence": 2,
+                "home_points": 10,
+                "away_points": 18
+              },
+              {
+                "period_type": "quarter",
+                "id": "1ea0aeda-e6a6-436e-a06a-0e418b1c835b",
+                "number": 3,
+                "sequence": 3,
+                "home_points": 3,
+                "away_points": 3
+              },
+              {
+                "period_type": "quarter",
+                "id": "546202be-bbb1-4190-8662-4e0f9da3cc85",
+                "number": 4,
+                "sequence": 4,
+                "home_points": 0,
+                "away_points": 15
+              }
+            ]
+          }
+        },
+        {
+          "id": "b440507f-e407-40a5-a77e-b0b639f7327e",
+          "status": "closed",
+          "scheduled": "2025-05-24T19:00:00+00:00",
+          "entry_mode": "LDE",
+          "sr_id": "sr:match:56857995",
+          "game_type": "regular",
+          "conference_game": true,
+          "duration": "2:57",
+          "venue": {
+            "id": "b1f3fd20-90f4-11ec-bf38-efe8ff3d0b79",
+            "name": "Protective Stadium",
+            "city": "Birmingham",
+            "state": "AL",
+            "country": "USA",
+            "zip": "35203",
+            "address": "1020 24th St N",
+            "capacity": 47100,
+            "surface": "artificial",
+            "roof_type": "outdoor",
+            "sr_id": "sr:venue:58724",
+            "location": {
+              "lat": "33.5278",
+              "lng": "-86.8092"
+            }
+          },
+          "home": {
+            "id": "f4305130-9675-11ec-8570-4594a07130f0",
+            "name": "Birmingham Stallions",
+            "alias": "BHM",
+            "game_number": 9,
+            "sr_id": "sr:competitor:882409"
+          },
+          "away": {
+            "id": "8bcdfcd0-9677-11ec-9ad0-d3ebe46bbb12",
+            "name": "Michigan Panthers",
+            "alias": "MICH",
+            "game_number": 9,
+            "sr_id": "sr:competitor:882417"
+          },
+          "broadcast": {
+            "network": "ABC"
+          },
+          "time_zones": {
+            "venue": "US/Central",
+            "home": "US/Central",
+            "away": "US/Eastern"
+          },
+          "weather": {
+            "condition": "Partly cloudy",
+            "humidity": 60,
+            "temp": 79,
+            "wind": {
+              "speed": 6,
+              "direction": "NE"
+            }
+          },
+          "scoring": {
+            "home_points": 26,
+            "away_points": 22,
+            "periods": [
+              {
+                "period_type": "quarter",
+                "id": "aab5e695-eb5a-44c4-9cc4-8b1755ee148d",
+                "number": 1,
+                "sequence": 1,
+                "home_points": 0,
+                "away_points": 0
+              },
+              {
+                "period_type": "quarter",
+                "id": "34d5f856-47fa-4b54-b051-08f3880a3c36",
+                "number": 2,
+                "sequence": 2,
+                "home_points": 7,
+                "away_points": 7
+              },
+              {
+                "period_type": "quarter",
+                "id": "8f039eaa-c31b-403b-b035-1de09025ef5c",
+                "number": 3,
+                "sequence": 3,
+                "home_points": 6,
+                "away_points": 9
+              },
+              {
+                "period_type": "quarter",
+                "id": "221e43c3-16a8-40b3-931c-065d0e867a6d",
+                "number": 4,
+                "sequence": 4,
+                "home_points": 13,
+                "away_points": 6
+              }
+            ]
+          }
+        },
+        {
+          "id": "312e39f6-7840-4e0f-928c-aa368b529a63",
+          "status": "closed",
+          "scheduled": "2025-05-24T19:05:00+00:00",
+          "entry_mode": "LDE",
+          "sr_id": "sr:match:56857993",
+          "game_type": "regular",
+          "conference_game": false,
+          "duration": "2:51",
+          "venue": {
+            "id": "cbdfea20-65c7-11ed-ba73-2996f7aad028",
+            "name": "Simmons Bank Liberty Stadium",
+            "city": "Memphis",
+            "state": "TN",
+            "country": "USA",
+            "zip": "38104",
+            "address": "335 South Hollywood Street",
+            "capacity": 58325,
+            "surface": "artificial",
+            "roof_type": "outdoor",
+            "sr_id": "sr:venue:21266",
+            "location": {
+              "lat": "35.1211",
+              "lng": "-89.9774"
+            }
+          },
+          "home": {
+            "id": "b88f3e30-66c1-11ed-bbea-376dc2cc7dc0",
+            "name": "Memphis Showboats",
+            "alias": "MEM",
+            "game_number": 9,
+            "sr_id": "sr:competitor:982997"
+          },
+          "away": {
+            "id": "38355600-c045-11ee-8037-85feac748e1f",
+            "name": "Arlington Renegades",
+            "alias": "ARL",
+            "game_number": 9,
+            "sr_id": "sr:competitor:661843"
+          },
+          "broadcast": {
+            "network": "ESPN+"
+          },
+          "time_zones": {
+            "venue": "US/Central",
+            "home": "US/Central",
+            "away": "US/Central"
+          },
+          "weather": {
+            "condition": "Light Rain",
+            "humidity": 93,
+            "temp": 66,
+            "wind": {
+              "speed": 8,
+              "direction": "ESE"
+            }
+          },
+          "scoring": {
+            "home_points": 12,
+            "away_points": 30,
+            "periods": [
+              {
+                "period_type": "quarter",
+                "id": "8607d360-0c5b-400c-9d77-9e7216fdd5f6",
+                "number": 1,
+                "sequence": 1,
+                "home_points": 0,
+                "away_points": 0
+              },
+              {
+                "period_type": "quarter",
+                "id": "fedf6ee3-ce9b-46bc-a5c0-828149763aba",
+                "number": 2,
+                "sequence": 2,
+                "home_points": 9,
+                "away_points": 12
+              },
+              {
+                "period_type": "quarter",
+                "id": "e64ce6a1-add7-47de-801b-a633087a36b5",
+                "number": 3,
+                "sequence": 3,
+                "home_points": 3,
+                "away_points": 6
+              },
+              {
+                "period_type": "quarter",
+                "id": "d4cc7ea7-d620-42ad-a172-f12a5456bae6",
+                "number": 4,
+                "sequence": 4,
+                "home_points": 0,
+                "away_points": 12
+              }
+            ]
+          }
+        },
+        {
+          "id": "6f83c010-ca58-4e1e-80e9-d3b71472fb9d",
+          "status": "closed",
+          "scheduled": "2025-05-25T20:00:00+00:00",
+          "entry_mode": "LDE",
+          "sr_id": "sr:match:56857997",
+          "game_type": "regular",
+          "conference_game": false,
+          "duration": "3:12",
+          "venue": {
+            "id": "257705c0-c93d-11ef-9d58-ed7e1297e3fd",
+            "name": "TDECU Stadium",
+            "city": "Houston",
+            "state": "TX",
+            "country": "USA",
+            "zip": "77004",
+            "address": "3874 Holman Street",
+            "capacity": 40000,
+            "surface": "artificial",
+            "roof_type": "outdoor",
+            "sr_id": "sr:venue:81597",
+            "location": {
+              "lat": "29.721945",
+              "lng": "-95.349167"
+            }
+          },
+          "home": {
+            "id": "42b04b80-9676-11ec-9ad0-d3ebe46bbb12",
+            "name": "Houston Roughnecks",
+            "alias": "HOU",
+            "game_number": 9,
+            "sr_id": "sr:competitor:882411"
+          },
+          "away": {
+            "id": "a3407150-c045-11ee-b66f-5d382d09dbaf",
+            "name": "DC Defenders",
+            "alias": "DC",
+            "game_number": 9,
+            "sr_id": "sr:competitor:661851"
+          },
+          "broadcast": {
+            "network": "FOX"
+          },
+          "time_zones": {
+            "venue": "US/Central",
+            "home": "US/Central",
+            "away": "US/Eastern"
+          },
+          "weather": {
+            "condition": "Partly cloudy",
+            "humidity": 52,
+            "temp": 90,
+            "wind": {
+              "speed": 15,
+              "direction": "SSE"
+            }
+          },
+          "scoring": {
+            "home_points": 24,
+            "away_points": 21,
+            "periods": [
+              {
+                "period_type": "quarter",
+                "id": "e53a7f96-8630-43e9-a292-f633fda3e326",
+                "number": 1,
+                "sequence": 1,
+                "home_points": 2,
+                "away_points": 9
+              },
+              {
+                "period_type": "quarter",
+                "id": "30c9807d-3f6c-4006-9674-f03bb998d861",
+                "number": 2,
+                "sequence": 2,
+                "home_points": 9,
+                "away_points": 0
+              },
+              {
+                "period_type": "quarter",
+                "id": "9648a763-19a1-4309-b452-3ef125038516",
+                "number": 3,
+                "sequence": 3,
+                "home_points": 13,
+                "away_points": 0
+              },
+              {
+                "period_type": "quarter",
+                "id": "65ef1227-dd75-4aca-bdb1-72cbea16bbb0",
+                "number": 4,
+                "sequence": 4,
+                "home_points": 0,
+                "away_points": 12
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "bd76768d-3038-40a5-9296-1fdad2d231a8",
+      "sequence": 10,
+      "title": "10",
+      "games": [
+        {
+          "id": "02617897-d968-494f-aead-92d0534ddec3",
+          "status": "closed",
+          "scheduled": "2025-05-31T00:00:00+00:00",
+          "entry_mode": "LDE",
+          "sr_id": "sr:match:56857999",
+          "game_type": "regular",
+          "conference_game": true,
+          "duration": "3:14",
+          "venue": {
+            "id": "59e88b40-c046-11ee-9772-5f005754c5a2",
+            "name": "Audi Field",
+            "city": "Washington",
+            "state": "DC",
+            "country": "USA",
+            "zip": "20024",
+            "address": "100 Potomac Avenue SQ",
+            "capacity": 20000,
+            "surface": "turf",
+            "roof_type": "outdoor",
+            "sr_id": "sr:venue:27207",
+            "location": {
+              "lat": "38.8689",
+              "lng": "-77.0129"
+            }
+          },
+          "home": {
+            "id": "a3407150-c045-11ee-b66f-5d382d09dbaf",
+            "name": "DC Defenders",
+            "alias": "DC",
+            "game_number": 10,
+            "sr_id": "sr:competitor:661851"
+          },
+          "away": {
+            "id": "d4799bc0-c045-11ee-ad92-cf16c0a8aa31",
+            "name": "St. Louis Battlehawks",
+            "alias": "STL",
+            "game_number": 10,
+            "sr_id": "sr:competitor:661855"
+          },
+          "broadcast": {
+            "network": "FOX"
+          },
+          "time_zones": {
+            "venue": "US/Eastern",
+            "home": "US/Eastern",
+            "away": "US/Central"
+          },
+          "weather": {
+            "condition": "Light Rain, Mist",
+            "humidity": 90,
+            "temp": 68,
+            "wind": {
+              "speed": 6,
+              "direction": "S"
+            }
+          },
+          "scoring": {
+            "home_points": 8,
+            "away_points": 13,
+            "periods": [
+              {
+                "period_type": "quarter",
+                "id": "9b11d794-d29d-4c11-8c94-64616d7204db",
+                "number": 1,
+                "sequence": 1,
+                "home_points": 2,
+                "away_points": 7
+              },
+              {
+                "period_type": "quarter",
+                "id": "6fa84cea-8d53-4f11-adee-a006641dca07",
+                "number": 2,
+                "sequence": 2,
+                "home_points": 0,
+                "away_points": 6
+              },
+              {
+                "period_type": "quarter",
+                "id": "ee3e59f7-4cfd-49d8-9ded-c60ac7ccd27d",
+                "number": 3,
+                "sequence": 3,
+                "home_points": 0,
+                "away_points": 0
+              },
+              {
+                "period_type": "quarter",
+                "id": "95dc1c60-6f73-48f7-9b29-f84fd5936ee6",
+                "number": 4,
+                "sequence": 4,
+                "home_points": 6,
+                "away_points": 0
+              }
+            ]
+          }
+        },
+        {
+          "id": "f62381e6-59ef-462a-87ca-4897c086164b",
+          "status": "closed",
+          "scheduled": "2025-05-31T19:00:00+00:00",
+          "entry_mode": "LDE",
+          "sr_id": "sr:match:56858001",
+          "game_type": "regular",
+          "conference_game": true,
+          "duration": "3:02",
+          "venue": {
+            "id": "cffc6a20-9d94-11ed-8c02-458a555ebdac",
+            "name": "Ford Field",
+            "city": "Detroit",
+            "state": "MI",
+            "country": "USA",
+            "zip": "48226",
+            "address": "2000 Brush Street",
+            "capacity": 65000,
+            "surface": "artificial",
+            "roof_type": "dome",
+            "sr_id": "sr:venue:8181",
+            "location": {
+              "lat": "42.3400",
+              "lng": "-83.0456"
+            }
+          },
+          "home": {
+            "id": "8bcdfcd0-9677-11ec-9ad0-d3ebe46bbb12",
+            "name": "Michigan Panthers",
+            "alias": "MICH",
+            "game_number": 10,
+            "sr_id": "sr:competitor:882417"
+          },
+          "away": {
+            "id": "42b04b80-9676-11ec-9ad0-d3ebe46bbb12",
+            "name": "Houston Roughnecks",
+            "alias": "HOU",
+            "game_number": 10,
+            "sr_id": "sr:competitor:882411"
+          },
+          "broadcast": {
+            "network": "ESPN",
+            "satellite": "206"
+          },
+          "time_zones": {
+            "venue": "US/Eastern",
+            "home": "US/Eastern",
+            "away": "US/Central"
+          },
+          "weather": {
+            "condition": "Partly cloudy",
+            "humidity": 44,
+            "temp": 60,
+            "wind": {
+              "speed": 13,
+              "direction": "N"
+            }
+          },
+          "scoring": {
+            "home_points": 12,
+            "away_points": 19,
+            "periods": [
+              {
+                "period_type": "quarter",
+                "id": "ba19c70b-f110-4675-b43e-4ae5475bb6e8",
+                "number": 1,
+                "sequence": 1,
+                "home_points": 0,
+                "away_points": 7
+              },
+              {
+                "period_type": "quarter",
+                "id": "043319ff-3c34-4227-a6bd-12e10c3674f7",
+                "number": 2,
+                "sequence": 2,
+                "home_points": 3,
+                "away_points": 9
+              },
+              {
+                "period_type": "quarter",
+                "id": "48474c8b-2e05-4c9b-a7c9-91c7ad8f3d5f",
+                "number": 3,
+                "sequence": 3,
+                "home_points": 6,
+                "away_points": 3
+              },
+              {
+                "period_type": "quarter",
+                "id": "10dcfdb5-dd9f-4516-88d4-03cc3996943a",
+                "number": 4,
+                "sequence": 4,
+                "home_points": 3,
+                "away_points": 0
+              }
+            ]
+          }
+        },
+        {
+          "id": "6936c82c-7d0a-4849-8a50-a6bd6f7fac7b",
+          "status": "closed",
+          "scheduled": "2025-06-01T16:00:00+00:00",
+          "entry_mode": "LDE",
+          "sr_id": "sr:match:56858003",
+          "game_type": "regular",
+          "conference_game": true,
+          "duration": "2:57",
+          "venue": {
+            "id": "8124cb60-c046-11ee-9772-5f005754c5a2",
+            "name": "Alamodome",
+            "city": "San Antonio",
+            "state": "TX",
+            "country": "USA",
+            "zip": "78203",
+            "address": "100 Montana Street",
+            "capacity": 64000,
+            "surface": "artificial",
+            "roof_type": "dome",
+            "sr_id": "sr:venue:17734",
+            "location": {
+              "lat": "29.4170",
+              "lng": "-98.4788"
+            }
+          },
+          "home": {
+            "id": "b7951020-c045-11ee-ad92-cf16c0a8aa31",
+            "name": "San Antonio Brahmas",
+            "alias": "SA",
+            "game_number": 10,
+            "sr_id": "sr:competitor:978099"
+          },
+          "away": {
+            "id": "38355600-c045-11ee-8037-85feac748e1f",
+            "name": "Arlington Renegades",
+            "alias": "ARL",
+            "game_number": 10,
+            "sr_id": "sr:competitor:661843"
+          },
+          "broadcast": {
+            "network": "ABC"
+          },
+          "time_zones": {
+            "venue": "US/Central",
+            "home": "US/Central",
+            "away": "US/Central"
+          },
+          "weather": {
+            "condition": "Sunny",
+            "humidity": 68,
+            "temp": 84,
+            "wind": {
+              "speed": 6,
+              "direction": "SSW"
+            }
+          },
+          "scoring": {
+            "home_points": 6,
+            "away_points": 23,
+            "periods": [
+              {
+                "period_type": "quarter",
+                "id": "877ee432-564c-4c7b-a6f8-4a55d1426a67",
+                "number": 1,
+                "sequence": 1,
+                "home_points": 3,
+                "away_points": 0
+              },
+              {
+                "period_type": "quarter",
+                "id": "12d9913e-bac5-4e9c-bbcc-17f1da0bed8e",
+                "number": 2,
+                "sequence": 2,
+                "home_points": 0,
+                "away_points": 20
+              },
+              {
+                "period_type": "quarter",
+                "id": "2c0868fe-7b45-4aa3-bcd4-a3bccd449749",
+                "number": 3,
+                "sequence": 3,
+                "home_points": 3,
+                "away_points": 0
+              },
+              {
+                "period_type": "quarter",
+                "id": "859e9b0d-904e-4b93-9efe-468514736361",
+                "number": 4,
+                "sequence": 4,
+                "home_points": 0,
+                "away_points": 3
+              }
+            ]
+          }
+        },
+        {
+          "id": "e41cb4b5-9c19-4bf2-be46-045361e0e1c0",
+          "status": "closed",
+          "scheduled": "2025-06-01T19:00:00+00:00",
+          "entry_mode": "LDE",
+          "sr_id": "sr:match:56858005",
+          "game_type": "regular",
+          "conference_game": true,
+          "duration": "2:54",
+          "venue": {
+            "id": "cbdfea20-65c7-11ed-ba73-2996f7aad028",
+            "name": "Simmons Bank Liberty Stadium",
+            "city": "Memphis",
+            "state": "TN",
+            "country": "USA",
+            "zip": "38104",
+            "address": "335 South Hollywood Street",
+            "capacity": 58325,
+            "surface": "artificial",
+            "roof_type": "outdoor",
+            "sr_id": "sr:venue:21266",
+            "location": {
+              "lat": "35.1211",
+              "lng": "-89.9774"
+            }
+          },
+          "home": {
+            "id": "b88f3e30-66c1-11ed-bbea-376dc2cc7dc0",
+            "name": "Memphis Showboats",
+            "alias": "MEM",
+            "game_number": 10,
+            "sr_id": "sr:competitor:982997"
+          },
+          "away": {
+            "id": "f4305130-9675-11ec-8570-4594a07130f0",
+            "name": "Birmingham Stallions",
+            "alias": "BHM",
+            "game_number": 10,
+            "sr_id": "sr:competitor:882409"
+          },
+          "broadcast": {
+            "network": "FOX"
+          },
+          "time_zones": {
+            "venue": "US/Central",
+            "home": "US/Central",
+            "away": "US/Central"
+          },
+          "weather": {
+            "condition": "Partly cloudy",
+            "humidity": 48,
+            "temp": 83,
+            "wind": {
+              "speed": 7,
+              "direction": "WSW"
+            }
+          },
+          "scoring": {
+            "home_points": 9,
+            "away_points": 46,
+            "periods": [
+              {
+                "period_type": "quarter",
+                "id": "cc553556-5157-48e4-a5c3-b3caad7cf02b",
+                "number": 1,
+                "sequence": 1,
+                "home_points": 3,
+                "away_points": 13
+              },
+              {
+                "period_type": "quarter",
+                "id": "0c6e3cd9-20bd-45ff-a165-d3bcf65b75e2",
+                "number": 2,
+                "sequence": 2,
+                "home_points": 6,
+                "away_points": 10
+              },
+              {
+                "period_type": "quarter",
+                "id": "bc5f0bdd-fe68-48de-b33a-de9566ae48d4",
+                "number": 3,
+                "sequence": 3,
+                "home_points": 0,
+                "away_points": 9
+              },
+              {
+                "period_type": "quarter",
+                "id": "66dd6652-2abe-49bb-81ec-b224973f4f66",
+                "number": 4,
+                "sequence": 4,
+                "home_points": 0,
+                "away_points": 14
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "_comment": "Generation started @ 2025-06-18 10:50:57 UTC ended @ 2025-06-18 10:50:57 UTC"
+}

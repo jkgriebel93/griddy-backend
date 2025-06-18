@@ -1,0 +1,31 @@
+{
+  "id": "f14253c0-99bc-11ec-b33c-ff458e75e8f9",
+  "name": "Solomon Wise",
+  "jersey": "0",
+  "last_name": "Wise",
+  "first_name": "Solomon",
+  "abbr_name": "S.Wise",
+  "preferred_name": "Solomon",
+  "birth_date": "1997-11-13",
+  "weight": 245,
+  "height": 76,
+  "position": "LB",
+  "birth_place": "Coppell, TX, USA",
+  "high_school": "Coppell (TX)",
+  "college": "Alcorn State",
+  "college_conf": "Southwestern Athletic Conference",
+  "status": "UFA",
+  "draft": {
+    "year": 2022,
+    "round": 31,
+    "number": 260,
+    "team": {
+      "id": "b786eb70-9677-11ec-9193-6b32ce92fd29",
+      "name": "Stars",
+      "market": "Philadelphia",
+      "alias": "PHI"
+    }
+  },
+  "seasons": [],
+  "_comment": "Generation started @ 2025-06-18 10:50:31 UTC ended @ 2025-06-18 10:50:31 UTC"
+}

@@ -1,0 +1,237 @@
+{
+  "generated_at": "2025-06-17T11:17:39+00:00",
+  "competitions": [
+    {
+      "id": "sr:competition:31",
+      "name": "NFL",
+      "gender": "men",
+      "category": {
+        "id": "sr:category:43",
+        "name": "USA",
+        "country_code": "USA"
+      }
+    },
+    {
+      "id": "sr:competition:233",
+      "name": "NFL Preseason",
+      "category": {
+        "id": "sr:category:43",
+        "name": "USA",
+        "country_code": "USA"
+      }
+    },
+    {
+      "id": "sr:competition:790",
+      "name": "CFL",
+      "gender": "men",
+      "category": {
+        "id": "sr:category:93",
+        "name": "Canada",
+        "country_code": "CAN"
+      }
+    },
+    {
+      "id": "sr:competition:850",
+      "name": "NCAA",
+      "category": {
+        "id": "sr:category:43",
+        "name": "USA",
+        "country_code": "USA"
+      }
+    },
+    {
+      "id": "sr:competition:1010",
+      "name": "NFL Pro Bowl",
+      "gender": "men",
+      "category": {
+        "id": "sr:category:43",
+        "name": "USA",
+        "country_code": "USA"
+      }
+    },
+    {
+      "id": "sr:competition:1728",
+      "name": "European Championship",
+      "gender": "men",
+      "category": {
+        "id": "sr:category:777",
+        "name": "International"
+      }
+    },
+    {
+      "id": "sr:competition:14870",
+      "name": "East-West shrine game",
+      "gender": "men",
+      "category": {
+        "id": "sr:category:43",
+        "name": "USA",
+        "country_code": "USA"
+      }
+    },
+    {
+      "id": "sr:competition:14872",
+      "name": "NFLPA Collegiate Bowl",
+      "parent_id": "sr:competition:850",
+      "gender": "men",
+      "category": {
+        "id": "sr:category:43",
+        "name": "USA",
+        "country_code": "USA"
+      }
+    },
+    {
+      "id": "sr:competition:15067",
+      "name": "Arena Football League",
+      "gender": "men",
+      "category": {
+        "id": "sr:category:43",
+        "name": "USA",
+        "country_code": "USA"
+      }
+    },
+    {
+      "id": "sr:competition:27621",
+      "name": "Alliance of American Football",
+      "gender": "men",
+      "category": {
+        "id": "sr:category:43",
+        "name": "USA",
+        "country_code": "USA"
+      }
+    },
+    {
+      "id": "sr:competition:27625",
+      "name": "NCAA Division I, FBS Post Season",
+      "parent_id": "sr:competition:850",
+      "gender": "men",
+      "category": {
+        "id": "sr:category:43",
+        "name": "USA",
+        "country_code": "USA"
+      }
+    },
+    {
+      "id": "sr:competition:27627",
+      "name": "NCAA Division I, FCS National Championship",
+      "parent_id": "sr:competition:850",
+      "gender": "men",
+      "category": {
+        "id": "sr:category:43",
+        "name": "USA",
+        "country_code": "USA"
+      }
+    },
+    {
+      "id": "sr:competition:27629",
+      "name": "NCAA Division II National Championship",
+      "parent_id": "sr:competition:850",
+      "gender": "men",
+      "category": {
+        "id": "sr:category:43",
+        "name": "USA",
+        "country_code": "USA"
+      }
+    },
+    {
+      "id": "sr:competition:27631",
+      "name": "NCAA Division III National Championship",
+      "parent_id": "sr:competition:850",
+      "gender": "men",
+      "category": {
+        "id": "sr:category:43",
+        "name": "USA",
+        "country_code": "USA"
+      }
+    },
+    {
+      "id": "sr:competition:27653",
+      "name": "NCAA, Regular Season",
+      "parent_id": "sr:competition:850",
+      "gender": "men",
+      "category": {
+        "id": "sr:category:43",
+        "name": "USA",
+        "country_code": "USA"
+      }
+    },
+    {
+      "id": "sr:competition:31371",
+      "name": "XFL",
+      "gender": "men",
+      "category": {
+        "id": "sr:category:43",
+        "name": "USA",
+        "country_code": "USA"
+      }
+    },
+    {
+      "id": "sr:competition:34498",
+      "name": "European League of Football",
+      "gender": "men",
+      "category": {
+        "id": "sr:category:777",
+        "name": "International"
+      }
+    },
+    {
+      "id": "sr:competition:36011",
+      "name": "Senior Bowl",
+      "parent_id": "sr:competition:850",
+      "gender": "men",
+      "category": {
+        "id": "sr:category:43",
+        "name": "USA",
+        "country_code": "USA"
+      }
+    },
+    {
+      "id": "sr:competition:36373",
+      "name": "USFL",
+      "gender": "men",
+      "category": {
+        "id": "sr:category:43",
+        "name": "USA",
+        "country_code": "USA"
+      }
+    },
+    {
+      "id": "sr:competition:39281",
+      "name": "HBCU Legacy Bowl",
+      "gender": "men",
+      "category": {
+        "id": "sr:category:43",
+        "name": "USA",
+        "country_code": "USA"
+      }
+    },
+    {
+      "id": "sr:competition:42113",
+      "name": "CFL, Preseason",
+      "category": {
+        "id": "sr:category:93",
+        "name": "Canada",
+        "country_code": "CAN"
+      }
+    },
+    {
+      "id": "sr:competition:42133",
+      "name": "UFL",
+      "gender": "men",
+      "category": {
+        "id": "sr:category:43",
+        "name": "USA",
+        "country_code": "USA"
+      }
+    },
+    {
+      "id": "sr:competition:46313",
+      "name": "Arena Football One",
+      "gender": "men",
+      "category": {
+        "id": "sr:category:43",
+        "name": "USA",
+        "country_code": "USA"
+      }
+    }
+  ]
+}

@@ -1,0 +1,339 @@
+{
+  "season": {
+    "id": "940a2680-c865-11ef-b016-114bcfc0f1b1",
+    "year": 2025,
+    "type": "PST",
+    "name": "PST"
+  },
+  "weeks": [
+    {
+      "id": "74262160-9ac7-4bce-9a29-613098445c8e",
+      "sequence": 1,
+      "title": "Conference Finals",
+      "games": [
+        {
+          "id": "b4ff4e6c-2af0-4041-8655-5ea354ede0ae",
+          "status": "closed",
+          "scheduled": "2025-06-08T19:00:00+00:00",
+          "entry_mode": "LDE",
+          "sr_id": "sr:match:60956581",
+          "game_type": "playoff",
+          "conference_game": true,
+          "title": "USFL Conference Final",
+          "duration": "3:09",
+          "venue": {
+            "id": "b1f3fd20-90f4-11ec-bf38-efe8ff3d0b79",
+            "name": "Protective Stadium",
+            "city": "Birmingham",
+            "state": "AL",
+            "country": "USA",
+            "zip": "35203",
+            "address": "1020 24th St N",
+            "capacity": 47100,
+            "surface": "artificial",
+            "roof_type": "outdoor",
+            "sr_id": "sr:venue:58724",
+            "location": {
+              "lat": "33.5278",
+              "lng": "-86.8092"
+            }
+          },
+          "home": {
+            "id": "f4305130-9675-11ec-8570-4594a07130f0",
+            "name": "Birmingham Stallions",
+            "alias": "BHM",
+            "game_number": 1,
+            "sr_id": "sr:competitor:882409"
+          },
+          "away": {
+            "id": "8bcdfcd0-9677-11ec-9ad0-d3ebe46bbb12",
+            "name": "Michigan Panthers",
+            "alias": "MICH",
+            "game_number": 1,
+            "sr_id": "sr:competitor:882417"
+          },
+          "broadcast": {
+            "network": "ABC"
+          },
+          "time_zones": {
+            "venue": "US/Central",
+            "home": "US/Central",
+            "away": "US/Eastern"
+          },
+          "weather": {
+            "condition": "Partly cloudy",
+            "humidity": 74,
+            "temp": 77,
+            "wind": {
+              "speed": 9,
+              "direction": "WSW"
+            }
+          },
+          "scoring": {
+            "home_points": 29,
+            "away_points": 44,
+            "periods": [
+              {
+                "period_type": "quarter",
+                "id": "f27b879d-48a0-4fbd-b8a7-4ed81db3ce90",
+                "number": 1,
+                "sequence": 1,
+                "home_points": 0,
+                "away_points": 7
+              },
+              {
+                "period_type": "quarter",
+                "id": "3a34b69a-6b3f-48a2-8814-4a5f0ef818c7",
+                "number": 2,
+                "sequence": 2,
+                "home_points": 14,
+                "away_points": 14
+              },
+              {
+                "period_type": "quarter",
+                "id": "ea164953-7552-4b19-bcc4-fb9f63d24186",
+                "number": 3,
+                "sequence": 3,
+                "home_points": 3,
+                "away_points": 13
+              },
+              {
+                "period_type": "quarter",
+                "id": "7c4d89f6-10c7-43b0-b6ee-fcb46f14e205",
+                "number": 4,
+                "sequence": 4,
+                "home_points": 12,
+                "away_points": 10
+              }
+            ]
+          }
+        },
+        {
+          "id": "b173451a-6206-4af8-bfd7-532133a1bb0e",
+          "status": "closed",
+          "scheduled": "2025-06-08T22:20:00+00:00",
+          "entry_mode": "LDE",
+          "sr_id": "sr:match:60956583",
+          "game_type": "playoff",
+          "conference_game": true,
+          "title": "XFL Conference Final",
+          "duration": "2:59",
+          "venue": {
+            "id": "582c0e30-c046-11ee-8baf-e746db70974a",
+            "name": "The Dome at America's Center",
+            "city": "St. Louis",
+            "state": "MO",
+            "country": "USA",
+            "zip": "63101",
+            "address": "701 Convention Plaza",
+            "capacity": 67277,
+            "surface": "artificial",
+            "roof_type": "dome",
+            "sr_id": "sr:venue:8203",
+            "location": {
+              "lat": "38.6328",
+              "lng": "-90.1885"
+            }
+          },
+          "home": {
+            "id": "d4799bc0-c045-11ee-ad92-cf16c0a8aa31",
+            "name": "St. Louis Battlehawks",
+            "alias": "STL",
+            "game_number": 1,
+            "sr_id": "sr:competitor:661855"
+          },
+          "away": {
+            "id": "a3407150-c045-11ee-b66f-5d382d09dbaf",
+            "name": "DC Defenders",
+            "alias": "DC",
+            "game_number": 1,
+            "sr_id": "sr:competitor:661851"
+          },
+          "broadcast": {
+            "network": "FOX"
+          },
+          "time_zones": {
+            "venue": "US/Central",
+            "home": "US/Central",
+            "away": "US/Eastern"
+          },
+          "weather": {
+            "condition": "Sunny",
+            "humidity": 48,
+            "temp": 85,
+            "wind": {
+              "speed": 7,
+              "direction": "W"
+            }
+          },
+          "scoring": {
+            "home_points": 18,
+            "away_points": 36,
+            "periods": [
+              {
+                "period_type": "quarter",
+                "id": "0e0a2a91-fc23-4154-b7bc-7960ecd2512d",
+                "number": 1,
+                "sequence": 1,
+                "home_points": 0,
+                "away_points": 6
+              },
+              {
+                "period_type": "quarter",
+                "id": "16d73262-1878-4790-a930-eae0e7708445",
+                "number": 2,
+                "sequence": 2,
+                "home_points": 6,
+                "away_points": 14
+              },
+              {
+                "period_type": "quarter",
+                "id": "63240c6a-f562-4cf1-b802-a815b9ff0061",
+                "number": 3,
+                "sequence": 3,
+                "home_points": 6,
+                "away_points": 6
+              },
+              {
+                "period_type": "quarter",
+                "id": "5ee1ab71-1dab-413c-934c-8a7e02c215e3",
+                "number": 4,
+                "sequence": 4,
+                "home_points": 6,
+                "away_points": 10
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "436fb380-c87e-453a-a261-0b39aee8dfe4",
+      "sequence": 2,
+      "title": "UFL Championship",
+      "current": true,
+      "games": [
+        {
+          "id": "39ec0e75-2b87-4311-abeb-a518eec7e24d",
+          "status": "closed",
+          "scheduled": "2025-06-15T00:00:00+00:00",
+          "entry_mode": "LDE",
+          "sr_id": "sr:match:61093853",
+          "neutral_site": true,
+          "game_type": "playoff",
+          "conference_game": false,
+          "title": "UFL Championship",
+          "duration": "3:15",
+          "parent_id": "88aa1b23-013e-4832-b7d4-98c4a0f52231",
+          "venue": {
+            "id": "582c0e30-c046-11ee-8baf-e746db70974a",
+            "name": "The Dome at America's Center",
+            "city": "St. Louis",
+            "state": "MO",
+            "country": "USA",
+            "zip": "63101",
+            "address": "701 Convention Plaza",
+            "capacity": 67277,
+            "surface": "artificial",
+            "roof_type": "dome",
+            "sr_id": "sr:venue:8203",
+            "location": {
+              "lat": "38.6328",
+              "lng": "-90.1885"
+            }
+          },
+          "home": {
+            "id": "8bcdfcd0-9677-11ec-9ad0-d3ebe46bbb12",
+            "name": "Michigan Panthers",
+            "alias": "MICH",
+            "game_number": 2,
+            "sr_id": "sr:competitor:882417",
+            "source": {
+              "id": "b4ff4e6c-2af0-4041-8655-5ea354ede0ae",
+              "title": "USFL Conference Final",
+              "status": "closed",
+              "coverage": "full",
+              "game_type": "playoff",
+              "scheduled": "2025-06-08T19:00:00+00:00",
+              "entry_mode": "LDE",
+              "outcome": "win"
+            }
+          },
+          "away": {
+            "id": "a3407150-c045-11ee-b66f-5d382d09dbaf",
+            "name": "DC Defenders",
+            "alias": "DC",
+            "game_number": 2,
+            "sr_id": "sr:competitor:661851",
+            "source": {
+              "id": "b173451a-6206-4af8-bfd7-532133a1bb0e",
+              "title": "XFL Conference Final",
+              "status": "closed",
+              "coverage": "full",
+              "game_type": "playoff",
+              "scheduled": "2025-06-08T22:20:00+00:00",
+              "entry_mode": "LDE",
+              "outcome": "win"
+            }
+          },
+          "broadcast": {
+            "network": "ABC"
+          },
+          "time_zones": {
+            "venue": "US/Central",
+            "home": "US/Eastern",
+            "away": "US/Eastern"
+          },
+          "weather": {
+            "condition": "Partly cloudy",
+            "humidity": 71,
+            "temp": 80,
+            "wind": {
+              "speed": 8,
+              "direction": "NNE"
+            }
+          },
+          "scoring": {
+            "home_points": 34,
+            "away_points": 58,
+            "periods": [
+              {
+                "period_type": "quarter",
+                "id": "fc39da6e-e145-4503-ace3-2cf284897325",
+                "number": 1,
+                "sequence": 1,
+                "home_points": 13,
+                "away_points": 6
+              },
+              {
+                "period_type": "quarter",
+                "id": "d38712c0-6f7c-43a1-b2c9-64a98173c157",
+                "number": 2,
+                "sequence": 2,
+                "home_points": 6,
+                "away_points": 31
+              },
+              {
+                "period_type": "quarter",
+                "id": "d21f03c5-8193-4731-b07b-6db2719c67c8",
+                "number": 3,
+                "sequence": 3,
+                "home_points": 0,
+                "away_points": 9
+              },
+              {
+                "period_type": "quarter",
+                "id": "af9f162f-9e14-4421-8298-a97acaa42165",
+                "number": 4,
+                "sequence": 4,
+                "home_points": 15,
+                "away_points": 12
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "_comment": "Generation started @ 2025-06-18 10:46:28 UTC ended @ 2025-06-18 10:46:28 UTC"
+}

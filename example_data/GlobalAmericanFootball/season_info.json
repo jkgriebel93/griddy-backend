@@ -1,0 +1,130 @@
+{
+  "generated_at": "2025-06-17T11:35:11+00:00",
+  "season": {
+    "id": "sr:season:126425",
+    "name": "CFL 2025",
+    "start_date": "2025-06-06",
+    "end_date": "2025-11-17",
+    "year": "2025",
+    "competition_id": "sr:competition:790",
+    "sport": {
+      "id": "sr:sport:16",
+      "name": "American Football"
+    },
+    "category": {
+      "id": "sr:category:93",
+      "name": "Canada",
+      "country_code": "CAN"
+    },
+    "competition": {
+      "id": "sr:competition:790",
+      "name": "CFL",
+      "gender": "men"
+    }
+  },
+  "stages": [
+    {
+      "order": 1,
+      "type": "league",
+      "phase": "division",
+      "start_date": "2025-06-06",
+      "end_date": "2025-10-26",
+      "year": "2025",
+      "groups": [
+        {
+          "id": "sr:league:91501",
+          "name": "CFL 2025, East Division",
+          "competitors": [
+            {
+              "id": "sr:competitor:4439",
+              "name": "Montreal Alouettes",
+              "country": "Canada",
+              "country_code": "CAN",
+              "abbreviation": "MTL",
+              "gender": "male",
+              "state": "QC"
+            },
+            {
+              "id": "sr:competitor:4437",
+              "name": "Ottawa Redblacks",
+              "country": "Canada",
+              "country_code": "CAN",
+              "abbreviation": "OTT",
+              "gender": "male",
+              "state": "ON"
+            },
+            {
+              "id": "sr:competitor:4436",
+              "name": "Toronto Argonauts",
+              "country": "Canada",
+              "country_code": "CAN",
+              "abbreviation": "TOR",
+              "gender": "male"
+            },
+            {
+              "id": "sr:competitor:4441",
+              "name": "Hamilton Tiger-Cats",
+              "country": "Canada",
+              "country_code": "CAN",
+              "abbreviation": "HAM",
+              "gender": "male"
+            }
+          ],
+          "max_rounds": 18,
+          "group_name": "East Division"
+        },
+        {
+          "id": "sr:league:91503",
+          "name": "CFL 2025, West Division",
+          "competitors": [
+            {
+              "id": "sr:competitor:4440",
+              "name": "British Columbia Lions",
+              "country": "Canada",
+              "country_code": "CAN",
+              "abbreviation": "BC",
+              "gender": "male",
+              "state": "BC"
+            },
+            {
+              "id": "sr:competitor:4438",
+              "name": "Saskatchewan Roughriders",
+              "country": "Canada",
+              "country_code": "CAN",
+              "abbreviation": "SSK",
+              "gender": "male"
+            },
+            {
+              "id": "sr:competitor:4435",
+              "name": "Winnipeg Blue Bombers",
+              "country": "Canada",
+              "country_code": "CAN",
+              "abbreviation": "WPG",
+              "gender": "male",
+              "state": "MB"
+            },
+            {
+              "id": "sr:competitor:4433",
+              "name": "Calgary Stampeders",
+              "country": "Canada",
+              "country_code": "CAN",
+              "abbreviation": "CGY",
+              "gender": "male",
+              "state": "AB"
+            },
+            {
+              "id": "sr:competitor:4434",
+              "name": "Edmonton Elks",
+              "country": "Canada",
+              "country_code": "CAN",
+              "abbreviation": "EDM",
+              "gender": "male"
+            }
+          ],
+          "max_rounds": 18,
+          "group_name": "West Division"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "generated_at": "2025-06-17T11:30:07+00:00",
+  "seasons": [
+    {
+      "id": "sr:season:101281",
+      "name": "CFL 2023",
+      "start_date": "2023-06-09",
+      "end_date": "2023-11-20",
+      "year": "2023",
+      "competition_id": "sr:competition:790"
+    },
+    {
+      "id": "sr:season:114131",
+      "name": "CFL 2024",
+      "start_date": "2024-06-07",
+      "end_date": "2024-11-18",
+      "year": "2024",
+      "competition_id": "sr:competition:790"
+    },
+    {
+      "id": "sr:season:126425",
+      "name": "CFL 2025",
+      "start_date": "2025-06-06",
+      "end_date": "2025-11-17",
+      "year": "2025",
+      "competition_id": "sr:competition:790"
+    }
+  ]
+}

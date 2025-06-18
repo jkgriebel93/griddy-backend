@@ -1,0 +1,4619 @@
+{
+  "season": {
+    "id": "94096330-c865-11ef-b016-114bcfc0f1b1",
+    "year": 2025,
+    "type": "REG",
+    "name": "REG"
+  },
+  "week": {
+    "id": "11c06b24-5a12-4a13-8028-2052506c1948",
+    "sequence": 1,
+    "title": "1"
+  },
+  "teams": [
+    {
+      "id": "38355600-c045-11ee-8037-85feac748e1f",
+      "name": "Renegades",
+      "market": "Arlington",
+      "alias": "ARL",
+      "sr_id": "sr:competitor:661843",
+      "offense": [
+        {
+          "position": {
+            "name": "QB",
+            "players": [
+              {
+                "id": "94e18890-b473-11ec-9c38-d532d7ac7fb9",
+                "name": "Luis Perez",
+                "jersey": "12",
+                "position": "QB",
+                "depth": 1
+              },
+              {
+                "id": "54041130-cc40-11ee-91dd-09d45334fe24",
+                "name": "Holton Ahlers",
+                "jersey": "15",
+                "position": "QB",
+                "depth": 2
+              }
+            ]
+          }
+        },
+        {
+          "position": {
+            "name": "RWR",
+            "players": [
+              {
+                "id": "a9de4660-cc5f-11ee-a60a-8d7f07d3367e",
+                "name": "Tyler Vaughns",
+                "jersey": "8",
+                "position": "WR",
+                "depth": 1
+              },
+              {
+                "id": "ea4fc5c0-cc5f-11ee-a60a-8d7f07d3367e",
+                "name": "Lujuan Winningham",
+                "jersey": "11",
+                "position": "WR",
+                "depth": 2
+              }
+            ]
+          }
+        },
+        {
+          "position": {
+            "name": "RG",
+            "players": [
+              {
+                "id": "03e40250-9984-11ec-9b11-a353e08c36ff",
+                "name": "Garrett McGhin",
+                "jersey": "55",
+                "position": "T",
+                "depth": 1
+              },
+              {
+                "id": "cac25270-b789-11ef-be99-ff013e008102",
+                "name": "Matt Farniok",
+                "jersey": "71",
+                "position": "T",
+                "depth": 2
+              }
+            ]
+          }
+        },
+        {
+          "position": {
+            "name": "TE",
+            "players": [
+              {
+                "id": "e66a6b40-98d6-11ec-9036-0d0001ef2757",
+                "name": "Sal Cannella",
+                "jersey": "80",
+                "position": "TE",
+                "depth": 1
+              },
+              {
+                "id": "e85cf110-cc4c-11ee-a60a-8d7f07d3367e",
+                "name": "Seth Green",
+                "jersey": "87",
+                "position": "TE",
+                "depth": 2
+              }
+            ]
+          }
+        },
+        {
+          "position": {
+            "name": "LT",
+            "players": [
+              {
+                "id": "1929d830-b789-11ef-827b-8b493161da26",
+                "name": "Ricky Lee",
+                "jersey": "63",
+                "position": "T",
+                "depth": 1
+              },
+              {
+                "id": "114da080-e1ab-11ec-87bf-e3bef8ceb879",
+                "name": "Alex Akingbulu",
+                "jersey": "75",
+                "position": "T",
+                "depth": 2
+              }
+            ]
+          }
+        },
+        {
+          "position": {
+            "name": "RB",
+            "players": [
+              {
+                "id": "b75bfce0-d525-11ef-992b-9b8acb9c43d9",
+                "name": "Kalen Ballage",
+                "jersey": "4",
+                "position": "RB",
+                "depth": 1
+              },
+              {
+                "id": "9e0674d0-cc4f-11ee-a60a-8d7f07d3367e",
+                "name": "Dae Dae Hunter",
+                "jersey": "17",
+                "position": "RB",
+                "depth": 2
+              },
+              {
+                "id": "bc965ba0-99ba-11ec-86dc-ff0add1e628b",
+                "name": "De'Veon Smith",
+                "jersey": "9",
+                "position": "RB",
+                "depth": 3
+              }
+            ]
+          }
+        },
+        {
+          "position": {
+            "name": "WR",
+            "players": [
+              {
+                "id": "12455e10-cc50-11ee-a60a-8d7f07d3367e",
+                "name": "Isaiah Winstead",
+                "jersey": "14",
+                "position": "WR",
+                "depth": 1
+              },
+              {
+                "id": "0726d820-cc45-11ee-8f29-0b84fc254cdc",
+                "name": "Deontay Burnett",
+                "jersey": "21",
+                "position": "WR",
+                "depth": 2
+              }
+            ]
+          }
+        },
+        {
+          "position": {
+            "name": "LG",
+            "players": [
+              {
+                "id": "07d298c0-cc56-11ee-a60a-8d7f07d3367e",
+                "name": "Marcus Minor",
+                "jersey": "65",
+                "position": "G",
+                "depth": 1
+              },
+              {
+                "id": "cac25270-b789-11ef-be99-ff013e008102",
+                "name": "Matt Farniok",
+                "jersey": "71",
+                "position": "T",
+                "depth": 2
+              }
+            ]
+          }
+        },
+        {
+          "position": {
+            "name": "LWR",
+            "players": [
+              {
+                "id": "0726d820-cc45-11ee-8f29-0b84fc254cdc",
+                "name": "Deontay Burnett",
+                "jersey": "21",
+                "position": "WR",
+                "depth": 1
+              },
+              {
+                "id": "bbaadef0-cc58-11ee-a60a-8d7f07d3367e",
+                "name": "JaVonta Payton",
+                "jersey": "3",
+                "position": "WR",
+                "depth": 2
+              }
+            ]
+          }
+        },
+        {
+          "position": {
+            "name": "RT",
+            "players": [
+              {
+                "id": "21bde9f0-cc48-11ee-9114-ff807e2a8780",
+                "name": "Adrian Ealy",
+                "jersey": "59",
+                "position": "OT",
+                "depth": 1
+              },
+              {
+                "id": "114da080-e1ab-11ec-87bf-e3bef8ceb879",
+                "name": "Alex Akingbulu",
+                "jersey": "75",
+                "position": "T",
+                "depth": 2
+              }
+            ]
+          }
+        },
+        {
+          "position": {
+            "name": "C",
+            "players": [
+              {
+                "id": "61de08e0-d871-11ef-93e2-3b17ad4fb8a5",
+                "name": "Jacob Johanning",
+                "jersey": "66",
+                "position": "OG",
+                "depth": 1
+              },
+              {
+                "id": "cac25270-b789-11ef-be99-ff013e008102",
+                "name": "Matt Farniok",
+                "jersey": "71",
+                "position": "T",
+                "depth": 2
+              }
+            ]
+          }
+        }
+      ],
+      "defense": [
+        {
+          "position": {
+            "name": "FS",
+            "players": [
+              {
+                "id": "981e73e0-0752-11ef-96bb-c7ce9de60648",
+                "name": "Joe Powell",
+                "jersey": "1",
+                "position": "SAF",
+                "depth": 1
+              },
+              {
+                "id": "b4eaafc0-9977-11ec-9b62-29fda84df06d",
+                "name": "Jamar Summers",
+                "jersey": "20",
+                "position": "CB",
+                "depth": 2
+              }
+            ]
+          }
+        },
+        {
+          "position": {
+            "name": "RCB",
+            "players": [
+              {
+                "id": "291392f0-cc51-11ee-a60a-8d7f07d3367e",
+                "name": "Steven Jones, Jr.",
+                "jersey": "28",
+                "position": "CB",
+                "depth": 1
+              },
+              {
+                "id": "dfcd9ad0-99a5-11ec-a6e2-072ef8c4179b",
+                "name": "Ajene Harris",
+                "jersey": "5",
+                "position": "CB",
+                "depth": 2
+              }
+            ]
+          }
+        },
+        {
+          "position": {
+            "name": "LILB",
+            "players": [
+              {
+                "id": "e53c2a90-997d-11ec-8491-fb7f613ce4ef",
+                "name": "Donald Payne",
+                "jersey": "18",
+                "position": "OLB",
+                "depth": 1
+              },
+              {
+                "id": "106d00f0-4576-11ed-ae81-212bd1fc8d4e",
+                "name": "Storey Jackson",
+                "jersey": "20",
+                "position": "LB",
+                "depth": 2
+              }
+            ]
+          }
+        },
+        {
+          "position": {
+            "name": "SS",
+            "players": [
+              {
+                "id": "7c359480-cc45-11ee-8f29-0b84fc254cdc",
+                "name": "Jamal Carter",
+                "jersey": "22",
+                "position": "DB",
+                "depth": 1
+              },
+              {
+                "id": "bb6bc2d0-cc47-11ee-a60a-8d7f07d3367e",
+                "name": "Myles Dorn",
+                "jersey": "46",
+                "position": "CB",
+                "depth": 2
+              }
+            ]
+          }
+        },
+        {
+          "position": {
+            "name": "ROLB",
+            "players": [
+              {
+                "id": "d7ef7bb0-cc45-11ee-8f29-0b84fc254cdc",
+                "name": "Will Clarke",
+                "jersey": "45",
+                "position": "OLB",
+                "depth": 1
+              },
+              {
+                "id": "cc34a120-9974-11ec-92bb-dba2de2d2d00",
+                "name": "Chris Odom",
+                "jersey": "93",
+                "position": "DE",
+                "depth": 2
+              }
+            ]
+          }
+        },
+        {
+          "position": {
+            "name": "LOLB",
+            "players": [
+              {
+                "id": "ee590e70-cc5e-11ee-a60a-8d7f07d3367e",
+                "name": "Willie Taylor III",
+                "jersey": "50",
+                "position": "DE",
+                "depth": 1
+              },
+              {
+                "id": "a1c19fb0-cc5d-11ee-a60a-8d7f07d3367e",
+                "name": "Tuzar Skipper",
+                "position": "OLB",
+                "depth": 2
+              }
+            ]
+          }
+        },
+        {
+          "position": {
+            "name": "RDE",
+            "players": [
+              {
+                "id": "1cd607c0-d9ed-11ef-bbd8-2d624bb4a3b5",
+                "name": "Amani Bledsoe",
+                "jersey": "95",
+                "position": "DE",
+                "depth": 1
+              },
+              {
+                "id": "d37af300-e807-11ef-a5b5-05c4351906c5",
+                "name": "Daviyon Nixon Sr.",
+                "jersey": "54",
+                "position": "DT",
+                "depth": 2
+              }
+            ]
+          }
+        },
+        {
+          "position": {
+            "name": "RILB",
+            "players": [
+              {
+                "id": "dd17b3f0-f976-11ef-ab59-9302ed33f59a",
+                "name": "Charlie Thomas III",
+                "jersey": "25",
+                "position": "MLB",
+                "depth": 1
+              },
+              {
+                "id": "073bb2c0-a077-11ef-aba2-7def38e6e361",
+                "name": "Caleb Johnson",
+                "jersey": "40",
+                "position": "LB",
+                "depth": 2
+              }
+            ]
+          }
+        },
+        {
+          "position": {
+            "name": "LCB",
+            "players": [
+              {
+                "id": "ef333e60-cfc3-11ef-9fe1-098e580f3347",
+                "name": "Jayden Price",
+                "jersey": "23",
+                "position": "CB",
+                "depth": 1
+              },
+              {
+                "id": "7ac57c80-d790-11ef-bf98-99cad2a2c46e",
+                "name": "Chris Claybrooks",
+                "jersey": "2",
+                "position": "CB",
+                "depth": 2
+              }
+            ]
+          }
+        },
+        {
+          "position": {
+            "name": "NT",
+            "players": [
+              {
+                "id": "e2427b20-b309-11ef-b8db-f1f5b1e452de",
+                "name": "Kyon Barrs",
+                "jersey": "92",
+                "position": "NT",
+                "depth": 1
+              }
+            ]
+          }
+        },
+        {
+          "position": {
+            "name": "LDE",
+            "players": [
+              {
+                "id": "a4c72210-cc5e-11ee-a60a-8d7f07d3367e",
+                "name": "LaRon Stokes",
+                "jersey": "97",
+                "position": "DT",
+                "depth": 1
+              },
+              {
+                "id": "d37af300-e807-11ef-a5b5-05c4351906c5",
+                "name": "Daviyon Nixon Sr.",
+                "jersey": "54",
+                "position": "DT",
+                "depth": 2
+              }
+            ]
+          }
+        }
+      ],
+      "special_teams": [
+        {
+          "position": {
+            "name": "PR",
+            "players": [
+              {
+                "id": "ef333e60-cfc3-11ef-9fe1-098e580f3347",
+                "name": "Jayden Price",
+                "jersey": "23",
+                "position": "CB",
+                "depth": 1
+              },
+              {
+                "id": "7ac57c80-d790-11ef-bf98-99cad2a2c46e",
+                "name": "Chris Claybrooks",
+                "jersey": "2",
+                "position": "CB",
+                "depth": 2
+              }
+            ]
+          }
+        },
+        {
+          "position": {
+            "name": "P",
+            "players": [
+              {
+                "id": "aa1675c0-cc51-11ee-a60a-8d7f07d3367e",
+                "name": "Marquette King",
+                "jersey": "7",
+                "position": "P",
+                "depth": 1
+              }
+            ]
+          }
+        },
+        {
+          "position": {
+            "name": "KR",
+            "players": [
+              {
+                "id": "ef333e60-cfc3-11ef-9fe1-098e580f3347",
+                "name": "Jayden Price",
+                "jersey": "23",
+                "position": "CB",
+                "depth": 1
+              },
+              {
+                "id": "981e73e0-0752-11ef-96bb-c7ce9de60648",
+                "name": "Joe Powell",
+                "jersey": "1",
+                "position": "SAF",
+                "depth": 2
+              }
+            ]
+          }
+        },
+        {
+          "position": {
+            "name": "LS",
+            "players": [
+              {
+                "id": "59dab2f0-cc57-11ee-a60a-8d7f07d3367e",
+                "name": "Antonio Ortiz",
+                "jersey": "49",
+                "position": "LS",
+                "depth": 1
+              }
+            ]
+          }
+        },
+        {
+          "position": {
+            "name": "H",
+            "players": [
+              {
+                "id": "aa1675c0-cc51-11ee-a60a-8d7f07d3367e",
+                "name": "Marquette King",
+                "jersey": "7",
+                "position": "P",
+                "depth": 1
+              }
+            ]
+          }
+        },
+        {
+          "position": {
+            "name": "K",
+            "players": [
+              {
+                "id": "fa92d600-b374-11ef-90b3-ed924bde988d",
+                "name": "Lucas Havrisik",
+                "jersey": "43",
+                "position": "K",
+                "depth": 1
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "f4305130-9675-11ec-8570-4594a07130f0",
+      "name": "Stallions",
+      "market": "Birmingham",
+      "alias": "BHM",
+      "sr_id": "sr:competitor:882409",
+      "offense": [
+        {
+          "position": {
+            "name": "LT",
+            "players": [
+              {
+                "id": "3be218f0-58cc-11ee-8622-7ffe5ae47922",
+                "name": "Christian DiLauro",
+                "jersey": "74",
+                "position": "T",
+                "depth": 1
+              },
+              {
+                "id": "87743ed0-a54d-11ec-a729-eb04862f2a23",
+                "name": "Jarron Jones",
+                "jersey": "77",
+                "position": "T",
+                "depth": 2
+              }
+            ]
+          }
+        },
+        {
+          "position": {
+            "name": "WR",
+            "players": [
+              {
+                "id": "f99a57a0-bdb7-11ed-a9cf-659b88c64826",
+                "name": "Deon Cain",
+                "jersey": "8",
+                "position": "WR",
+                "depth": 1
+              },
+              {
+                "id": "30227f40-d464-11ef-aa25-65235efeb43f",
+                "name": "Jalen Camp",
+                "jersey": "84",
+                "position": "WR",
+                "depth": 2
+              }
+            ]
+          }
+        },
+        {
+          "position": {
+            "name": "RG",
+            "players": [
+              {
+                "id": "955a7490-6cad-11ef-bd96-154555ac18c0",
+                "name": "Barry Wesley",
+                "jersey": "69",
+                "position": "OL",
+                "depth": 1
+              },
+              {
+                "id": "6ce64e90-b789-11ef-97b2-41e55802f345",
+                "name": "Lachavious Simmons",
+                "jersey": "70",
+                "position": "G",
+                "depth": 2
+              }
+            ]
+          }
+        },
+        {
+          "position": {
+            "name": "RB",
+            "players": [
+              {
+                "id": "a2dcbc60-e93f-11ed-87fc-edd4f0127635",
+                "name": "Ricky Person Jr.",
+                "jersey": "23",
+                "position": "RB",
+                "depth": 1
+              },
+              {
+                "id": "b8bfeaf0-9988-11ec-9a2e-25531daddf33",
+                "name": "C.J. Marable",
+                "jersey": "11",
+                "position": "RB",
+                "depth": 2
+              }
+            ]
+          }
+        },
+        {
+          "position": {
+            "name": "TE",
+            "players": [
+              {
+                "id": "daf18660-cc6c-11ee-a60a-8d7f07d3367e",
+                "name": "Jordan Thomas",
+                "jersey": "81",
+                "position": "TE",
+                "depth": 1
+              },
+              {
+                "id": "1862ca20-999f-11ec-bca1-c56bc30964c9",
+                "name": "La'Michael Pettway",
+                "jersey": "80",
+                "position": "TE",
+                "depth": 2
+              },
+              {
+                "id": "86a4bc40-9dc3-11ed-a46a-f7b8b9066203",
+                "name": "Jace Sternberger",
+                "jersey": "12",
+                "position": "TE",
+                "depth": 3
+              }
+            ]
+          }
+        },
+        {
+          "position": {
+            "name": "C",
+            "players": [
+              {
+                "id": "7be97790-cfe2-11ed-9d94-311aaa52eef3",
+                "name": "Cole Schneider",
+                "jersey": "56",
+                "position": "G",
+                "depth": 1
+              },
+              {
+                "id": "b2e3d100-cc62-11ee-a60a-8d7f07d3367e",
+                "name": "Deonte Brown",
+                "jersey": "65",
+                "position": "OG",
+                "depth": 2
+              }
+            ]
+          }
+        },
+        {
+          "position": {
+            "name": "WR",
+            "players": [
+              {
+                "id": "457458e0-c021-11ed-bef5-cf9971b3ae0e",
+                "name": "Davion Davis",
+                "jersey": "13",
+                "position": "WR",
+                "depth": 1
+              },
+              {
+                "id": "42941de0-a121-11ee-9d96-29e65af33b5b",
+                "name": "Amari Rodgers",
+                "jersey": "3",
+                "position": "WR",
+                "depth": 2
+              }
+            ]
+          }
+        },
+        {
+          "position": {
+            "name": "WR",
+            "players": [
+              {
+                "id": "c05641f0-5216-11ed-9f99-3b99e5f05b3f",
+                "name": "Austin Watkins Jr.",
+                "jersey": "87",
+                "position": "WR",
+                "depth": 1
+              },
+              {
+                "id": "024ef5c0-a53d-11ec-9276-0b2e383f8d64",
+                "name": "Marlon Williams",
+                "jersey": "17",
+                "position": "WR",
+                "depth": 2
+              }
+            ]
+          }
+        },
+        {
+          "position": {
+            "name": "LG",
+            "players": [
+              {
+                "id": "b2e3d100-cc62-11ee-a60a-8d7f07d3367e",
+                "name": "Deonte Brown",
+                "jersey": "65",
+                "position": "OG",
+                "depth": 1
+              },
+              {
+                "id": "87743ed0-a54d-11ec-a729-eb04862f2a23",
+                "name": "Jarron Jones",
+                "jersey": "77",
+                "position": "T",
+                "depth": 2
+              }
+            ]
+          }
+        },
+        {
+          "position": {
+            "name": "QB",
+            "players": [
+              {
+                "id": "c3b66360-997b-11ec-b169-9138b21f28ee",
+                "name": "Alex McGough",
+                "jersey": "10",
+                "position": "QB",
+                "depth": 1
+              },
+              {
+                "id": "f9359ba0-cc64-11ee-a60a-8d7f07d3367e",
+                "name": "Matt Corral",
+                "jersey": "2",
+                "position": "QB",
+                "depth": 2
+              }
+            ]
+          }
+        },
+        {
+          "position": {
+            "name": "RT",
+            "players": [
+              {
+                "id": "5a4cba10-a454-11ee-b188-1fd4a862a762",
+                "name": "Armani Taylor-Prioleau",
+                "jersey": "73",
+                "position": "T",
+                "depth": 1
+              },
+              {
+                "id": "6ce64e90-b789-11ef-97b2-41e55802f345",
+                "name": "Lachavious Simmons",
+                "jersey": "70",
+                "position": "G",
+                "depth": 2
+              }
+            ]
+          }
+        }
+      ],
+      "defense": [
+        {
+          "position": {
+            "name": "LOLB",
+            "players": [
+              {
+                "id": "51cbfd60-99bb-11ec-86dc-ff0add1e628b",
+                "name": "Kyahva Tezino",
+                "jersey": "31",
+                "position": "OLB",
+                "depth": 1
+              },
+              {
+                "id": "5e235770-d527-11ef-b908-2762d36054cb",
+                "name": "Tae Crowder",
+                "jersey": "20",
+                "position": "LB",
+                "depth": 2
+              }
+            ]
+          }
+        },
+        {
+          "position": {
+            "name": "RDT",
+            "players": [
+              {
+                "id": "251985d0-64b2-11ee-990a-ff5335715cf9",
+                "name": "Carlos Davis",
+                "jersey": "96",
+                "position": "NT",
+                "depth": 1
+              },
+              {
+                "id": "ff8ba7e0-9987-11ec-9386-bdf4768666ae",
+                "name": "Willie Yarbary",
+                "jersey": "97",
+                "position": "DL",
+                "depth": 2
+              }
+            ]
+          }
+        },
+        {
+          "position": {
+            "name": "RCB",
+            "players": [
+              {
+                "id": "be40c540-63cf-11ee-b540-21ebadde6793",
+                "name": "Daniel Isom",
+                "jersey": "19",
+                "position": "CB",
+                "depth": 1
+              },
+              {
+                "id": "1bb55190-494a-11ef-92b2-c9eaf94c71d3",
+                "name": "Rachad Wildgoose",
+                "jersey": "25",
+                "position": "CB",
+                "depth": 2
+              }
+            ]
+          }
+        },
+        {
+          "position": {
+            "name": "SS",
+            "players": [
+              {
+                "id": "92387060-8fbc-11ee-85c4-8566140bf443",
+                "name": "Kenny Robinson Jr.",
+                "jersey": "9",
+                "position": "SAF",
+                "depth": 1
+              },
+              {
+                "id": "8d871850-a53a-11ec-beb8-93b02d4bc4c8",
+                "name": "JoJo Tillery",
+                "jersey": "4",
+                "position": "SAF",
+                "depth": 2
+              }
+            ]
+          }
+        },
+        {
+          "position": {
+            "name": "LCB",
+            "players": [
+              {
+                "id": "ab0c9460-e4fa-11ef-9461-4d435e23126a",
+                "name": "Mario Goodrich",
+                "jersey": "16",
+                "position": "CB",
+                "depth": 1
+              },
+              {
+                "id": "688634f0-63cf-11ee-afed-0d84d8bfdeb4",
+                "name": "Madre Harper",
+                "jersey": "36",
+                "position": "CB",
+                "depth": 2
+              }
+            ]
+          }
+        },
+        {
+          "position": {
+            "name": "LDE",
+            "players": [
+              {
+                "id": "3243e0b0-dd0c-11ef-8839-3d68e3e9c7f3",
+                "name": "D.J. Coleman",
+                "position": "DE",
+                "depth": 1
+              },
+              {
+                "id": "fd102dd0-0c23-11f0-8f05-89e99e73e549",
+                "name": "Ronnie Perkins",
+                "jersey": "7",
+                "position": "DE",
+                "depth": 2
+              }
+            ]
+          }
+        },
+        {
+          "position": {
+            "name": "NB",
+            "players": [
+              {
+                "id": "b663d9f0-d464-11ef-957d-cf8262177f12",
+                "name": "Steven Gilmore",
+                "jersey": "22",
+                "position": "CB",
+                "depth": 1
+              },
+              {
+                "id": "688634f0-63cf-11ee-afed-0d84d8bfdeb4",
+                "name": "Madre Harper",
+                "jersey": "36",
+                "position": "CB",
+                "depth": 2
+              }
+            ]
+          }
+        },
+        {
+          "position": {
+            "name": "RDE",
+            "players": [
+              {
+                "id": "7f37f870-a3b4-11ef-af10-f92d6ae80645",
+                "name": "Bradlee Anae",
+                "jersey": "90",
+                "position": "DE",
+                "depth": 1
+              },
+              {
+                "id": "3243e0b0-dd0c-11ef-8839-3d68e3e9c7f3",
+                "name": "D.J. Coleman",
+                "position": "DE",
+                "depth": 2
+              }
+            ]
+          }
+        },
+        {
+          "position": {
+            "name": "FS",
+            "players": [
+              {
+                "id": "94c6d090-5c19-11ef-914d-1f3e0012a00a",
+                "name": "Tre Norwood",
+                "jersey": "21",
+                "position": "CB",
+                "depth": 1
+              },
+              {
+                "id": "8d871850-a53a-11ec-beb8-93b02d4bc4c8",
+                "name": "JoJo Tillery",
+                "jersey": "4",
+                "position": "SAF",
+                "depth": 2
+              }
+            ]
+          }
+        },
+        {
+          "position": {
+            "name": "LDT",
+            "players": [
+              {
+                "id": "3e1c6150-81d1-11ef-a4b3-9fa3d99818ca",
+                "name": "Perrion Winfrey",
+                "jersey": "98",
+                "position": "DT",
+                "depth": 1
+              },
+              {
+                "id": "d095c240-7f54-11ee-9d71-672bbc87e135",
+                "name": "Marvin Wilson",
+                "jersey": "58",
+                "position": "DT",
+                "depth": 2
+              }
+            ]
+          }
+        },
+        {
+          "position": {
+            "name": "ROLB",
+            "players": [
+              {
+                "id": "3bbeb6c0-cc6d-11ee-a60a-8d7f07d3367e",
+                "name": "A.J. Thomas",
+                "jersey": "32",
+                "position": "SAF",
+                "depth": 1
+              },
+              {
+                "id": "4c0c2840-b377-11ef-9f92-61f85b2c258d",
+                "name": "Chapelle Russell",
+                "jersey": "30",
+                "position": "MLB",
+                "depth": 2
+              }
+            ]
+          }
+        }
+      ],
+      "special_teams": [
+        {
+          "position": {
+            "name": "KR",
+            "players": [
+              {
+                "id": "f99a57a0-bdb7-11ed-a9cf-659b88c64826",
+                "name": "Deon Cain",
+                "jersey": "8",
+                "position": "WR",
+                "depth": 1
+              },
+              {
+                "id": "42941de0-a121-11ee-9d96-29e65af33b5b",
+                "name": "Amari Rodgers",
+                "jersey": "3",
+                "position": "WR",
+                "depth": 2
+              }
+            ]
+          }
+        },
+        {
+          "position": {
+            "name": "PR",
+            "players": [
+              {
+                "id": "42941de0-a121-11ee-9d96-29e65af33b5b",
+                "name": "Amari Rodgers",
+                "jersey": "3",
+                "position": "WR",
+                "depth": 1
+              },
+              {
+                "id": "457458e0-c021-11ed-bef5-cf9971b3ae0e",
+                "name": "Davion Davis",
+                "jersey": "13",
+                "position": "WR",
+                "depth": 2
+              }
+            ]
+          }
+        },
+        {
+          "position": {
+            "name": "K",
+            "players": [
+              {
+                "id": "37b379a0-b45a-11ef-8577-1172c81c5261",
+                "name": "Harrison Mevis",
+                "jersey": "18",
+                "position": "K",
+                "depth": 1
+              }
+            ]
+          }
+        },
+        {
+          "position": {
+            "name": "P",
+            "players": [
+              {
+                "id": "85ac8cd0-9989-11ec-82dd-ebf30250075c",
+                "name": "Colby Wadman",
+                "jersey": "15",
+                "position": "P",
+                "depth": 1
+              }
+            ]
+          }
+        },
+        {
+          "position": {
+            "name": "LS",
+            "players": [
+              {
+                "id": "b2438a60-bb3e-11ec-832d-4fc22bdac3ab",
+                "name": "Ryan Langan",
+                "jersey": "27",
+                "position": "LS",
+                "depth": 1
+              }
+            ]
+          }
+        },
+        {
+          "position": {
+            "name": "H",
+            "players": [
+              {
+                "id": "85ac8cd0-9989-11ec-82dd-ebf30250075c",
+                "name": "Colby Wadman",
+                "jersey": "15",
+                "position": "P",
+                "depth": 1
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "a3407150-c045-11ee-b66f-5d382d09dbaf",
+      "name": "Defenders",
+      "market": "DC",
+      "alias": "DC",
+      "sr_id": "sr:competitor:661851",
+      "offense": [
+        {
+          "position": {
+            "name": "TE",
+            "players": [
+              {
+                "id": "9dba65a0-cdd9-11ee-865e-6d293a2fea93",
+                "name": "Briley Moore",
+                "jersey": "88",
+                "position": "TE",
+                "depth": 1
+              },
+              {
+                "id": "7eb2daa0-cc73-11ee-a60a-8d7f07d3367e",
+                "name": "Ben Bresnahan",
+                "jersey": "87",
+                "position": "TE",
+                "depth": 2
+              }
+            ]
+          }
+        },
+        {
+          "position": {
+            "name": "WR",
+            "players": [
+              {
+                "id": "e9f9c840-f883-11ef-b61f-e78cda0f2aae",
+                "name": "Cornell Powell",
+                "jersey": "14",
+                "position": "WR",
+                "depth": 1
+              },
+              {
+                "id": "fcf82ac0-fc45-11ef-ad65-e72beb18d197",
+                "name": "Javon Antonio",
+                "jersey": "13",
+                "position": "WR",
+                "depth": 2
+              }
+            ]
+          }
+        },
+        {
+          "position": {
+            "name": "LT",
+            "players": [
+              {
+                "id": "0d4f2a10-e25a-11ee-89a8-6317b3c921ad",
+                "name": "Yasir Durant",
+                "jersey": "70",
+                "position": "T",
+                "depth": 1
+              }
+            ]
+          }
+        },
+        {
+          "position": {
+            "name": "C",
+            "players": [
+              {
+                "id": "36b27fe0-cdd5-11ee-865e-6d293a2fea93",
+                "name": "Michael Maietti",
+                "jersey": "51",
+                "position": "C",
+                "depth": 1
+              },
+              {
+                "id": "67192380-fe0f-11ef-be5b-238f97d4e8c9",
+                "name": "Johari Branch",
+                "jersey": "56",
+                "position": "C",
+                "depth": 2
+              }
+            ]
+          }
+        },
+        {
+          "position": {
+            "name": "LG",
+            "players": [
+              {
+                "id": "1302f7e0-9897-11ef-bc30-51a1fd21748f",
+                "name": "Tykeem Doss",
+                "jersey": "79",
+                "position": "OL",
+                "depth": 1
+              }
+            ]
+          }
+        },
+        {
+          "position": {
+            "name": "RB",
+            "players": [
+              {
+                "id": "03210960-cddc-11ee-865e-6d293a2fea93",
+                "name": "Abram Smith",
+                "jersey": "4",
+                "position": "RB",
+                "depth": 1
+              },
+              {
+                "id": "82422650-b109-11ef-8c68-03f0462dac93",
+                "name": "Deon Jackson",
+                "jersey": "25",
+                "position": "RB",
+                "depth": 2
+              },
+              {
+                "id": "9e072050-b248-11ed-817c-05a7dd9e577f",
+                "name": "Darius Hagans",
+                "jersey": "28",
+                "position": "RB",
+                "depth": 3
+              }
+            ]
+          }
+        },
+        {
+          "position": {
+            "name": "QB",
+            "players": [
+              {
+                "id": "da3fe290-9715-11ec-8204-65f6ced40d4a",
+                "name": "Jordan Ta'amu",
+                "jersey": "10",
+                "position": "QB",
+                "depth": 1
+              },
+              {
+                "id": "ab5bd7f0-1327-11ef-94a0-fbcee29685f7",
+                "name": "Mike DiLiello",
+                "jersey": "17",
+                "position": "QB",
+                "depth": 2
+              }
+            ]
+          }
+        },
+        {
+          "position": {
+            "name": "WR",
+            "players": [
+              {
+                "id": "c7f67940-a60c-11ec-94ef-a944ea67e574",
+                "name": "Chris Rowland",
+                "jersey": "12",
+                "position": "WR",
+                "depth": 1
+              },
+              {
+                "id": "1ef56cb0-decc-11ef-8424-dd6f6a2b0cda",
+                "name": "Jaydon Mickens",
+                "jersey": "3",
+                "position": "WR",
+                "depth": 2
+              }
+            ]
+          }
+        },
+        {
+          "position": {
+            "name": "WR",
+            "players": [
+              {
+                "id": "afd8d8a0-cddb-11ee-865e-6d293a2fea93",
+                "name": "Ty Scott",
+                "jersey": "19",
+                "position": "WR",
+                "depth": 1
+              }
+            ]
+          }
+        },
+        {
+          "position": {
+            "name": "RT",
+            "players": [
+              {
+                "id": "7b3b27c0-cc6d-11ee-aca5-9da842dcb88e",
+                "name": "Jarrid Williams",
+                "jersey": "62",
+                "position": "OT",
+                "depth": 1
+              },
+              {
+                "id": "79d845b0-e36a-11ef-8a18-c1e8a8c1e4a4",
+                "name": "Gunner Britton",
+                "jersey": "74",
+                "position": "G",
+                "depth": 2
+              }
+            ]
+          }
+        },
+        {
+          "position": {
+            "name": "RG",
+            "players": [
+              {
+                "id": "8bd67c30-cc7a-11ee-a60a-8d7f07d3367e",
+                "name": "Lamont Gaillard",
+                "jersey": "53",
+                "position": "C",
+                "depth": 1
+              }
+            ]
+          }
+        }
+      ],
+      "defense": [
+        {
+          "position": {
+            "name": "LDE",
+            "players": [
+              {
+                "id": "06b4d3f0-cddb-11ee-865e-6d293a2fea93",
+                "name": "Derick Roberson",
+                "jersey": "50",
+                "position": "DE",
+                "depth": 1
+              },
+              {
+                "id": "d4f02920-b45a-11ef-a226-81c0b3b6e51c",
+                "name": "Kyle Phillips",
+                "jersey": "98",
+                "position": "DE",
+                "depth": 2
+              }
+            ]
+          }
+        },
+        {
+          "position": {
+            "name": "RCB",
+            "players": [
+              {
+                "id": "b36a28f0-cc6b-11ee-aca5-9da842dcb88e",
+                "name": "Bryce Thompson",
+                "jersey": "1",
+                "position": "CB",
+                "depth": 1
+              },
+              {
+                "id": "92eaf020-d8fd-11ee-b73a-5f673c06f8b7",
+                "name": "Kiondre Thomas",
+                "jersey": "24",
+                "position": "CB",
+                "depth": 2
+              }
+            ]
+          }
+        },
+        {
+          "position": {
+            "name": "LILB",
+            "players": [
+              {
+                "id": "667946e0-cddb-11ee-865e-6d293a2fea93",
+                "name": "Momo Sanogo",
+                "jersey": "11",
+                "position": "LB",
+                "depth": 1
+              },
+              {
+                "id": "122f2100-b30d-11ef-96c6-83c3b9610122",
+                "name": "Shayne Simon",
+                "jersey": "33",
+                "position": "LB",
+                "depth": 2
+              }
+            ]
+          }
+        },
+        {
+          "position": {
+            "name": "SS",
+            "players": [
+              {
+                "id": "57459c40-cc6f-11ee-a60a-8d7f07d3367e",
+                "name": "Deontay Anderson",
+                "jersey": "9",
+                "position": "SAF",
+                "depth": 1
+              },
+              {
+                "id": "47c1cc20-cc7f-11ee-a60a-8d7f07d3367e",
+                "name": "Sam Kidd",
+                "jersey": "26",
+                "position": "DB",
+                "depth": 2
+              }
+            ]
+          }
+        },
+        {
+          "position": {
+            "name": "LDT",
+            "players": [
+              {
+                "id": "281f7200-cddd-11ee-865e-6d293a2fea93",
+                "name": "Joe Wallace",
+                "jersey": "99",
+                "position": "DT",
+                "depth": 1
+              },
+              {
+                "id": "cd4fb930-cddb-11ee-865e-6d293a2fea93",
+                "name": "Niles Scott",
+                "jersey": "90",
+                "position": "DT",
+                "depth": 2
+              }
+            ]
+          }
+        },
+        {
+          "position": {
+            "name": "RILB",
+            "players": [
+              {
+                "id": "5a810540-cc7c-11ee-a60a-8d7f07d3367e",
+                "name": "Anthony Hines III",
+                "jersey": "57",
+                "position": "LB",
+                "depth": 1
+              },
+              {
+                "id": "dea3b090-cc7a-11ee-a60a-8d7f07d3367e",
+                "name": "Ferrod Gardner",
+                "jersey": "6",
+                "position": "LB",
+                "depth": 2
+              }
+            ]
+          }
+        },
+        {
+          "position": {
+            "name": "RDE",
+            "players": [
+              {
+                "id": "5cdb7760-cc79-11ee-a60a-8d7f07d3367e",
+                "name": "Malik Fisher",
+                "jersey": "92",
+                "position": "DE",
+                "depth": 1
+              },
+              {
+                "id": "675cf780-cdd8-11ee-865e-6d293a2fea93",
+                "name": "Andre Mintze",
+                "jersey": "48",
+                "position": "DE",
+                "depth": 2
+              }
+            ]
+          }
+        },
+        {
+          "position": {
+            "name": "RDT",
+            "players": [
+              {
+                "id": "17ef2170-cc7d-11ee-a60a-8d7f07d3367e",
+                "name": "Dennis Johnson",
+                "jersey": "91",
+                "position": "NT",
+                "depth": 1
+              },
+              {
+                "id": "2ab6f420-b30b-11ef-95cf-89815a499ee8",
+                "name": "Devonnsha Maxwell",
+                "jersey": "95",
+                "position": "DT",
+                "depth": 2
+              }
+            ]
+          }
+        },
+        {
+          "position": {
+            "name": "LCB",
+            "players": [
+              {
+                "id": "c0e78aa0-cc6f-11ee-a60a-8d7f07d3367e",
+                "name": "Deandre Baker",
+                "jersey": "2",
+                "position": "CB",
+                "depth": 1
+              }
+            ]
+          }
+        },
+        {
+          "position": {
+            "name": "FS",
+            "players": [
+              {
+                "id": "0d4340e0-cdda-11ee-865e-6d293a2fea93",
+                "name": "Montae Nicholson",
+                "jersey": "21",
+                "position": "SAF",
+                "depth": 1
+              },
+              {
+                "id": "e31fe600-b30d-11ef-9903-992d7fb0dac1",
+                "name": "Tayler Hawkins",
+                "jersey": "8",
+                "position": "FS",
+                "depth": 2
+              }
+            ]
+          }
+        },
+        {
+          "position": {
+            "name": "NB",
+            "players": [
+              {
+                "id": "15cc20d0-f32a-11ef-8baf-579fe0c66bc5",
+                "name": "Kelvin Joseph",
+                "jersey": "27",
+                "position": "CB",
+                "depth": 1
+              }
+            ]
+          }
+        }
+      ],
+      "special_teams": [
+        {
+          "position": {
+            "name": "K",
+            "players": [
+              {
+                "id": "3fa286b0-cdd8-11ee-865e-6d293a2fea93",
+                "name": "Matt McCrane",
+                "jersey": "16",
+                "position": "K",
+                "depth": 1
+              }
+            ]
+          }
+        },
+        {
+          "position": {
+            "name": "KR",
+            "players": [
+              {
+                "id": "c7f67940-a60c-11ec-94ef-a944ea67e574",
+                "name": "Chris Rowland",
+                "jersey": "12",
+                "position": "WR",
+                "depth": 1
+              }
+            ]
+          }
+        },
+        {
+          "position": {
+            "name": "LS",
+            "players": [
+              {
+                "id": "52be7100-cc70-11ee-a60a-8d7f07d3367e",
+                "name": "Trae Barry",
+                "jersey": "80",
+                "position": "LS",
+                "depth": 1
+              }
+            ]
+          }
+        },
+        {
+          "position": {
+            "name": "P",
+            "players": [
+              {
+                "id": "68b37c90-cc74-11ee-a60a-8d7f07d3367e",
+                "name": "Paxton Brooks",
+                "jersey": "47",
+                "position": "P",
+                "depth": 1
+              }
+            ]
+          }
+        },
+        {
+          "position": {
+            "name": "H",
+            "players": [
+              {
+                "id": "68b37c90-cc74-11ee-a60a-8d7f07d3367e",
+                "name": "Paxton Brooks",
+                "jersey": "47",
+                "position": "P",
+                "depth": 1
+              }
+            ]
+          }
+        },
+        {
+          "position": {
+            "name": "PR",
+            "players": [
+              {
+                "id": "c7f67940-a60c-11ec-94ef-a944ea67e574",
+                "name": "Chris Rowland",
+                "jersey": "12",
+                "position": "WR",
+                "depth": 1
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "42b04b80-9676-11ec-9ad0-d3ebe46bbb12",
+      "name": "Roughnecks",
+      "market": "Houston",
+      "alias": "HOU",
+      "sr_id": "sr:competitor:882411",
+      "offense": [
+        {
+          "position": {
+            "name": "LWR",
+            "players": [
+              {
+                "id": "fc413fe0-3e6f-11ed-becc-e9eac83d1b3a",
+                "name": "Keke Chism",
+                "jersey": "3",
+                "position": "WR",
+                "depth": 1
+              },
+              {
+                "id": "241fc460-cc6c-11ee-aca5-9da842dcb88e",
+                "name": "T.J. Vasher",
+                "jersey": "19",
+                "position": "WR",
+                "depth": 2
+              },
+              {
+                "id": "906de590-04bf-11ee-8ace-21560443b46d",
+                "name": "Emmanuel Butler",
+                "jersey": "18",
+                "position": "WR",
+                "depth": 3
+              }
+            ]
+          }
+        },
+        {
+          "position": {
+            "name": "WR",
+            "players": [
+              {
+                "id": "e478dd10-5b79-11ed-ba29-810cf6fa4af2",
+                "name": "Justin Hall",
+                "jersey": "11",
+                "position": "WR",
+                "depth": 1
+              },
+              {
+                "id": "3c0ad7b0-fbe9-11ef-a9ed-9742a39f3b12",
+                "name": "Lawrence Keys III",
+                "jersey": "15",
+                "position": "WR",
+                "depth": 2
+              },
+              {
+                "id": "906de590-04bf-11ee-8ace-21560443b46d",
+                "name": "Emmanuel Butler",
+                "jersey": "18",
+                "position": "WR",
+                "depth": 3
+              }
+            ]
+          }
+        },
+        {
+          "position": {
+            "name": "QB",
+            "players": [
+              {
+                "id": "fae91f20-e5c3-11ef-8684-c5f391e22f20",
+                "name": "Anthony Brown",
+                "jersey": "13",
+                "position": "QB",
+                "depth": 1
+              },
+              {
+                "id": "5109ec70-cddf-11ee-a453-0ffffcc99869",
+                "name": "Nolan Henderson",
+                "jersey": "14",
+                "position": "QB",
+                "depth": 2
+              }
+            ]
+          }
+        },
+        {
+          "position": {
+            "name": "RWR",
+            "players": [
+              {
+                "id": "3c0ad7b0-fbe9-11ef-a9ed-9742a39f3b12",
+                "name": "Lawrence Keys III",
+                "jersey": "15",
+                "position": "WR",
+                "depth": 1
+              },
+              {
+                "id": "906de590-04bf-11ee-8ace-21560443b46d",
+                "name": "Emmanuel Butler",
+                "jersey": "18",
+                "position": "WR",
+                "depth": 2
+              },
+              {
+                "id": "241fc460-cc6c-11ee-aca5-9da842dcb88e",
+                "name": "T.J. Vasher",
+                "jersey": "19",
+                "position": "WR",
+                "depth": 3
+              }
+            ]
+          }
+        },
+        {
+          "position": {
+            "name": "TE",
+            "players": [
+              {
+                "id": "0d44d210-84f6-11ef-bed2-97c3fa3af2e7",
+                "name": "Noah Atagi",
+                "jersey": "66",
+                "position": "T",
+                "depth": 1
+              },
+              {
+                "id": "11bc0f90-db53-11ee-b11a-07971869fa47",
+                "name": "Cam Sutton",
+                "jersey": "89",
+                "position": "TE",
+                "depth": 2
+              },
+              {
+                "id": "1e0de2e0-6a4c-11ef-b3c3-3fe9a00b2ed3",
+                "name": "Geor'Quarius Spivey",
+                "jersey": "10",
+                "position": "TE",
+                "depth": 3
+              }
+            ]
+          }
+        },
+        {
+          "position": {
+            "name": "RT",
+            "players": [
+              {
+                "id": "f04cffd0-cfe2-11ed-9d94-311aaa52eef3",
+                "name": "Cam Carter",
+                "jersey": "78",
+                "position": "OT",
+                "depth": 1
+              },
+              {
+                "id": "e1f15200-4acb-11ef-89de-eb38c5dba47a",
+                "name": "Samuel Jackson",
+                "jersey": "73",
+                "position": "OL",
+                "depth": 2
+              },
+              {
+                "id": "0d44d210-84f6-11ef-bed2-97c3fa3af2e7",
+                "name": "Noah Atagi",
+                "jersey": "66",
+                "position": "T",
+                "depth": 3
+              }
+            ]
+          }
+        },
+        {
+          "position": {
+            "name": "LG",
+            "players": [
+              {
+                "id": "312d40d0-9977-11ec-9b62-29fda84df06d",
+                "name": "Avery Gennesy",
+                "jersey": "74",
+                "position": "OT",
+                "depth": 1
+              },
+              {
+                "id": "315fe0d0-cd8b-11ef-9131-c768ab36093b",
+                "name": "Avery Jones",
+                "jersey": "54",
+                "position": "C",
+                "depth": 2
+              }
+            ]
+          }
+        },
+        {
+          "position": {
+            "name": "C",
+            "players": [
+              {
+                "id": "974898c0-cc75-11ec-95ad-f9018f04d92d",
+                "name": "Jack Kramer",
+                "jersey": "65",
+                "position": "C",
+                "depth": 1
+              },
+              {
+                "id": "315fe0d0-cd8b-11ef-9131-c768ab36093b",
+                "name": "Avery Jones",
+                "jersey": "54",
+                "position": "C",
+                "depth": 2
+              }
+            ]
+          }
+        },
+        {
+          "position": {
+            "name": "RG",
+            "players": [
+              {
+                "id": "0d44d210-84f6-11ef-bed2-97c3fa3af2e7",
+                "name": "Noah Atagi",
+                "jersey": "66",
+                "position": "T",
+                "depth": 1
+              },
+              {
+                "id": "e1f15200-4acb-11ef-89de-eb38c5dba47a",
+                "name": "Samuel Jackson",
+                "jersey": "73",
+                "position": "OL",
+                "depth": 2
+              }
+            ]
+          }
+        },
+        {
+          "position": {
+            "name": "RB",
+            "players": [
+              {
+                "id": "986d0b60-fedf-11ef-9547-c1f580bb3dfd",
+                "name": "Lorenzo Lingard",
+                "jersey": "27",
+                "position": "RB",
+                "depth": 1
+              },
+              {
+                "id": "fb649c60-cddf-11ee-a453-0ffffcc99869",
+                "name": "Kirk Merritt",
+                "jersey": "22",
+                "position": "RB",
+                "depth": 2
+              }
+            ]
+          }
+        },
+        {
+          "position": {
+            "name": "LT",
+            "players": [
+              {
+                "id": "82438f70-fa53-11ef-9449-0179a9f97673",
+                "name": "Zach Banner",
+                "jersey": "78",
+                "position": "T",
+                "depth": 1
+              },
+              {
+                "id": "e1f15200-4acb-11ef-89de-eb38c5dba47a",
+                "name": "Samuel Jackson",
+                "jersey": "73",
+                "position": "OL",
+                "depth": 2
+              }
+            ]
+          }
+        }
+      ],
+      "defense": [
+        {
+          "position": {
+            "name": "OLB",
+            "players": [
+              {
+                "id": "283ed050-cdc5-11ed-ac85-efd5c3923245",
+                "name": "J.T. Tyler",
+                "jersey": "33",
+                "position": "OLB",
+                "depth": 1
+              },
+              {
+                "id": "e09687c0-0148-11f0-9338-03de0d430138",
+                "name": "Byron Vaughns",
+                "position": "DE",
+                "depth": 2
+              },
+              {
+                "id": "ec2ea9d0-cc5d-11ee-a16c-330e9a996a52",
+                "name": "Jamir Jones",
+                "jersey": "44",
+                "position": "OLB",
+                "depth": 3
+              }
+            ]
+          }
+        },
+        {
+          "position": {
+            "name": "NT",
+            "players": [
+              {
+                "id": "cfdd7780-99b9-11ec-86dc-ff0add1e628b",
+                "name": "Olive Sagapolu",
+                "jersey": "94",
+                "position": "DT",
+                "depth": 1
+              },
+              {
+                "id": "ae93edd0-cde1-11ee-a453-0ffffcc99869",
+                "name": "Glen Logan",
+                "jersey": "97",
+                "position": "DT",
+                "depth": 2
+              }
+            ]
+          }
+        },
+        {
+          "position": {
+            "name": "RDE",
+            "players": [
+              {
+                "id": "d14d1780-494b-11ef-848c-955d8f5c7caf",
+                "name": "Eyabi Okie-Anoma",
+                "position": "DE",
+                "depth": 1
+              },
+              {
+                "id": "c35c7620-b8db-11ef-817f-7155bbc7d564",
+                "name": "T.J. Franklin",
+                "jersey": "96",
+                "position": "DE",
+                "depth": 2
+              }
+            ]
+          }
+        },
+        {
+          "position": {
+            "name": "RCB",
+            "players": [
+              {
+                "id": "48e6e6e0-c714-11ef-81ca-1bb223f12039",
+                "name": "Damon Arnette",
+                "jersey": "26",
+                "position": "CB",
+                "depth": 1
+              },
+              {
+                "id": "881ef7a0-ca50-11ef-8b52-2d24f796a75c",
+                "name": "Rayshad Williams",
+                "jersey": "23",
+                "position": "CB",
+                "depth": 2
+              },
+              {
+                "id": "ab7ed460-494d-11ef-b216-410a7c7879dc",
+                "name": "Marquis Wilson",
+                "position": "CB",
+                "depth": 3
+              }
+            ]
+          }
+        },
+        {
+          "position": {
+            "name": "RILB",
+            "players": [
+              {
+                "id": "4422c810-db54-11ee-b11a-07971869fa47",
+                "name": "Drew Lewis",
+                "jersey": "20",
+                "position": "LB",
+                "depth": 1
+              }
+            ]
+          }
+        },
+        {
+          "position": {
+            "name": "LB",
+            "players": [
+              {
+                "id": "4422c810-db54-11ee-b11a-07971869fa47",
+                "name": "Drew Lewis",
+                "jersey": "20",
+                "position": "LB",
+                "depth": 1
+              },
+              {
+                "id": "283ed050-cdc5-11ed-ac85-efd5c3923245",
+                "name": "J.T. Tyler",
+                "jersey": "33",
+                "position": "OLB",
+                "depth": 2
+              },
+              {
+                "id": "2cc795f0-cde0-11ee-a453-0ffffcc99869",
+                "name": "Marvin Moody",
+                "jersey": "28",
+                "position": "LB",
+                "depth": 3
+              }
+            ]
+          }
+        },
+        {
+          "position": {
+            "name": "SS",
+            "players": [
+              {
+                "id": "39cf5370-a458-11ee-b8be-f9070868398e",
+                "name": "Markel Roby",
+                "jersey": "31",
+                "position": "SAF",
+                "depth": 1
+              },
+              {
+                "id": "158e8340-494f-11ef-b881-b5644c71dba8",
+                "name": "Shawn Preston Jr.",
+                "jersey": "12",
+                "position": "SS",
+                "depth": 2
+              }
+            ]
+          }
+        },
+        {
+          "position": {
+            "name": "DT",
+            "players": [
+              {
+                "id": "4d503de0-a56f-11ec-b024-bdae402a3fdb",
+                "name": "Darrius Moragne",
+                "jersey": "92",
+                "position": "DL",
+                "depth": 1
+              },
+              {
+                "id": "51c40e20-fedf-11ef-bb6c-a1318f82f43b",
+                "name": "Israel Antwine",
+                "jersey": "95",
+                "position": "DT",
+                "depth": 2
+              },
+              {
+                "id": "ae93edd0-cde1-11ee-a453-0ffffcc99869",
+                "name": "Glen Logan",
+                "jersey": "97",
+                "position": "DT",
+                "depth": 3
+              }
+            ]
+          }
+        },
+        {
+          "position": {
+            "name": "LDE",
+            "players": [
+              {
+                "id": "b718dce0-01d0-11ef-8e70-5966fcbfb649",
+                "name": "Christopher Allen",
+                "jersey": "2",
+                "position": "MLB",
+                "depth": 1
+              },
+              {
+                "id": "ec2ea9d0-cc5d-11ee-a16c-330e9a996a52",
+                "name": "Jamir Jones",
+                "jersey": "44",
+                "position": "OLB",
+                "depth": 2
+              },
+              {
+                "id": "e09687c0-0148-11f0-9338-03de0d430138",
+                "name": "Byron Vaughns",
+                "position": "DE",
+                "depth": 3
+              }
+            ]
+          }
+        },
+        {
+          "position": {
+            "name": "FS",
+            "players": [
+              {
+                "id": "db892e70-decc-11ef-a301-6340c9508a59",
+                "name": "Leon O'Neal Jr.",
+                "jersey": "1",
+                "position": "SAF",
+                "depth": 1
+              },
+              {
+                "id": "881ef7a0-ca50-11ef-8b52-2d24f796a75c",
+                "name": "Rayshad Williams",
+                "jersey": "23",
+                "position": "CB",
+                "depth": 2
+              }
+            ]
+          }
+        },
+        {
+          "position": {
+            "name": "LCB",
+            "players": [
+              {
+                "id": "c7f1d840-b240-11ed-a7cc-db58979346fc",
+                "name": "Keenan Isaac",
+                "jersey": "24",
+                "position": "CB",
+                "depth": 1
+              },
+              {
+                "id": "062a6020-dc32-11ee-9573-234d5a4ed2fc",
+                "name": "Corn Elder",
+                "jersey": "29",
+                "position": "CB",
+                "depth": 2
+              },
+              {
+                "id": "ab7ed460-494d-11ef-b216-410a7c7879dc",
+                "name": "Marquis Wilson",
+                "position": "CB",
+                "depth": 3
+              }
+            ]
+          }
+        },
+        {
+          "position": {
+            "name": "LILB",
+            "players": [
+              {
+                "id": "2cc795f0-cde0-11ee-a453-0ffffcc99869",
+                "name": "Marvin Moody",
+                "jersey": "28",
+                "position": "LB",
+                "depth": 1
+              }
+            ]
+          }
+        }
+      ],
+      "special_teams": [
+        {
+          "position": {
+            "name": "P",
+            "players": [
+              {
+                "id": "1b6511e0-494e-11ef-a41e-c7ccd967dc70",
+                "name": "Mike Rivers",
+                "jersey": "47",
+                "position": "P",
+                "depth": 1
+              },
+              {
+                "id": "578d3e10-e4f8-11ed-b138-b17d35a1c9d6",
+                "name": "Chris Blewitt",
+                "jersey": "5",
+                "position": "K",
+                "depth": 2
+              }
+            ]
+          }
+        },
+        {
+          "position": {
+            "name": "PR",
+            "players": [
+              {
+                "id": "e478dd10-5b79-11ed-ba29-810cf6fa4af2",
+                "name": "Justin Hall",
+                "jersey": "11",
+                "position": "WR",
+                "depth": 1
+              },
+              {
+                "id": "fc413fe0-3e6f-11ed-becc-e9eac83d1b3a",
+                "name": "Keke Chism",
+                "jersey": "3",
+                "position": "WR",
+                "depth": 2
+              },
+              {
+                "id": "3c0ad7b0-fbe9-11ef-a9ed-9742a39f3b12",
+                "name": "Lawrence Keys III",
+                "jersey": "15",
+                "position": "WR",
+                "depth": 3
+              }
+            ]
+          }
+        },
+        {
+          "position": {
+            "name": "K",
+            "players": [
+              {
+                "id": "578d3e10-e4f8-11ed-b138-b17d35a1c9d6",
+                "name": "Chris Blewitt",
+                "jersey": "5",
+                "position": "K",
+                "depth": 1
+              },
+              {
+                "id": "1b6511e0-494e-11ef-a41e-c7ccd967dc70",
+                "name": "Mike Rivers",
+                "jersey": "47",
+                "position": "P",
+                "depth": 2
+              }
+            ]
+          }
+        },
+        {
+          "position": {
+            "name": "KR",
+            "players": [
+              {
+                "id": "3c0ad7b0-fbe9-11ef-a9ed-9742a39f3b12",
+                "name": "Lawrence Keys III",
+                "jersey": "15",
+                "position": "WR",
+                "depth": 1
+              },
+              {
+                "id": "fb649c60-cddf-11ee-a453-0ffffcc99869",
+                "name": "Kirk Merritt",
+                "jersey": "22",
+                "position": "RB",
+                "depth": 2
+              },
+              {
+                "id": "e478dd10-5b79-11ed-ba29-810cf6fa4af2",
+                "name": "Justin Hall",
+                "jersey": "11",
+                "position": "WR",
+                "depth": 3
+              }
+            ]
+          }
+        },
+        {
+          "position": {
+            "name": "LS",
+            "players": [
+              {
+                "id": "e90f7060-494c-11ef-b2c2-1752e2772f2b",
+                "name": "Marco Ortiz",
+                "jersey": "45",
+                "position": "LS",
+                "depth": 1
+              },
+              {
+                "id": "c35c7620-b8db-11ef-817f-7155bbc7d564",
+                "name": "T.J. Franklin",
+                "jersey": "96",
+                "position": "DE",
+                "depth": 2
+              }
+            ]
+          }
+        },
+        {
+          "position": {
+            "name": "H",
+            "players": [
+              {
+                "id": "1b6511e0-494e-11ef-a41e-c7ccd967dc70",
+                "name": "Mike Rivers",
+                "jersey": "47",
+                "position": "P",
+                "depth": 1
+              },
+              {
+                "id": "5109ec70-cddf-11ee-a453-0ffffcc99869",
+                "name": "Nolan Henderson",
+                "jersey": "14",
+                "position": "QB",
+                "depth": 2
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "b88f3e30-66c1-11ed-bbea-376dc2cc7dc0",
+      "name": "Showboats",
+      "market": "Memphis",
+      "alias": "MEM",
+      "sr_id": "sr:competitor:982997",
+      "offense": [
+        {
+          "position": {
+            "name": "TE",
+            "players": [
+              {
+                "id": "a6b85740-4d08-11ee-9b48-83dae030baf7",
+                "name": "Chris Pierce Jr.",
+                "jersey": "89",
+                "position": "TE",
+                "depth": 1
+              }
+            ]
+          }
+        },
+        {
+          "position": {
+            "name": "QB",
+            "players": [
+              {
+                "id": "9dc527d0-ffc4-11ed-8f16-7b961501e593",
+                "name": "E.J. Perry",
+                "jersey": "5",
+                "position": "QB",
+                "depth": 1
+              },
+              {
+                "id": "c2593980-3e70-11ed-9b27-bbc8816238a5",
+                "name": "Troy Williams",
+                "jersey": "3",
+                "position": "QB",
+                "depth": 2
+              }
+            ]
+          }
+        },
+        {
+          "position": {
+            "name": "WR",
+            "players": [
+              {
+                "id": "310044b0-4ee2-11ed-84f4-2fd193bf82ff",
+                "name": "Elijah Stove",
+                "jersey": "82",
+                "position": "WR",
+                "depth": 1
+              },
+              {
+                "id": "bcf66fb0-e279-11ec-b794-b35dafe2a84a",
+                "name": "Dee Anderson",
+                "jersey": "4",
+                "position": "WR",
+                "depth": 2
+              }
+            ]
+          }
+        },
+        {
+          "position": {
+            "name": "TE",
+            "players": [
+              {
+                "id": "a10ca4d0-7af5-11ed-9be1-d7f2c4aeb43b",
+                "name": "Jay Jay Wilson",
+                "jersey": "88",
+                "position": "TE",
+                "depth": 1
+              },
+              {
+                "id": "a6b85740-4d08-11ee-9b48-83dae030baf7",
+                "name": "Chris Pierce Jr.",
+                "jersey": "89",
+                "position": "TE",
+                "depth": 2
+              },
+              {
+                "id": "41d512d0-8d70-11ed-af3c-bf714ad89987",
+                "name": "Ryan Izzo",
+                "position": "TE",
+                "depth": 3
+              }
+            ]
+          }
+        },
+        {
+          "position": {
+            "name": "RT",
+            "players": [
+              {
+                "id": "15060b90-eb30-11ef-a9b2-91e93c2f8203",
+                "name": "J.D. DiRenzo",
+                "jersey": "53",
+                "position": "T",
+                "depth": 1
+              },
+              {
+                "id": "48958220-d473-11ef-b9ea-59b998d5907b",
+                "name": "Nate Gilliam",
+                "jersey": "63",
+                "position": "T",
+                "depth": 2
+              }
+            ]
+          }
+        },
+        {
+          "position": {
+            "name": "RG",
+            "players": [
+              {
+                "id": "718615d0-b23f-11ed-88d7-2b6d9578c4f8",
+                "name": "Nash Jensen",
+                "jersey": "66",
+                "position": "G",
+                "depth": 1
+              },
+              {
+                "id": "48958220-d473-11ef-b9ea-59b998d5907b",
+                "name": "Nate Gilliam",
+                "jersey": "63",
+                "position": "T",
+                "depth": 2
+              }
+            ]
+          }
+        },
+        {
+          "position": {
+            "name": "LG",
+            "players": [
+              {
+                "id": "21cf1270-98c9-11ec-a813-cdb8b61d0851",
+                "name": "Jared Thomas",
+                "jersey": "65",
+                "position": "G",
+                "depth": 1
+              },
+              {
+                "id": "15060b90-eb30-11ef-a9b2-91e93c2f8203",
+                "name": "J.D. DiRenzo",
+                "jersey": "53",
+                "position": "T",
+                "depth": 2
+              }
+            ]
+          }
+        },
+        {
+          "position": {
+            "name": "LT",
+            "players": [
+              {
+                "id": "74112460-d6b1-11ee-aef2-1d691f267f8b",
+                "name": "James Tunstall",
+                "jersey": "75",
+                "position": "T",
+                "depth": 1
+              },
+              {
+                "id": "a6243450-cc4e-11ee-a60a-8d7f07d3367e",
+                "name": "Noah Henderson",
+                "jersey": "69",
+                "position": "T",
+                "depth": 2
+              }
+            ]
+          }
+        },
+        {
+          "position": {
+            "name": "WR",
+            "players": [
+              {
+                "id": "231729b0-b379-11ef-bccc-8f72620818a7",
+                "name": "Kwamie Lassiter II",
+                "jersey": "18",
+                "position": "WR",
+                "depth": 1
+              },
+              {
+                "id": "fa2e9680-d777-11ec-a031-d727232790ba",
+                "name": "Isiah Hennie",
+                "jersey": "83",
+                "position": "WR",
+                "depth": 2
+              }
+            ]
+          }
+        },
+        {
+          "position": {
+            "name": "WR",
+            "players": [
+              {
+                "id": "a808efe0-98c5-11ec-a813-cdb8b61d0851",
+                "name": "Jonathan Adams",
+                "jersey": "9",
+                "position": "WR",
+                "depth": 1
+              },
+              {
+                "id": "34f5d9c0-e6ae-11ef-8211-b931b8d25e8a",
+                "name": "Kai Locksley",
+                "jersey": "1",
+                "position": "WR",
+                "depth": 2
+              }
+            ]
+          }
+        },
+        {
+          "position": {
+            "name": "RB",
+            "players": [
+              {
+                "id": "ebd75110-e36a-11ef-9f22-0947b4571411",
+                "name": "Deneric Prince",
+                "jersey": "34",
+                "position": "RB",
+                "depth": 1
+              },
+              {
+                "id": "ef75eda0-fedf-11ef-b43d-ed4142c6e0e6",
+                "name": "Jalen Jackson",
+                "jersey": "36",
+                "position": "RB",
+                "depth": 2
+              }
+            ]
+          }
+        },
+        {
+          "position": {
+            "name": "C",
+            "players": [
+              {
+                "id": "033a3c00-cc42-11ee-8fb5-9b5a26a0d598",
+                "name": "Alec Lindstrom",
+                "jersey": "72",
+                "position": "C",
+                "depth": 1
+              },
+              {
+                "id": "21cf1270-98c9-11ec-a813-cdb8b61d0851",
+                "name": "Jared Thomas",
+                "jersey": "65",
+                "position": "G",
+                "depth": 2
+              }
+            ]
+          }
+        }
+      ],
+      "defense": [
+        {
+          "position": {
+            "name": "RDT",
+            "players": [
+              {
+                "id": "a7c00280-a458-11ee-9032-69b04f85e3d6",
+                "name": "Josiah Bronson",
+                "jersey": "91",
+                "position": "DL",
+                "depth": 1
+              },
+              {
+                "id": "47a07eb0-a120-11ee-b560-c1af751e6b56",
+                "name": "DaMarcus Mitchell",
+                "jersey": "95",
+                "position": "DE",
+                "depth": 2
+              }
+            ]
+          }
+        },
+        {
+          "position": {
+            "name": "ROLB",
+            "players": [
+              {
+                "id": "4e98d4e0-fee8-11ed-bbfc-e7d5b8d1d70d",
+                "name": "Izayah Green-May",
+                "jersey": "50",
+                "position": "DE",
+                "depth": 1
+              },
+              {
+                "id": "851f71e0-b689-11ef-bdc4-6f330918b060",
+                "name": "Jaylon Allen",
+                "jersey": "44",
+                "position": "DE",
+                "depth": 2
+              }
+            ]
+          }
+        },
+        {
+          "position": {
+            "name": "LOLB",
+            "players": [
+              {
+                "id": "49056470-99a0-11ec-9c60-e7842fa378d2",
+                "name": "Nasir Player",
+                "jersey": "45",
+                "position": "DE",
+                "depth": 1
+              },
+              {
+                "id": "47a07eb0-a120-11ee-b560-c1af751e6b56",
+                "name": "DaMarcus Mitchell",
+                "jersey": "95",
+                "position": "DE",
+                "depth": 2
+              }
+            ]
+          }
+        },
+        {
+          "position": {
+            "name": "LCB",
+            "players": [
+              {
+                "id": "df07d2d0-cb1f-11ed-a9a9-13d451db17d8",
+                "name": "Mark Gilbert",
+                "jersey": "14",
+                "position": "CB",
+                "depth": 1
+              },
+              {
+                "id": "1e22d0c0-e048-11ef-8bc0-47065472be6d",
+                "name": "Eric Garror",
+                "jersey": "33",
+                "position": "CB",
+                "depth": 2
+              }
+            ]
+          }
+        },
+        {
+          "position": {
+            "name": "FS",
+            "players": [
+              {
+                "id": "e393acf0-d94d-11ef-a199-8f61b8d015d2",
+                "name": "Amir Riep",
+                "jersey": "10",
+                "position": "FS",
+                "depth": 1
+              },
+              {
+                "id": "ebf11150-b45c-11ef-9ce6-f33af93b6f4f",
+                "name": "Keaton Ellis",
+                "jersey": "31",
+                "position": "FS",
+                "depth": 2
+              }
+            ]
+          }
+        },
+        {
+          "position": {
+            "name": "RCB",
+            "players": [
+              {
+                "id": "59473bb0-b379-11ef-a316-374342b3b447",
+                "name": "Lance Boykin",
+                "jersey": "6",
+                "position": "CB",
+                "depth": 1
+              },
+              {
+                "id": "774bd7f0-49b9-11ed-91b9-796e866d4749",
+                "name": "Kyree Woods",
+                "jersey": "28",
+                "position": "CB",
+                "depth": 2
+              },
+              {
+                "id": "d5e65e60-b247-11ed-860e-ff9048c44c3a",
+                "name": "Nehemiah Shelton",
+                "jersey": "32",
+                "position": "CB",
+                "depth": 3
+              }
+            ]
+          }
+        },
+        {
+          "position": {
+            "name": "SS",
+            "players": [
+              {
+                "id": "ed7c7040-c1cb-11ec-802e-a76c53ad718c",
+                "name": "Eli Walker",
+                "jersey": "7",
+                "position": "FS",
+                "depth": 1
+              },
+              {
+                "id": "ebf11150-b45c-11ef-9ce6-f33af93b6f4f",
+                "name": "Keaton Ellis",
+                "jersey": "31",
+                "position": "FS",
+                "depth": 2
+              }
+            ]
+          }
+        },
+        {
+          "position": {
+            "name": "LDT",
+            "players": [
+              {
+                "id": "1bc75da0-99ba-11ec-86dc-ff0add1e628b",
+                "name": "Boogie Roberts",
+                "jersey": "8",
+                "position": "DL",
+                "depth": 1
+              },
+              {
+                "id": "b6130e60-7201-11ee-8669-6dd337e775f4",
+                "name": "P.J. Hall",
+                "position": "DL",
+                "depth": 2
+              }
+            ]
+          }
+        },
+        {
+          "position": {
+            "name": "LILB",
+            "players": [
+              {
+                "id": "209ed4f0-ed88-11ef-a667-0d696a0d9880",
+                "name": "Steele Chambers",
+                "jersey": "42",
+                "position": "LB",
+                "depth": 1
+              },
+              {
+                "id": "ec111360-972c-11ec-adf4-f182bef15e92",
+                "name": "Obi Melifonwu",
+                "jersey": "20",
+                "position": "SAF",
+                "depth": 2
+              }
+            ]
+          }
+        },
+        {
+          "position": {
+            "name": "NT",
+            "players": [
+              {
+                "id": "75c75a70-9736-11ec-b15d-4f9fc36157e9",
+                "name": "John Atkins Sr.",
+                "jersey": "99",
+                "position": "DL",
+                "depth": 1
+              },
+              {
+                "id": "1bc75da0-99ba-11ec-86dc-ff0add1e628b",
+                "name": "Boogie Roberts",
+                "jersey": "8",
+                "position": "DL",
+                "depth": 2
+              }
+            ]
+          }
+        },
+        {
+          "position": {
+            "name": "RILB",
+            "players": [
+              {
+                "id": "e8da95c0-b23a-11ed-a690-e123c4fecf83",
+                "name": "Zeke Vandenburgh",
+                "jersey": "57",
+                "position": "LB",
+                "depth": 1
+              }
+            ]
+          }
+        }
+      ],
+      "special_teams": [
+        {
+          "position": {
+            "name": "P",
+            "players": [
+              {
+                "id": "45d33120-99bd-11ec-b33c-ff458e75e8f9",
+                "name": "Matt Mengel",
+                "jersey": "19",
+                "position": "P",
+                "depth": 1
+              },
+              {
+                "id": "f10d8e80-b9da-11ed-a9e3-9b3065b60680",
+                "name": "Matt Coghlin",
+                "jersey": "49",
+                "position": "K",
+                "depth": 2
+              }
+            ]
+          }
+        },
+        {
+          "position": {
+            "name": "H",
+            "players": [
+              {
+                "id": "45d33120-99bd-11ec-b33c-ff458e75e8f9",
+                "name": "Matt Mengel",
+                "jersey": "19",
+                "position": "P",
+                "depth": 1
+              },
+              {
+                "id": "fa2e9680-d777-11ec-a031-d727232790ba",
+                "name": "Isiah Hennie",
+                "jersey": "83",
+                "position": "WR",
+                "depth": 2
+              }
+            ]
+          }
+        },
+        {
+          "position": {
+            "name": "LS",
+            "players": [
+              {
+                "id": "3b20eaa0-a620-11ec-94ef-a944ea67e574",
+                "name": "Turner Bernard",
+                "jersey": "59",
+                "position": "LS",
+                "depth": 1
+              },
+              {
+                "id": "49056470-99a0-11ec-9c60-e7842fa378d2",
+                "name": "Nasir Player",
+                "jersey": "45",
+                "position": "DE",
+                "depth": 2
+              }
+            ]
+          }
+        },
+        {
+          "position": {
+            "name": "KR",
+            "players": [
+              {
+                "id": "ebd75110-e36a-11ef-9f22-0947b4571411",
+                "name": "Deneric Prince",
+                "jersey": "34",
+                "position": "RB",
+                "depth": 1
+              },
+              {
+                "id": "231729b0-b379-11ef-bccc-8f72620818a7",
+                "name": "Kwamie Lassiter II",
+                "jersey": "18",
+                "position": "WR",
+                "depth": 2
+              }
+            ]
+          }
+        },
+        {
+          "position": {
+            "name": "PR",
+            "players": [
+              {
+                "id": "fa2e9680-d777-11ec-a031-d727232790ba",
+                "name": "Isiah Hennie",
+                "jersey": "83",
+                "position": "WR",
+                "depth": 1
+              },
+              {
+                "id": "1e22d0c0-e048-11ef-8bc0-47065472be6d",
+                "name": "Eric Garror",
+                "jersey": "33",
+                "position": "CB",
+                "depth": 2
+              }
+            ]
+          }
+        },
+        {
+          "position": {
+            "name": "K",
+            "players": [
+              {
+                "id": "f10d8e80-b9da-11ed-a9e3-9b3065b60680",
+                "name": "Matt Coghlin",
+                "jersey": "49",
+                "position": "K",
+                "depth": 1
+              },
+              {
+                "id": "45d33120-99bd-11ec-b33c-ff458e75e8f9",
+                "name": "Matt Mengel",
+                "jersey": "19",
+                "position": "P",
+                "depth": 2
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "8bcdfcd0-9677-11ec-9ad0-d3ebe46bbb12",
+      "name": "Panthers",
+      "market": "Michigan",
+      "alias": "MICH",
+      "sr_id": "sr:competitor:882417",
+      "offense": [
+        {
+          "position": {
+            "name": "QB",
+            "players": [
+              {
+                "id": "af103f10-02ad-11ef-a665-d70761d8a728",
+                "name": "Bryce Perkins",
+                "jersey": "3",
+                "position": "QB",
+                "depth": 1
+              },
+              {
+                "id": "73ac78c0-a2b4-11ee-9f76-99446e3b6d0d",
+                "name": "Danny Etling",
+                "jersey": "8",
+                "position": "QB",
+                "depth": 2
+              }
+            ]
+          }
+        },
+        {
+          "position": {
+            "name": "WR",
+            "players": [
+              {
+                "id": "7edd54e0-f1f5-11ee-bd33-f77265860c14",
+                "name": "Siaosi Mariner",
+                "jersey": "4",
+                "position": "WR",
+                "depth": 1
+              },
+              {
+                "id": "19b89ac0-a7c4-11ec-94ef-a944ea67e574",
+                "name": "Devin Ross",
+                "jersey": "6",
+                "position": "WR",
+                "depth": 2
+              }
+            ]
+          }
+        },
+        {
+          "position": {
+            "name": "RB",
+            "players": [
+              {
+                "id": "a646de50-9626-11ee-b2ff-cdc1c5019d99",
+                "name": "Nate McCrary",
+                "jersey": "28",
+                "position": "RB",
+                "depth": 1
+              },
+              {
+                "id": "76570ac0-99bc-11ec-b879-17cd847bf75a",
+                "name": "Matthew Colburn II",
+                "jersey": "26",
+                "position": "RB",
+                "depth": 2
+              }
+            ]
+          }
+        },
+        {
+          "position": {
+            "name": "C",
+            "players": [
+              {
+                "id": "70edbbe0-44ae-11ed-b825-0f30a751160f",
+                "name": "Noah Johnson",
+                "jersey": "61",
+                "position": "C",
+                "depth": 1
+              },
+              {
+                "id": "f35817c0-3625-11ed-bc9b-b5699bc10dd5",
+                "name": "Cohl Cabral",
+                "jersey": "69",
+                "position": "C",
+                "depth": 2
+              }
+            ]
+          }
+        },
+        {
+          "position": {
+            "name": "LG",
+            "players": [
+              {
+                "id": "5b12ab50-99a0-11ec-82d3-e7cc26ca9676",
+                "name": "Jacob Burton",
+                "jersey": "73",
+                "position": "OL",
+                "depth": 1
+              },
+              {
+                "id": "d5461d60-d05e-11ef-bf9d-2390cbd7e763",
+                "name": "Victor Curne",
+                "jersey": "60",
+                "position": "T",
+                "depth": 2
+              }
+            ]
+          }
+        },
+        {
+          "position": {
+            "name": "RT",
+            "players": [
+              {
+                "id": "c581a0f0-b253-11ed-9ca9-81ed952e7c46",
+                "name": "Chim Okorafor",
+                "jersey": "72",
+                "position": "T",
+                "depth": 1
+              },
+              {
+                "id": "bf0c7c00-d08c-11ef-951f-e1dd62b8c041",
+                "name": "Brian Dooley",
+                "jersey": "77",
+                "position": "T",
+                "depth": 2
+              }
+            ]
+          }
+        },
+        {
+          "position": {
+            "name": "WR",
+            "players": [
+              {
+                "id": "4cc3ce90-ce49-11ef-9279-b1e83ccb85ca",
+                "name": "Malik Turner",
+                "jersey": "17",
+                "position": "WR",
+                "depth": 1
+              },
+              {
+                "id": "aa2925f0-6035-11ed-9700-656a8c344c28",
+                "name": "Samson Nacua",
+                "jersey": "86",
+                "position": "WR",
+                "depth": 2
+              }
+            ]
+          }
+        },
+        {
+          "position": {
+            "name": "RG",
+            "players": [
+              {
+                "id": "f35817c0-3625-11ed-bc9b-b5699bc10dd5",
+                "name": "Cohl Cabral",
+                "jersey": "69",
+                "position": "C",
+                "depth": 1
+              },
+              {
+                "id": "d5461d60-d05e-11ef-bf9d-2390cbd7e763",
+                "name": "Victor Curne",
+                "jersey": "60",
+                "position": "T",
+                "depth": 2
+              }
+            ]
+          }
+        },
+        {
+          "position": {
+            "name": "LT",
+            "players": [
+              {
+                "id": "27e29e60-7af6-11ed-9be1-d7f2c4aeb43b",
+                "name": "Ryan Nelson",
+                "jersey": "75",
+                "position": "T",
+                "depth": 1
+              },
+              {
+                "id": "bf0c7c00-d08c-11ef-951f-e1dd62b8c041",
+                "name": "Brian Dooley",
+                "jersey": "77",
+                "position": "T",
+                "depth": 2
+              }
+            ]
+          }
+        },
+        {
+          "position": {
+            "name": "TE",
+            "players": [
+              {
+                "id": "7bd38260-b245-11ed-885d-8db897850cf3",
+                "name": "Gunnar Oakes",
+                "jersey": "84",
+                "position": "TE",
+                "depth": 1
+              },
+              {
+                "id": "77cd4740-4577-11ed-ae81-212bd1fc8d4e",
+                "name": "Cole Hikutini",
+                "jersey": "80",
+                "position": "TE",
+                "depth": 2
+              }
+            ]
+          }
+        },
+        {
+          "position": {
+            "name": "WR",
+            "players": [
+              {
+                "id": "3be3f910-e7f6-11ec-aeb7-d1e085e81349",
+                "name": "Marcus Simms",
+                "jersey": "16",
+                "position": "WR",
+                "depth": 1
+              },
+              {
+                "id": "af4a8cc0-a860-11ef-902a-ffee3cf7202a",
+                "name": "Xavier Malone",
+                "jersey": "13",
+                "position": "WR",
+                "depth": 2
+              }
+            ]
+          }
+        }
+      ],
+      "defense": [
+        {
+          "position": {
+            "name": "RDE",
+            "players": [
+              {
+                "id": "d141ec10-8201-11ed-b6b2-e10c093ab5c8",
+                "name": "Breeland Speaks",
+                "jersey": "57",
+                "position": "DE",
+                "depth": 1
+              },
+              {
+                "id": "8cc34850-d4ed-11ee-9f86-9f00af8141da",
+                "name": "Mika Tafua",
+                "jersey": "42",
+                "position": "DE",
+                "depth": 2
+              }
+            ]
+          }
+        },
+        {
+          "position": {
+            "name": "LDT",
+            "players": [
+              {
+                "id": "c9fa2c90-b472-11ec-9c38-d532d7ac7fb9",
+                "name": "Walter Palmore",
+                "jersey": "99",
+                "position": "DT",
+                "depth": 1
+              },
+              {
+                "id": "b75c68b0-999b-11ec-bca1-c56bc30964c9",
+                "name": "T.J. Carter",
+                "jersey": "96",
+                "position": "DE",
+                "depth": 2
+              }
+            ]
+          }
+        },
+        {
+          "position": {
+            "name": "FS",
+            "players": [
+              {
+                "id": "69c4f370-99b8-11ec-86dc-ff0add1e628b",
+                "name": "Arnold Tarpley III",
+                "jersey": "2",
+                "position": "FS",
+                "depth": 1
+              },
+              {
+                "id": "acae2990-99b8-11ec-86dc-ff0add1e628b",
+                "name": "Bryce Torneden",
+                "jersey": "22",
+                "position": "OLB",
+                "depth": 2
+              }
+            ]
+          }
+        },
+        {
+          "position": {
+            "name": "RCB",
+            "players": [
+              {
+                "id": "334eb5c0-98bd-11ec-b56f-a59cd421be26",
+                "name": "Adonis Alexander",
+                "jersey": "19",
+                "position": "CB",
+                "depth": 1
+              },
+              {
+                "id": "56dc3660-b9e0-11ef-addd-cd54f67b7970",
+                "name": "D.J. Miller Jr.",
+                "jersey": "14",
+                "position": "CB",
+                "depth": 2
+              }
+            ]
+          }
+        },
+        {
+          "position": {
+            "name": "RDT",
+            "players": [
+              {
+                "id": "a22514b0-4576-11ed-ae81-212bd1fc8d4e",
+                "name": "Garrett Marino",
+                "jersey": "44",
+                "position": "DT",
+                "depth": 1
+              },
+              {
+                "id": "b75c68b0-999b-11ec-bca1-c56bc30964c9",
+                "name": "T.J. Carter",
+                "jersey": "96",
+                "position": "DE",
+                "depth": 2
+              }
+            ]
+          }
+        },
+        {
+          "position": {
+            "name": "SS",
+            "players": [
+              {
+                "id": "c063d710-eec5-11ed-9a97-81628f0acdff",
+                "name": "Kai Nacua",
+                "jersey": "21",
+                "position": "FS",
+                "depth": 1
+              },
+              {
+                "id": "ebf0c870-fa53-11ef-a5ed-e7577706e816",
+                "name": "Tyree Gillespie",
+                "jersey": "25",
+                "position": "SAF",
+                "depth": 2
+              }
+            ]
+          }
+        },
+        {
+          "position": {
+            "name": "MLB",
+            "players": [
+              {
+                "id": "be107420-999c-11ec-bca1-c56bc30964c9",
+                "name": "Frank Ginda",
+                "jersey": "5",
+                "position": "OLB",
+                "depth": 1
+              },
+              {
+                "id": "8ed16510-83de-11ee-8b5c-b1288d33ff28",
+                "name": "Javin White",
+                "jersey": "11",
+                "position": "LB",
+                "depth": 2
+              }
+            ]
+          }
+        },
+        {
+          "position": {
+            "name": "LDE",
+            "players": [
+              {
+                "id": "e407cc60-c901-11ed-ab3f-2fdd62423479",
+                "name": "Ron'Dell Carter",
+                "jersey": "97",
+                "position": "DE",
+                "depth": 1
+              },
+              {
+                "id": "034af8c0-9627-11ee-b2ff-cdc1c5019d99",
+                "name": "Kenny Willekes",
+                "jersey": "48",
+                "position": "DE",
+                "depth": 2
+              }
+            ]
+          }
+        },
+        {
+          "position": {
+            "name": "WLB",
+            "players": [
+              {
+                "id": "d6dbb130-c269-11ed-be3f-672b22d35dba",
+                "name": "Noah Dawkins",
+                "jersey": "10",
+                "position": "LB",
+                "depth": 1
+              },
+              {
+                "id": "c4b2dc10-c1a7-11ef-a8b6-69bf3422742d",
+                "name": "Donavan Mutin",
+                "jersey": "45",
+                "position": "LB",
+                "depth": 2
+              }
+            ]
+          }
+        },
+        {
+          "position": {
+            "name": "LCB",
+            "players": [
+              {
+                "id": "34a1f580-b8dc-11ef-afbe-4f623eff36d1",
+                "name": "Keni-H Lovely",
+                "jersey": "18",
+                "position": "CB",
+                "depth": 1
+              },
+              {
+                "id": "a9bcea90-8d6f-11ed-82b0-77c12a017e74",
+                "name": "Levonta Taylor",
+                "jersey": "1",
+                "position": "CB",
+                "depth": 2
+              }
+            ]
+          }
+        }
+      ],
+      "special_teams": [
+        {
+          "position": {
+            "name": "H",
+            "players": [
+              {
+                "id": "749cffe0-fc89-11ef-bda4-59b5543d355d",
+                "name": "Seth Vernon",
+                "jersey": "36",
+                "position": "P",
+                "depth": 1
+              }
+            ]
+          }
+        },
+        {
+          "position": {
+            "name": "P",
+            "players": [
+              {
+                "id": "749cffe0-fc89-11ef-bda4-59b5543d355d",
+                "name": "Seth Vernon",
+                "jersey": "36",
+                "position": "P",
+                "depth": 1
+              }
+            ]
+          }
+        },
+        {
+          "position": {
+            "name": "K",
+            "players": [
+              {
+                "id": "dc0c1440-d08d-11ef-ba8c-bb0df47565e6",
+                "name": "B.T. Potter",
+                "jersey": "33",
+                "position": "K",
+                "depth": 1
+              }
+            ]
+          }
+        },
+        {
+          "position": {
+            "name": "PR",
+            "players": [
+              {
+                "id": "af4a8cc0-a860-11ef-902a-ffee3cf7202a",
+                "name": "Xavier Malone",
+                "jersey": "13",
+                "position": "WR",
+                "depth": 1
+              },
+              {
+                "id": "19b89ac0-a7c4-11ec-94ef-a944ea67e574",
+                "name": "Devin Ross",
+                "jersey": "6",
+                "position": "WR",
+                "depth": 2
+              }
+            ]
+          }
+        },
+        {
+          "position": {
+            "name": "KR",
+            "players": [
+              {
+                "id": "19b89ac0-a7c4-11ec-94ef-a944ea67e574",
+                "name": "Devin Ross",
+                "jersey": "6",
+                "position": "WR",
+                "depth": 1
+              },
+              {
+                "id": "3be3f910-e7f6-11ec-aeb7-d1e085e81349",
+                "name": "Marcus Simms",
+                "jersey": "16",
+                "position": "WR",
+                "depth": 2
+              }
+            ]
+          }
+        },
+        {
+          "position": {
+            "name": "LS",
+            "players": [
+              {
+                "id": "fd2067c0-aa48-11ed-9f12-c9fc015fa24f",
+                "name": "Jordan Ober",
+                "position": "LS",
+                "depth": 1
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "b7951020-c045-11ee-ad92-cf16c0a8aa31",
+      "name": "Brahmas",
+      "market": "San Antonio",
+      "alias": "SA",
+      "sr_id": "sr:competitor:978099",
+      "offense": [
+        {
+          "position": {
+            "name": "WR",
+            "players": [
+              {
+                "id": "f4a57e70-cc5f-11ee-8fb5-9b5a26a0d598",
+                "name": "Jontre Kirklin",
+                "jersey": "13",
+                "position": "WR",
+                "depth": 1
+              },
+              {
+                "id": "28dd1040-cc6a-11ee-aca5-9da842dcb88e",
+                "name": "Justin Smith",
+                "jersey": "10",
+                "position": "WR",
+                "depth": 2
+              }
+            ]
+          }
+        },
+        {
+          "position": {
+            "name": "C",
+            "players": [
+              {
+                "id": "10a8ba40-d6b2-11ee-a21e-11d1da81b964",
+                "name": "Sam Tecklenburg",
+                "jersey": "71",
+                "position": "OL",
+                "depth": 1
+              },
+              {
+                "id": "242e54d0-fe11-11ef-85a0-2905fc32c854",
+                "name": "Vitaliy Gurman ",
+                "jersey": "73",
+                "position": "T",
+                "depth": 2
+              }
+            ]
+          }
+        },
+        {
+          "position": {
+            "name": "LT",
+            "players": [
+              {
+                "id": "64074900-7ad0-11ef-a7af-7dae49828794",
+                "name": "Willie Tyler III",
+                "jersey": "66",
+                "position": "T",
+                "depth": 1
+              },
+              {
+                "id": "bf4b2ca0-cc57-11ee-8fb5-9b5a26a0d598",
+                "name": "Greg Eiland",
+                "position": "OL",
+                "depth": 2
+              }
+            ]
+          }
+        },
+        {
+          "position": {
+            "name": "RWR",
+            "players": [
+              {
+                "id": "a336daf0-a861-11ef-8d79-31417e13b71d",
+                "name": "Greg Ward",
+                "jersey": "17",
+                "position": "WR",
+                "depth": 1
+              },
+              {
+                "id": "2b517630-cc6b-11ee-aca5-9da842dcb88e",
+                "name": "Marquez Stevenson",
+                "jersey": "5",
+                "position": "WR",
+                "depth": 2
+              }
+            ]
+          }
+        },
+        {
+          "position": {
+            "name": "TE",
+            "players": [
+              {
+                "id": "f1567db0-cc63-11ee-8fb5-9b5a26a0d598",
+                "name": "Alize Mack",
+                "jersey": "88",
+                "position": "TE",
+                "depth": 1
+              }
+            ]
+          }
+        },
+        {
+          "position": {
+            "name": "LG",
+            "players": [
+              {
+                "id": "2bfb0b60-cc65-11ee-8fb5-9b5a26a0d598",
+                "name": "Aaron Monteiro",
+                "jersey": "67",
+                "position": "OL",
+                "depth": 1
+              }
+            ]
+          }
+        },
+        {
+          "position": {
+            "name": "RB",
+            "players": [
+              {
+                "id": "d2dc5df0-cc63-11ee-8fb5-9b5a26a0d598",
+                "name": "John Lovett",
+                "jersey": "7",
+                "position": "RB",
+                "depth": 1
+              },
+              {
+                "id": "c8c391c0-cc64-11ee-8fb5-9b5a26a0d598",
+                "name": "Anthony McFarland",
+                "jersey": "41",
+                "position": "RB",
+                "depth": 2
+              },
+              {
+                "id": "3a5e0ce0-97e2-11ef-8415-5938834514a3",
+                "name": "Jashaun Corbin",
+                "jersey": "6",
+                "position": "RB",
+                "depth": 3
+              }
+            ]
+          }
+        },
+        {
+          "position": {
+            "name": "RT",
+            "players": [
+              {
+                "id": "522cc430-d791-11ef-9ad7-1f33368604b7",
+                "name": "Zuri Henry",
+                "jersey": "68",
+                "position": "T",
+                "depth": 1
+              }
+            ]
+          }
+        },
+        {
+          "position": {
+            "name": "LWR",
+            "players": [
+              {
+                "id": "fc4d29a0-d304-11ef-8e21-25f557c30814",
+                "name": "Jacob Harris",
+                "jersey": "16",
+                "position": "WR",
+                "depth": 1
+              },
+              {
+                "id": "8b84e380-a865-11ef-87b3-212f143e66a0",
+                "name": "Racey McMath",
+                "jersey": "80",
+                "position": "WR",
+                "depth": 2
+              }
+            ]
+          }
+        },
+        {
+          "position": {
+            "name": "QB",
+            "players": [
+              {
+                "id": "3b955800-9019-11ef-a765-cb6a9b60e518",
+                "name": "Kellen Mond",
+                "jersey": "12",
+                "position": "QB",
+                "depth": 1
+              },
+              {
+                "id": "c16fd4a0-fd1b-11ee-bd24-1db032a79904",
+                "name": "Kevin Hogan",
+                "jersey": "8",
+                "position": "QB",
+                "depth": 2
+              }
+            ]
+          }
+        },
+        {
+          "position": {
+            "name": "RG",
+            "players": [
+              {
+                "id": "6ac336a0-cc5c-11ee-a16c-330e9a996a52",
+                "name": "Chuck Filiaga",
+                "jersey": "77",
+                "position": "OL",
+                "depth": 1
+              }
+            ]
+          }
+        }
+      ],
+      "defense": [
+        {
+          "position": {
+            "name": "LCB",
+            "players": [
+              {
+                "id": "679ce4d0-cc66-11ee-8fb5-9b5a26a0d598",
+                "name": "Darius Phillips",
+                "jersey": "2",
+                "position": "CB",
+                "depth": 1
+              },
+              {
+                "id": "110796d0-cc64-11ee-8fb5-9b5a26a0d598",
+                "name": "Corey Mayfield Jr.",
+                "jersey": "28",
+                "position": "CB",
+                "depth": 2
+              },
+              {
+                "id": "df05ca70-b10b-11ef-940a-b9a72fcaadbe",
+                "name": "William Hooper",
+                "jersey": "21",
+                "position": "CB",
+                "depth": 3
+              }
+            ]
+          }
+        },
+        {
+          "position": {
+            "name": "DT",
+            "players": [
+              {
+                "id": "6d1bf5e0-cc6b-11ee-aca5-9da842dcb88e",
+                "name": "Jacob Sykes",
+                "jersey": "93",
+                "position": "DT",
+                "depth": 1
+              },
+              {
+                "id": "ae64be00-cfdb-11ef-8110-a1e29f551fe3",
+                "name": "Rashard Lawrence",
+                "jersey": "92",
+                "position": "DT",
+                "depth": 2
+              }
+            ]
+          }
+        },
+        {
+          "position": {
+            "name": "RCB",
+            "players": [
+              {
+                "id": "adeb0a30-dd0d-11ef-9664-dd2de14ead09",
+                "name": "Greedy Williams",
+                "position": "CB",
+                "depth": 1
+              },
+              {
+                "id": "19c1cb80-619f-11ef-9e9b-235c0b4d5886",
+                "name": "Chris Steele",
+                "jersey": "22",
+                "position": "CB",
+                "depth": 2
+              }
+            ]
+          }
+        },
+        {
+          "position": {
+            "name": "ROLB",
+            "players": [
+              {
+                "id": "abe02220-cc65-11ee-a16c-330e9a996a52",
+                "name": "Garrett Nelson",
+                "jersey": "97",
+                "position": "OLB",
+                "depth": 1
+              }
+            ]
+          }
+        },
+        {
+          "position": {
+            "name": "LOLB",
+            "players": [
+              {
+                "id": "d8d9fa40-84f6-11ef-86b1-8b5f8502a9d2",
+                "name": "Kobe Jones",
+                "jersey": "52",
+                "position": "DE",
+                "depth": 1
+              },
+              {
+                "id": "c4dc96f0-63eb-11ef-a666-7375928388c2",
+                "name": "Toby Ndukwe",
+                "position": "DE",
+                "depth": 2
+              }
+            ]
+          }
+        },
+        {
+          "position": {
+            "name": "LILB",
+            "players": [
+              {
+                "id": "f55c4880-ec62-11ee-adc1-293dab87e2ee",
+                "name": "Tavante Beckett",
+                "jersey": "1",
+                "position": "LB",
+                "depth": 1
+              },
+              {
+                "id": "3c5ee300-7c64-11ef-8c7f-53d90fccd3a2",
+                "name": "Tariq Carpenter",
+                "position": "SAF",
+                "depth": 2
+              }
+            ]
+          }
+        },
+        {
+          "position": {
+            "name": "FS",
+            "players": [
+              {
+                "id": "8a370d40-d4ef-11ee-9f77-03994299f957",
+                "name": "BoPete Keyes",
+                "jersey": "3",
+                "position": "CB",
+                "depth": 1
+              },
+              {
+                "id": "69d9d0b0-cfd9-11ef-81da-2d243f8e7d39",
+                "name": "Jalen Elliott",
+                "jersey": "25",
+                "position": "SAF",
+                "depth": 2
+              }
+            ]
+          }
+        },
+        {
+          "position": {
+            "name": "RDE",
+            "players": [
+              {
+                "id": "3fcf1310-cc66-11ee-8fb5-9b5a26a0d598",
+                "name": "Caeveon Patton",
+                "jersey": "99",
+                "position": "DT",
+                "depth": 1
+              }
+            ]
+          }
+        },
+        {
+          "position": {
+            "name": "SS",
+            "players": [
+              {
+                "id": "47155e50-cc65-11ee-8fb5-9b5a26a0d598",
+                "name": "Jordan Mosley",
+                "jersey": "23",
+                "position": "SAF",
+                "depth": 1
+              },
+              {
+                "id": "41de08a0-85c0-11ef-9d3d-d3fd9fb61210",
+                "name": "Henry Black",
+                "jersey": "32",
+                "position": "CB",
+                "depth": 2
+              }
+            ]
+          }
+        },
+        {
+          "position": {
+            "name": "LDE",
+            "players": [
+              {
+                "id": "40a31070-cc5c-11ee-a16c-330e9a996a52",
+                "name": "Prince Emili",
+                "jersey": "98",
+                "position": "DT",
+                "depth": 1
+              }
+            ]
+          }
+        },
+        {
+          "position": {
+            "name": "RILB",
+            "players": [
+              {
+                "id": "513ae5a0-cc6d-11ee-aca5-9da842dcb88e",
+                "name": "Jordan Williams",
+                "jersey": "15",
+                "position": "MLB",
+                "depth": 1
+              }
+            ]
+          }
+        }
+      ],
+      "special_teams": [
+        {
+          "position": {
+            "name": "LS",
+            "players": [
+              {
+                "id": "216e1bf0-0149-11f0-a634-9138335293f1",
+                "name": "Cameron Lyons",
+                "jersey": "46",
+                "position": "LS",
+                "depth": 1
+              }
+            ]
+          }
+        },
+        {
+          "position": {
+            "name": "KR",
+            "players": [
+              {
+                "id": "c8c391c0-cc64-11ee-8fb5-9b5a26a0d598",
+                "name": "Anthony McFarland",
+                "jersey": "41",
+                "position": "RB",
+                "depth": 1
+              },
+              {
+                "id": "a336daf0-a861-11ef-8d79-31417e13b71d",
+                "name": "Greg Ward",
+                "jersey": "17",
+                "position": "WR",
+                "depth": 2
+              },
+              {
+                "id": "f4a57e70-cc5f-11ee-8fb5-9b5a26a0d598",
+                "name": "Jontre Kirklin",
+                "jersey": "13",
+                "position": "WR",
+                "depth": 3
+              }
+            ]
+          }
+        },
+        {
+          "position": {
+            "name": "P",
+            "players": [
+              {
+                "id": "e67b83e0-cc6d-11ee-aca5-9da842dcb88e",
+                "name": "Brad Wing",
+                "jersey": "9",
+                "position": "P",
+                "depth": 1
+              }
+            ]
+          }
+        },
+        {
+          "position": {
+            "name": "PR",
+            "players": [
+              {
+                "id": "a336daf0-a861-11ef-8d79-31417e13b71d",
+                "name": "Greg Ward",
+                "jersey": "17",
+                "position": "WR",
+                "depth": 1
+              },
+              {
+                "id": "2b517630-cc6b-11ee-aca5-9da842dcb88e",
+                "name": "Marquez Stevenson",
+                "jersey": "5",
+                "position": "WR",
+                "depth": 2
+              },
+              {
+                "id": "679ce4d0-cc66-11ee-8fb5-9b5a26a0d598",
+                "name": "Darius Phillips",
+                "jersey": "2",
+                "position": "CB",
+                "depth": 3
+              }
+            ]
+          }
+        },
+        {
+          "position": {
+            "name": "K",
+            "players": [
+              {
+                "id": "dd1552c0-cc56-11ee-8fb5-9b5a26a0d598",
+                "name": "Donald De La Haye",
+                "jersey": "11",
+                "position": "K",
+                "depth": 1
+              }
+            ]
+          }
+        },
+        {
+          "position": {
+            "name": "H",
+            "players": [
+              {
+                "id": "e67b83e0-cc6d-11ee-aca5-9da842dcb88e",
+                "name": "Brad Wing",
+                "jersey": "9",
+                "position": "P",
+                "depth": 1
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "d4799bc0-c045-11ee-ad92-cf16c0a8aa31",
+      "name": "Battlehawks",
+      "market": "St. Louis",
+      "alias": "STL",
+      "sr_id": "sr:competitor:661855",
+      "offense": [
+        {
+          "position": {
+            "name": "LT",
+            "players": [
+              {
+                "id": "9d847270-cde2-11ee-92da-572d84ed57da",
+                "name": "Jaryd Jones-Smith",
+                "jersey": "75",
+                "position": "T",
+                "depth": 1
+              }
+            ]
+          }
+        },
+        {
+          "position": {
+            "name": "LG",
+            "players": [
+              {
+                "id": "bdedfce0-cc73-11ee-997a-3737e5e04611",
+                "name": "Steven Gonzalez",
+                "jersey": "74",
+                "position": "G",
+                "depth": 1
+              }
+            ]
+          }
+        },
+        {
+          "position": {
+            "name": "RT",
+            "players": [
+              {
+                "id": "e242fe10-9728-11ec-adf4-f182bef15e92",
+                "name": "Juwann Bushell-Beatty",
+                "jersey": "73",
+                "position": "T",
+                "depth": 1
+              },
+              {
+                "id": "4c2c2c10-81e2-11ef-9d9a-09210080ee13",
+                "name": "Bradley Ashmore",
+                "jersey": "70",
+                "position": "T",
+                "depth": 2
+              }
+            ]
+          }
+        },
+        {
+          "position": {
+            "name": "C",
+            "players": [
+              {
+                "id": "044fbb20-cc78-11ee-aca5-9da842dcb88e",
+                "name": "Mike Panasiuk",
+                "jersey": "61",
+                "position": "C",
+                "depth": 1
+              },
+              {
+                "id": "1b994fa0-cc7b-11ee-a8f3-23438f5a5e24",
+                "name": "Dohnovan West",
+                "jersey": "54",
+                "position": "C",
+                "depth": 2
+              }
+            ]
+          }
+        },
+        {
+          "position": {
+            "name": "QB",
+            "players": [
+              {
+                "id": "3d3bff90-cc7b-11ee-a8f3-23438f5a5e24",
+                "name": "Manny Wilkins",
+                "jersey": "5",
+                "position": "QB",
+                "depth": 1
+              },
+              {
+                "id": "686c98d0-be85-11ef-b7d5-75df9f9a0c45",
+                "name": "Max Duggan",
+                "jersey": "14",
+                "position": "QB",
+                "depth": 2
+              }
+            ]
+          }
+        },
+        {
+          "position": {
+            "name": "LWR",
+            "players": [
+              {
+                "id": "d5f24820-cc71-11ee-997a-3737e5e04611",
+                "name": "Hakeem Butler",
+                "jersey": "88",
+                "position": "WR",
+                "depth": 1
+              },
+              {
+                "id": "d5ad1110-8b48-11ef-bc3d-fbf838432d8e",
+                "name": "Denzel Mims",
+                "position": "WR",
+                "depth": 2
+              }
+            ]
+          }
+        },
+        {
+          "position": {
+            "name": "TE",
+            "players": [
+              {
+                "id": "bcfa8d70-cc79-11ee-a8f3-23438f5a5e24",
+                "name": "Jake Sutherland",
+                "jersey": "84",
+                "position": "TE",
+                "depth": 1
+              },
+              {
+                "id": "bc0f43e0-9bce-11ef-a01a-6f93765ef496",
+                "name": "Chase Allen",
+                "jersey": "87",
+                "position": "TE",
+                "depth": 2
+              }
+            ]
+          }
+        },
+        {
+          "position": {
+            "name": "RB",
+            "players": [
+              {
+                "id": "f0cb6f30-cc78-11ee-a8f3-23438f5a5e24",
+                "name": "Jacob Saylors",
+                "jersey": "15",
+                "position": "RB",
+                "depth": 1
+              },
+              {
+                "id": "56b70d50-b45d-11ef-8ce8-c1ff7d421e9a",
+                "name": "Jarveon Howard",
+                "jersey": "41",
+                "position": "RB",
+                "depth": 2
+              }
+            ]
+          }
+        },
+        {
+          "position": {
+            "name": "WR",
+            "players": [
+              {
+                "id": "6b82a550-cc78-11ee-a8f3-23438f5a5e24",
+                "name": "Jahcour Pearson",
+                "jersey": "1",
+                "position": "WR",
+                "depth": 1
+              },
+              {
+                "id": "abafec90-cc74-11ee-bd67-1179b207fa9c",
+                "name": "Blake Jackson",
+                "jersey": "8",
+                "position": "WR",
+                "depth": 2
+              }
+            ]
+          }
+        },
+        {
+          "position": {
+            "name": "RG",
+            "players": [
+              {
+                "id": "78649a00-a56d-11ec-b024-bdae402a3fdb",
+                "name": "Abdul Beecham",
+                "jersey": "62",
+                "position": "G",
+                "depth": 1
+              }
+            ]
+          }
+        },
+        {
+          "position": {
+            "name": "RWR",
+            "players": [
+              {
+                "id": "d36f3010-e9b0-11ef-951d-ffee729f61d4",
+                "name": "Frank Darby",
+                "jersey": "2",
+                "position": "WR",
+                "depth": 1
+              },
+              {
+                "id": "ab7edd60-cc67-11ee-a60a-8d7f07d3367e",
+                "name": "Gary Jennings Jr.",
+                "jersey": "12",
+                "position": "WR",
+                "depth": 2
+              }
+            ]
+          }
+        }
+      ],
+      "defense": [
+        {
+          "position": {
+            "name": "WLB",
+            "players": [
+              {
+                "id": "0425e8d0-cc74-11ee-997a-3737e5e04611",
+                "name": "Willie Harvey",
+                "jersey": "51",
+                "position": "LB",
+                "depth": 1
+              },
+              {
+                "id": "1fd47280-b310-11ef-98fe-5133373dd1d3",
+                "name": "Olakunle Fatukasi",
+                "jersey": "33",
+                "position": "MLB",
+                "depth": 2
+              }
+            ]
+          }
+        },
+        {
+          "position": {
+            "name": "FS",
+            "players": [
+              {
+                "id": "051d2c00-cc72-11ee-997a-3737e5e04611",
+                "name": "Qwynnterrio Cole",
+                "jersey": "32",
+                "position": "FS",
+                "depth": 1
+              },
+              {
+                "id": "4b330fa0-b693-11ef-a4a6-4165465eab04",
+                "name": "Nate Meadors",
+                "jersey": "22",
+                "position": "CB",
+                "depth": 2
+              }
+            ]
+          }
+        },
+        {
+          "position": {
+            "name": "LOLB",
+            "players": [
+              {
+                "id": "2675e100-cc7a-11ee-a8f3-23438f5a5e24",
+                "name": "Pita Taumoepenu",
+                "jersey": "7",
+                "position": "OLB",
+                "depth": 1
+              },
+              {
+                "id": "d98591f0-cc7a-11ee-a8f3-23438f5a5e24",
+                "name": "Carson Wells",
+                "jersey": "26",
+                "position": "OLB",
+                "depth": 2
+              }
+            ]
+          }
+        },
+        {
+          "position": {
+            "name": "LCB",
+            "players": [
+              {
+                "id": "13d32d60-cc79-11ee-a8f3-23438f5a5e24",
+                "name": "Brandon Sebastian",
+                "jersey": "38",
+                "position": "CB",
+                "depth": 1
+              },
+              {
+                "id": "4b18d610-881e-11ef-8edf-01ca5534a348",
+                "name": "Myles Jones",
+                "jersey": "24",
+                "position": "CB",
+                "depth": 2
+              }
+            ]
+          }
+        },
+        {
+          "position": {
+            "name": "RCB",
+            "players": [
+              {
+                "id": "37cda570-cc78-11ee-a8f3-23438f5a5e24",
+                "name": "Chris Payton-Jones",
+                "jersey": "3",
+                "position": "CB",
+                "depth": 1
+              },
+              {
+                "id": "c99645b0-b1cf-11ef-8127-69537f342ff6",
+                "name": "Nick Whiteside II",
+                "jersey": "10",
+                "position": "CB",
+                "depth": 2
+              }
+            ]
+          }
+        },
+        {
+          "position": {
+            "name": "RDE",
+            "players": [
+              {
+                "id": "a458aa00-cc78-11ee-a8f3-23438f5a5e24",
+                "name": "T.J. Pesefea Jr.",
+                "jersey": "93",
+                "position": "NT",
+                "depth": 1
+              },
+              {
+                "id": "9d8ee6a0-d305-11ef-9434-4fefdbc7c114",
+                "name": "Phil Hoskins",
+                "jersey": "92",
+                "position": "DT",
+                "depth": 2
+              }
+            ]
+          }
+        },
+        {
+          "position": {
+            "name": "SS",
+            "players": [
+              {
+                "id": "5f990d90-cc75-11ee-aca5-9da842dcb88e",
+                "name": "Kameron Kelly",
+                "jersey": "4",
+                "position": "DB",
+                "depth": 1
+              },
+              {
+                "id": "b3481aa0-b45d-11ef-87fb-85846a106551",
+                "name": "Lukas Denis",
+                "jersey": "23",
+                "position": "FS",
+                "depth": 2
+              }
+            ]
+          }
+        },
+        {
+          "position": {
+            "name": "LDE",
+            "players": [
+              {
+                "id": "5202d060-d4fb-11ee-836d-e1fcdaeeb3ee",
+                "name": "Austin Faoliu",
+                "jersey": "99",
+                "position": "DT",
+                "depth": 1
+              }
+            ]
+          }
+        },
+        {
+          "position": {
+            "name": "NT",
+            "players": [
+              {
+                "id": "0b8a5e30-999f-11ec-b994-3d49d3e8eeda",
+                "name": "Freedom Akinmoladun",
+                "jersey": "98",
+                "position": "DE",
+                "depth": 1
+              }
+            ]
+          }
+        },
+        {
+          "position": {
+            "name": "MLB",
+            "players": [
+              {
+                "id": "caa44890-cc78-11ee-a8f3-23438f5a5e24",
+                "name": "Mike Rose",
+                "jersey": "27",
+                "position": "MLB",
+                "depth": 1
+              },
+              {
+                "id": "4a8e7a50-cc77-11ee-aca5-9da842dcb88e",
+                "name": "Callahan O'Reilly",
+                "jersey": "59",
+                "position": "LB",
+                "depth": 2
+              }
+            ]
+          }
+        },
+        {
+          "position": {
+            "name": "ROLB",
+            "players": [
+              {
+                "id": "fda6d860-a566-11ec-b024-bdae402a3fdb",
+                "name": "Travis Feeney",
+                "jersey": "56",
+                "position": "OLB",
+                "depth": 1
+              },
+              {
+                "id": "ec08a170-04be-11ee-8f5f-0f972fe96384",
+                "name": "Chris Garrett",
+                "jersey": "48",
+                "position": "OLB",
+                "depth": 2
+              }
+            ]
+          }
+        }
+      ],
+      "special_teams": [
+        {
+          "position": {
+            "name": "LS",
+            "players": [
+              {
+                "id": "d799eb60-cc76-11ee-aca5-9da842dcb88e",
+                "name": "Alex Matheson",
+                "jersey": "47",
+                "position": "LS",
+                "depth": 1
+              }
+            ]
+          }
+        },
+        {
+          "position": {
+            "name": "P",
+            "players": [
+              {
+                "id": "56e47730-cc74-11ee-bd67-1179b207fa9c",
+                "name": "Sterling Hofrichter",
+                "jersey": "16",
+                "position": "P",
+                "depth": 1
+              }
+            ]
+          }
+        },
+        {
+          "position": {
+            "name": "H",
+            "players": [
+              {
+                "id": "56e47730-cc74-11ee-bd67-1179b207fa9c",
+                "name": "Sterling Hofrichter",
+                "jersey": "16",
+                "position": "P",
+                "depth": 1
+              }
+            ]
+          }
+        },
+        {
+          "position": {
+            "name": "KR",
+            "players": [
+              {
+                "id": "abafec90-cc74-11ee-bd67-1179b207fa9c",
+                "name": "Blake Jackson",
+                "jersey": "8",
+                "position": "WR",
+                "depth": 1
+              }
+            ]
+          }
+        },
+        {
+          "position": {
+            "name": "PR",
+            "players": [
+              {
+                "id": "6b82a550-cc78-11ee-a8f3-23438f5a5e24",
+                "name": "Jahcour Pearson",
+                "jersey": "1",
+                "position": "WR",
+                "depth": 1
+              }
+            ]
+          }
+        },
+        {
+          "position": {
+            "name": "K",
+            "players": [
+              {
+                "id": "7028f990-ce4a-11ef-aaeb-4d759b04b57c",
+                "name": "Rodrigo Blankenship",
+                "jersey": "28",
+                "position": "K",
+                "depth": 1
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "_comment": "Generation started @ 2025-06-18 10:52:42 UTC ended @ 2025-06-18 10:52:42 UTC"
+}

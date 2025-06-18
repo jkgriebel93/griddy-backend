@@ -1,0 +1,72 @@
+{
+  "league": {
+    "id": "d441365f-cfab-49d6-9976-6c95d91fdef7",
+    "name": "United Football League",
+    "alias": "UFL"
+  },
+  "teams": [
+    {
+      "id": "d4799bc0-c045-11ee-ad92-cf16c0a8aa31",
+      "name": "Battlehawks",
+      "market": "St. Louis",
+      "alias": "STL",
+      "sr_id": "sr:competitor:661855"
+    },
+    {
+      "id": "b7951020-c045-11ee-ad92-cf16c0a8aa31",
+      "name": "Brahmas",
+      "market": "San Antonio",
+      "alias": "SA",
+      "sr_id": "sr:competitor:978099"
+    },
+    {
+      "id": "a3407150-c045-11ee-b66f-5d382d09dbaf",
+      "name": "Defenders",
+      "market": "DC",
+      "alias": "DC",
+      "sr_id": "sr:competitor:661851"
+    },
+    {
+      "id": "8bcdfcd0-9677-11ec-9ad0-d3ebe46bbb12",
+      "name": "Panthers",
+      "market": "Michigan",
+      "alias": "MICH",
+      "sr_id": "sr:competitor:882417"
+    },
+    {
+      "id": "38355600-c045-11ee-8037-85feac748e1f",
+      "name": "Renegades",
+      "market": "Arlington",
+      "alias": "ARL",
+      "sr_id": "sr:competitor:661843"
+    },
+    {
+      "id": "42b04b80-9676-11ec-9ad0-d3ebe46bbb12",
+      "name": "Roughnecks",
+      "market": "Houston",
+      "alias": "HOU",
+      "sr_id": "sr:competitor:882411"
+    },
+    {
+      "id": "b88f3e30-66c1-11ed-bbea-376dc2cc7dc0",
+      "name": "Showboats",
+      "market": "Memphis",
+      "alias": "MEM",
+      "sr_id": "sr:competitor:982997"
+    },
+    {
+      "id": "f4305130-9675-11ec-8570-4594a07130f0",
+      "name": "Stallions",
+      "market": "Birmingham",
+      "alias": "BHM",
+      "sr_id": "sr:competitor:882409"
+    },
+    {
+      "id": "11e96200-f058-11ee-ab1b-3fb8baf42b4f",
+      "name": "TBD",
+      "market": "Team",
+      "alias": "TBD"
+    }
+  ],
+  "_comment": "Generation started @ 2025-06-18 10:52:08 UTC ended @ 2025-06-18 10:52:08 UTC"
+}

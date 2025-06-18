@@ -1,0 +1,1060 @@
+{
+  "season": {
+    "id": "94096330-c865-11ef-b016-114bcfc0f1b1",
+    "year": 2025,
+    "type": "REG",
+    "name": "REG"
+  },
+  "week": {
+    "id": "bd76768d-3038-40a5-9296-1fdad2d231a8",
+    "sequence": 10,
+    "title": "10"
+  },
+  "teams": [
+    {
+      "id": "f4305130-9675-11ec-8570-4594a07130f0",
+      "name": "Stallions",
+      "market": "Birmingham",
+      "alias": "BHM",
+      "sr_id": "sr:competitor:882409",
+      "players": [
+        {
+          "id": "7f37f870-a3b4-11ef-af10-f92d6ae80645",
+          "name": "Bradlee Anae",
+          "jersey": "90",
+          "position": "DE",
+          "injuries": [
+            {
+              "status": "Out",
+              "status_date": "2025-05-30T00:00:00+00:00",
+              "practice": {
+                "status": "Limited Participation In Practice"
+              },
+              "primary": "Groin"
+            }
+          ]
+        },
+        {
+          "id": "a26af400-99a3-11ec-a60b-c3613f3d83ad",
+          "name": "Case Cookus",
+          "jersey": "6",
+          "position": "QB",
+          "injuries": [
+            {
+              "status_date": "2025-05-30T00:00:00+00:00",
+              "practice": {
+                "status": "Full Participation In Practice"
+              },
+              "primary": "Knee"
+            }
+          ]
+        },
+        {
+          "id": "3be218f0-58cc-11ee-8622-7ffe5ae47922",
+          "name": "Christian DiLauro",
+          "jersey": "74",
+          "position": "T",
+          "injuries": [
+            {
+              "status_date": "2025-05-30T00:00:00+00:00",
+              "practice": {
+                "status": "Full Participation In Practice"
+              },
+              "primary": "Knee"
+            }
+          ]
+        },
+        {
+          "id": "7be97790-cfe2-11ed-9d94-311aaa52eef3",
+          "name": "Cole Schneider",
+          "jersey": "56",
+          "position": "G",
+          "injuries": [
+            {
+              "status_date": "2025-05-30T00:00:00+00:00",
+              "practice": {
+                "status": "Full Participation In Practice"
+              },
+              "primary": "Knee"
+            }
+          ]
+        },
+        {
+          "id": "457458e0-c021-11ed-bef5-cf9971b3ae0e",
+          "name": "Davion Davis",
+          "jersey": "13",
+          "position": "WR",
+          "injuries": [
+            {
+              "status_date": "2025-05-30T00:00:00+00:00",
+              "practice": {
+                "status": "Full Participation In Practice"
+              },
+              "primary": "Knee"
+            }
+          ]
+        },
+        {
+          "id": "daf18660-cc6c-11ee-a60a-8d7f07d3367e",
+          "name": "Jordan Thomas",
+          "jersey": "81",
+          "position": "TE",
+          "injuries": [
+            {
+              "status_date": "2025-05-30T00:00:00+00:00",
+              "practice": {
+                "status": "Limited Participation In Practice"
+              },
+              "primary": "Shoulder"
+            }
+          ]
+        },
+        {
+          "id": "bf08b950-a6ee-11ec-b754-bde6981a8c53",
+          "name": "Marcus Baugh",
+          "jersey": "85",
+          "position": "TE",
+          "injuries": [
+            {
+              "status_date": "2025-05-30T00:00:00+00:00",
+              "practice": {
+                "status": "Limited Participation In Practice"
+              },
+              "primary": "Shoulder"
+            }
+          ]
+        },
+        {
+          "id": "8f5f0120-cc42-11ee-8fb5-9b5a26a0d598",
+          "name": "Maximilian Roberts",
+          "jersey": "44",
+          "position": "OLB",
+          "injuries": [
+            {
+              "status": "Probable",
+              "status_date": "2025-05-30T00:00:00+00:00",
+              "practice": {
+                "status": "Full Participation In Practice"
+              },
+              "primary": "Knee"
+            }
+          ]
+        },
+        {
+          "id": "5743ec70-c713-11ef-bdd6-a5d6017851a1",
+          "name": "Myjai Sanders",
+          "jersey": "41",
+          "position": "DE",
+          "injuries": [
+            {
+              "status_date": "2025-05-30T00:00:00+00:00",
+              "practice": {
+                "status": "Full Participation In Practice"
+              },
+              "primary": "Ribs"
+            }
+          ]
+        },
+        {
+          "id": "3e1c6150-81d1-11ef-a4b3-9fa3d99818ca",
+          "name": "Perrion Winfrey",
+          "jersey": "98",
+          "position": "DT",
+          "injuries": [
+            {
+              "status_date": "2025-05-30T00:00:00+00:00",
+              "practice": {
+                "status": "Full Participation In Practice"
+              },
+              "primary": "Illness"
+            }
+          ]
+        },
+        {
+          "id": "a2dcbc60-e93f-11ed-87fc-edd4f0127635",
+          "name": "Ricky Person Jr.",
+          "jersey": "23",
+          "position": "RB",
+          "injuries": [
+            {
+              "status": "Probable",
+              "status_date": "2025-05-30T00:00:00+00:00",
+              "practice": {
+                "status": "Full Participation In Practice"
+              },
+              "primary": "Elbow"
+            }
+          ]
+        },
+        {
+          "id": "179184b0-d303-11ef-891f-c9730706ac66",
+          "name": "Shyheim Carter",
+          "jersey": "5",
+          "position": "CB",
+          "injuries": [
+            {
+              "status_date": "2025-05-30T00:00:00+00:00",
+              "practice": {
+                "status": "Full Participation In Practice"
+              },
+              "primary": "Quad"
+            }
+          ]
+        },
+        {
+          "id": "c3b66360-997b-11ec-b169-9138b21f28ee",
+          "name": "Alex McGough",
+          "jersey": "10",
+          "position": "QB",
+          "injuries": [
+            {
+              "status": "Out",
+              "status_date": "2025-05-30T00:00:00+00:00",
+              "practice": {
+                "status": "Limited Participation In Practice"
+              },
+              "primary": "Shoulder"
+            }
+          ]
+        },
+        {
+          "id": "5a4cba10-a454-11ee-b188-1fd4a862a762",
+          "name": "Armani Taylor-Prioleau",
+          "jersey": "73",
+          "position": "T",
+          "injuries": [
+            {
+              "status": "Out",
+              "status_date": "2025-05-30T00:00:00+00:00",
+              "practice": {
+                "status": "Limited Participation In Practice"
+              },
+              "primary": "Knee"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "42b04b80-9676-11ec-9ad0-d3ebe46bbb12",
+      "name": "Roughnecks",
+      "market": "Houston",
+      "alias": "HOU",
+      "sr_id": "sr:competitor:882411",
+      "players": [
+        {
+          "id": "47a2dcc0-0f63-11f0-a2a6-99b8ebe99ccd",
+          "name": "Tashawn Bower",
+          "jersey": "4",
+          "position": "OLB",
+          "injuries": [
+            {
+              "status": "Out",
+              "status_date": "2025-05-29T00:00:00+00:00",
+              "practice": {
+                "status": "Did Not Participate In Practice"
+              },
+              "primary": "Shoulder",
+              "secondary": "Groin"
+            }
+          ]
+        },
+        {
+          "id": "44b2b2c0-cfca-11ef-954a-531ae3932936",
+          "name": "Armani Marsh",
+          "jersey": "25",
+          "position": "CB",
+          "injuries": [
+            {
+              "status": "Out",
+              "status_date": "2025-05-29T00:00:00+00:00",
+              "practice": {
+                "status": "Did Not Participate In Practice"
+              },
+              "primary": "Quadricep"
+            }
+          ]
+        },
+        {
+          "id": "062a6020-dc32-11ee-9573-234d5a4ed2fc",
+          "name": "Corn Elder",
+          "jersey": "29",
+          "position": "CB",
+          "injuries": [
+            {
+              "status": "Probable",
+              "status_date": "2025-05-29T00:00:00+00:00",
+              "practice": {
+                "status": "Full Participation In Practice"
+              },
+              "primary": "Hamstring"
+            }
+          ]
+        },
+        {
+          "id": "48e6e6e0-c714-11ef-81ca-1bb223f12039",
+          "name": "Damon Arnette",
+          "jersey": "26",
+          "position": "CB",
+          "injuries": [
+            {
+              "status": "Out",
+              "status_date": "2025-05-29T00:00:00+00:00",
+              "practice": {
+                "status": "Did Not Participate In Practice"
+              },
+              "primary": "Illness"
+            }
+          ]
+        },
+        {
+          "id": "de03cf70-b45b-11ef-81ec-5dd4d629a502",
+          "name": "Ja'Quan Sheppard",
+          "jersey": "21",
+          "position": "CB",
+          "injuries": [
+            {
+              "status_date": "2025-05-29T00:00:00+00:00",
+              "practice": {
+                "status": "Full Participation In Practice"
+              },
+              "primary": "Dental"
+            }
+          ]
+        },
+        {
+          "id": "5d6a6960-d7da-11ec-be89-ed205f365fc2",
+          "name": "Josh Pederson",
+          "jersey": "86",
+          "position": "TE",
+          "injuries": [
+            {
+              "status": "Out",
+              "status_date": "2025-05-29T00:00:00+00:00",
+              "practice": {
+                "status": "Limited Participation In Practice"
+              },
+              "primary": "Hamstring",
+              "secondary": "Ribs"
+            }
+          ]
+        },
+        {
+          "id": "fc413fe0-3e6f-11ed-becc-e9eac83d1b3a",
+          "name": "Keke Chism",
+          "jersey": "3",
+          "position": "WR",
+          "injuries": [
+            {
+              "status": "Probable",
+              "status_date": "2025-05-29T00:00:00+00:00",
+              "practice": {
+                "status": "Full Participation In Practice"
+              },
+              "primary": "Chest"
+            }
+          ]
+        },
+        {
+          "id": "986d0b60-fedf-11ef-9547-c1f580bb3dfd",
+          "name": "Lorenzo Lingard",
+          "jersey": "27",
+          "position": "RB",
+          "injuries": [
+            {
+              "status_date": "2025-05-29T00:00:00+00:00",
+              "practice": {
+                "status": "Full Participation In Practice"
+              },
+              "primary": "Other"
+            }
+          ]
+        },
+        {
+          "id": "857bdb80-0371-11f0-85cf-bd7ce08a4afb",
+          "name": "T.J. Bradley",
+          "jersey": "75",
+          "position": "T",
+          "injuries": [
+            {
+              "status": "Out",
+              "status_date": "2025-05-29T00:00:00+00:00",
+              "practice": {
+                "status": "Did Not Participate In Practice"
+              },
+              "primary": "Shoulder"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b7951020-c045-11ee-ad92-cf16c0a8aa31",
+      "name": "Brahmas",
+      "market": "San Antonio",
+      "alias": "SA",
+      "sr_id": "sr:competitor:978099",
+      "players": [
+        {
+          "id": "522cc430-d791-11ef-9ad7-1f33368604b7",
+          "name": "Zuri Henry",
+          "jersey": "68",
+          "position": "T",
+          "injuries": [
+            {
+              "status": "Probable",
+              "status_date": "2025-05-30T00:00:00+00:00",
+              "practice": {
+                "status": "Limited Participation In Practice"
+              },
+              "primary": "Knee"
+            }
+          ]
+        },
+        {
+          "id": "110796d0-cc64-11ee-8fb5-9b5a26a0d598",
+          "name": "Corey Mayfield Jr.",
+          "jersey": "28",
+          "position": "CB",
+          "injuries": [
+            {
+              "status_date": "2025-05-30T00:00:00+00:00",
+              "practice": {
+                "status": "Full Participation In Practice"
+              },
+              "primary": "Illness"
+            }
+          ]
+        },
+        {
+          "id": "c8c391c0-cc64-11ee-8fb5-9b5a26a0d598",
+          "name": "Anthony McFarland",
+          "jersey": "41",
+          "position": "RB",
+          "injuries": [
+            {
+              "status": "Probable",
+              "status_date": "2025-05-30T00:00:00+00:00",
+              "practice": {
+                "status": "Full Participation In Practice"
+              },
+              "primary": "Neck"
+            }
+          ]
+        },
+        {
+          "id": "3b7c8c30-26f0-11f0-aa38-51441e2d0bf3",
+          "name": "Isaiah Buggs",
+          "jersey": "95",
+          "position": "DT",
+          "injuries": [
+            {
+              "status": "Probable",
+              "status_date": "2025-05-30T00:00:00+00:00",
+              "practice": {
+                "status": "Limited Participation In Practice"
+              },
+              "primary": "Calf"
+            }
+          ]
+        },
+        {
+          "id": "c16fd4a0-fd1b-11ee-bd24-1db032a79904",
+          "name": "Kevin Hogan",
+          "jersey": "8",
+          "position": "QB",
+          "injuries": [
+            {
+              "status": "Out",
+              "status_date": "2025-05-30T00:00:00+00:00",
+              "practice": {
+                "status": "Did Not Participate In Practice"
+              },
+              "primary": "Hand"
+            }
+          ]
+        },
+        {
+          "id": "10a8ba40-d6b2-11ee-a21e-11d1da81b964",
+          "name": "Sam Tecklenburg",
+          "jersey": "71",
+          "position": "OL",
+          "injuries": [
+            {
+              "status": "Questionable",
+              "status_date": "2025-05-30T00:00:00+00:00",
+              "practice": {
+                "status": "Did Not Participate In Practice"
+              },
+              "primary": "Abdomen"
+            }
+          ]
+        },
+        {
+          "id": "242e54d0-fe11-11ef-85a0-2905fc32c854",
+          "name": "Vitaliy Gurman ",
+          "jersey": "73",
+          "position": "T",
+          "injuries": [
+            {
+              "status": "Out",
+              "status_date": "2025-05-30T00:00:00+00:00",
+              "practice": {
+                "status": "Did Not Participate In Practice"
+              },
+              "primary": "Neck"
+            }
+          ]
+        },
+        {
+          "id": "64074900-7ad0-11ef-a7af-7dae49828794",
+          "name": "Willie Tyler III",
+          "jersey": "66",
+          "position": "T",
+          "injuries": [
+            {
+              "status": "Probable",
+              "status_date": "2025-05-30T00:00:00+00:00",
+              "practice": {
+                "status": "Limited Participation In Practice"
+              },
+              "primary": "Ankle"
+            }
+          ]
+        },
+        {
+          "id": "f1567db0-cc63-11ee-8fb5-9b5a26a0d598",
+          "name": "Alize Mack",
+          "jersey": "88",
+          "position": "TE",
+          "injuries": [
+            {
+              "status": "Questionable",
+              "status_date": "2025-05-30T00:00:00+00:00",
+              "practice": {
+                "status": "Did Not Participate In Practice"
+              },
+              "primary": "Low Back"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "8bcdfcd0-9677-11ec-9ad0-d3ebe46bbb12",
+      "name": "Panthers",
+      "market": "Michigan",
+      "alias": "MICH",
+      "sr_id": "sr:competitor:882417",
+      "players": [
+        {
+          "id": "334eb5c0-98bd-11ec-b56f-a59cd421be26",
+          "name": "Adonis Alexander",
+          "jersey": "19",
+          "position": "CB",
+          "injuries": [
+            {
+              "status": "Out",
+              "status_date": "2025-05-29T00:00:00+00:00",
+              "practice": {
+                "status": "Did Not Participate In Practice"
+              },
+              "primary": "Quadricep"
+            }
+          ]
+        },
+        {
+          "id": "af103f10-02ad-11ef-a665-d70761d8a728",
+          "name": "Bryce Perkins",
+          "jersey": "3",
+          "position": "QB",
+          "injuries": [
+            {
+              "status": "Probable",
+              "status_date": "2025-05-29T00:00:00+00:00",
+              "practice": {
+                "status": "Full Participation In Practice"
+              },
+              "primary": "Ankle"
+            }
+          ]
+        },
+        {
+          "id": "19b89ac0-a7c4-11ec-94ef-a944ea67e574",
+          "name": "Devin Ross",
+          "jersey": "6",
+          "position": "WR",
+          "injuries": [
+            {
+              "status": "Out",
+              "status_date": "2025-05-29T00:00:00+00:00",
+              "practice": {
+                "status": "Did Not Participate In Practice"
+              },
+              "primary": "Ribs"
+            }
+          ]
+        },
+        {
+          "id": "8ed16510-83de-11ee-8b5c-b1288d33ff28",
+          "name": "Javin White",
+          "jersey": "11",
+          "position": "LB",
+          "injuries": [
+            {
+              "status_date": "2025-05-29T00:00:00+00:00",
+              "practice": {
+                "status": "Full Participation In Practice"
+              },
+              "primary": "Arm"
+            }
+          ]
+        },
+        {
+          "id": "5e199c10-d209-11ef-8d1b-7f9b54f020b5",
+          "name": "Jalen Wydermyer",
+          "jersey": "85",
+          "position": "TE",
+          "injuries": [
+            {
+              "status_date": "2025-05-29T00:00:00+00:00",
+              "practice": {
+                "status": "Full Participation In Practice"
+              },
+              "primary": "Back"
+            }
+          ]
+        },
+        {
+          "id": "a04efce0-8107-11ef-a855-53dd3679849c",
+          "name": "Jaylon Moore",
+          "jersey": "7",
+          "position": "WR",
+          "injuries": [
+            {
+              "status_date": "2025-05-29T00:00:00+00:00",
+              "practice": {
+                "status": "Full Participation In Practice"
+              },
+              "primary": "Ankle"
+            }
+          ]
+        },
+        {
+          "id": "034af8c0-9627-11ee-b2ff-cdc1c5019d99",
+          "name": "Kenny Willekes",
+          "jersey": "48",
+          "position": "DE",
+          "injuries": [
+            {
+              "status": "Out",
+              "status_date": "2025-05-29T00:00:00+00:00",
+              "practice": {
+                "status": "Did Not Participate In Practice"
+              },
+              "primary": "Quadricep"
+            }
+          ]
+        },
+        {
+          "id": "f35817c0-3625-11ed-bc9b-b5699bc10dd5",
+          "name": "Cohl Cabral",
+          "jersey": "69",
+          "position": "C",
+          "injuries": [
+            {
+              "status": "Doubtful",
+              "status_date": "2025-05-29T00:00:00+00:00",
+              "practice": {
+                "status": "Limited Participation In Practice"
+              },
+              "primary": "Knee"
+            }
+          ]
+        },
+        {
+          "id": "cf92e790-494f-11ef-8ba2-a72cd74c425d",
+          "name": "Keith Russell",
+          "jersey": "76",
+          "position": "T",
+          "injuries": [
+            {
+              "status": "Doubtful",
+              "status_date": "2025-05-29T00:00:00+00:00",
+              "practice": {
+                "status": "Limited Participation In Practice"
+              },
+              "primary": "Shoulder"
+            }
+          ]
+        },
+        {
+          "id": "34a1f580-b8dc-11ef-afbe-4f623eff36d1",
+          "name": "Keni-H Lovely",
+          "jersey": "18",
+          "position": "CB",
+          "injuries": [
+            {
+              "status": "Probable",
+              "status_date": "2025-05-29T00:00:00+00:00",
+              "practice": {
+                "status": "Limited Participation In Practice"
+              },
+              "primary": "Ribs"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "d4799bc0-c045-11ee-ad92-cf16c0a8aa31",
+      "name": "Battlehawks",
+      "market": "St. Louis",
+      "alias": "STL",
+      "sr_id": "sr:competitor:661855",
+      "players": [
+        {
+          "id": "5202d060-d4fb-11ee-836d-e1fcdaeeb3ee",
+          "name": "Austin Faoliu",
+          "jersey": "99",
+          "position": "DT",
+          "injuries": [
+            {
+              "status_date": "2025-05-28T00:00:00+00:00",
+              "practice": {
+                "status": "Full Participation In Practice"
+              },
+              "primary": "Knee"
+            }
+          ]
+        },
+        {
+          "id": "bcfa8d70-cc79-11ee-a8f3-23438f5a5e24",
+          "name": "Jake Sutherland",
+          "jersey": "84",
+          "position": "TE",
+          "injuries": [
+            {
+              "status_date": "2025-05-28T00:00:00+00:00",
+              "practice": {
+                "status": "Full Participation In Practice"
+              },
+              "primary": "Knee"
+            }
+          ]
+        },
+        {
+          "id": "9d847270-cde2-11ee-92da-572d84ed57da",
+          "name": "Jaryd Jones-Smith",
+          "jersey": "75",
+          "position": "T",
+          "injuries": [
+            {
+              "status_date": "2025-05-28T00:00:00+00:00",
+              "practice": {
+                "status": "Full Participation In Practice"
+              },
+              "primary": "Other"
+            }
+          ]
+        },
+        {
+          "id": "9d8ee6a0-d305-11ef-9434-4fefdbc7c114",
+          "name": "Phil Hoskins",
+          "jersey": "92",
+          "position": "DT",
+          "injuries": [
+            {
+              "status": "Out",
+              "status_date": "2025-05-28T00:00:00+00:00",
+              "practice": {
+                "status": "Did Not Participate In Practice"
+              },
+              "primary": "Illness",
+              "secondary": "Elbow/Knee"
+            }
+          ]
+        },
+        {
+          "id": "bdedfce0-cc73-11ee-997a-3737e5e04611",
+          "name": "Steven Gonzalez",
+          "jersey": "74",
+          "position": "G",
+          "injuries": [
+            {
+              "status": "Out",
+              "status_date": "2025-05-28T00:00:00+00:00",
+              "practice": {
+                "status": "Did Not Participate In Practice"
+              },
+              "primary": "Illness"
+            }
+          ]
+        },
+        {
+          "id": "a458aa00-cc78-11ee-a8f3-23438f5a5e24",
+          "name": "T.J. Pesefea Jr.",
+          "jersey": "93",
+          "position": "NT",
+          "injuries": [
+            {
+              "status_date": "2025-05-28T00:00:00+00:00",
+              "practice": {
+                "status": "Full Participation In Practice"
+              },
+              "primary": "Knee"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "38355600-c045-11ee-8037-85feac748e1f",
+      "name": "Renegades",
+      "market": "Arlington",
+      "alias": "ARL",
+      "sr_id": "sr:competitor:661843",
+      "players": [
+        {
+          "id": "bc965ba0-99ba-11ec-86dc-ff0add1e628b",
+          "name": "De'Veon Smith",
+          "jersey": "9",
+          "position": "RB",
+          "injuries": [
+            {
+              "status": "Out",
+              "status_date": "2025-05-30T00:00:00+00:00",
+              "practice": {
+                "status": "Did Not Participate In Practice"
+              },
+              "primary": "Knee"
+            }
+          ]
+        },
+        {
+          "id": "99da7940-c4a3-11ef-bc2e-756a5ce56fad",
+          "name": "Durrell Johnson",
+          "jersey": "44",
+          "position": "DE",
+          "injuries": [
+            {
+              "status_date": "2025-05-30T00:00:00+00:00",
+              "practice": {
+                "status": "Full Participation In Practice"
+              },
+              "primary": "Groin"
+            }
+          ]
+        },
+        {
+          "id": "d7ef7bb0-cc45-11ee-8f29-0b84fc254cdc",
+          "name": "Will Clarke",
+          "jersey": "45",
+          "position": "OLB",
+          "injuries": [
+            {
+              "status": "Out",
+              "status_date": "2025-05-30T00:00:00+00:00",
+              "practice": {
+                "status": "Did Not Participate In Practice"
+              },
+              "primary": "Neck"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b88f3e30-66c1-11ed-bbea-376dc2cc7dc0",
+      "name": "Showboats",
+      "market": "Memphis",
+      "alias": "MEM",
+      "sr_id": "sr:competitor:982997",
+      "players": [
+        {
+          "id": "1bc75da0-99ba-11ec-86dc-ff0add1e628b",
+          "name": "Boogie Roberts",
+          "jersey": "8",
+          "position": "DL",
+          "injuries": [
+            {
+              "status_date": "2025-05-30T00:00:00+00:00",
+              "practice": {
+                "status": "Full Participation In Practice"
+              },
+              "primary": "Knees"
+            }
+          ]
+        },
+        {
+          "id": "ef75eda0-fedf-11ef-b43d-ed4142c6e0e6",
+          "name": "Jalen Jackson",
+          "jersey": "36",
+          "position": "RB",
+          "injuries": [
+            {
+              "status_date": "2025-05-30T00:00:00+00:00",
+              "practice": {
+                "status": "Full Participation In Practice"
+              },
+              "primary": "Toes"
+            }
+          ]
+        },
+        {
+          "id": "a808efe0-98c5-11ec-a813-cdb8b61d0851",
+          "name": "Jonathan Adams",
+          "jersey": "9",
+          "position": "WR",
+          "injuries": [
+            {
+              "status": "Probable",
+              "status_date": "2025-05-30T00:00:00+00:00",
+              "practice": {
+                "status": "Limited Participation In Practice"
+              },
+              "primary": "Hamstring"
+            }
+          ]
+        },
+        {
+          "id": "231729b0-b379-11ef-bccc-8f72620818a7",
+          "name": "Kwamie Lassiter II",
+          "jersey": "18",
+          "position": "WR",
+          "injuries": [
+            {
+              "status": "Out",
+              "status_date": "2025-05-30T00:00:00+00:00",
+              "practice": {
+                "status": "Did Not Participate In Practice"
+              },
+              "primary": "Knee"
+            }
+          ]
+        },
+        {
+          "id": "df07d2d0-cb1f-11ed-a9a9-13d451db17d8",
+          "name": "Mark Gilbert",
+          "jersey": "14",
+          "position": "CB",
+          "injuries": [
+            {
+              "status_date": "2025-05-30T00:00:00+00:00",
+              "practice": {
+                "status": "Full Participation In Practice"
+              },
+              "primary": "Hamstring"
+            }
+          ]
+        },
+        {
+          "id": "d5e65e60-b247-11ed-860e-ff9048c44c3a",
+          "name": "Nehemiah Shelton",
+          "jersey": "32",
+          "position": "CB",
+          "injuries": [
+            {
+              "status": "Out",
+              "status_date": "2025-05-30T00:00:00+00:00",
+              "practice": {
+                "status": "Did Not Participate In Practice"
+              },
+              "primary": "Hamstring",
+              "secondary": "Shin"
+            }
+          ]
+        },
+        {
+          "id": "e8da95c0-b23a-11ed-a690-e123c4fecf83",
+          "name": "Zeke Vandenburgh",
+          "jersey": "57",
+          "position": "LB",
+          "injuries": [
+            {
+              "status": "Out",
+              "status_date": "2025-05-30T00:00:00+00:00",
+              "practice": {
+                "status": "Did Not Participate In Practice"
+              },
+              "primary": "Foot"
+            }
+          ]
+        },
+        {
+          "id": "312d8db0-f799-11ee-9703-cdcd7dbbdf2e",
+          "name": "Cameron Dantzler",
+          "jersey": "13",
+          "position": "CB",
+          "injuries": [
+            {
+              "status_date": "2025-05-30T00:00:00+00:00",
+              "practice": {
+                "status": "Full Participation In Practice"
+              },
+              "primary": "Groin"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "a3407150-c045-11ee-b66f-5d382d09dbaf",
+      "name": "Defenders",
+      "market": "DC",
+      "alias": "DC",
+      "sr_id": "sr:competitor:661851",
+      "players": [
+        {
+          "id": "5a810540-cc7c-11ee-a60a-8d7f07d3367e",
+          "name": "Anthony Hines III",
+          "jersey": "57",
+          "position": "LB",
+          "injuries": [
+            {
+              "status": "Out",
+              "status_date": "2025-05-28T00:00:00+00:00",
+              "practice": {
+                "status": "Limited Participation In Practice"
+              },
+              "primary": "Elbow"
+            }
+          ]
+        },
+        {
+          "id": "e9f9c840-f883-11ef-b61f-e78cda0f2aae",
+          "name": "Cornell Powell",
+          "jersey": "14",
+          "position": "WR",
+          "injuries": [
+            {
+              "status": "Out",
+              "status_date": "2025-05-28T00:00:00+00:00",
+              "practice": {
+                "status": "Did Not Participate In Practice"
+              },
+              "primary": "Illness"
+            }
+          ]
+        },
+        {
+          "id": "47c1cc20-cc7f-11ee-a60a-8d7f07d3367e",
+          "name": "Sam Kidd",
+          "jersey": "26",
+          "position": "DB",
+          "injuries": [
+            {
+              "status": "Out",
+              "status_date": "2025-05-28T00:00:00+00:00",
+              "practice": {
+                "status": "Did Not Participate In Practice"
+              },
+              "primary": "Shoulder"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "_comment": "Generation started @ 2025-06-18 10:52:54 UTC ended @ 2025-06-18 10:52:54 UTC"
+}

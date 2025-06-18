@@ -1,0 +1,49 @@
+{
+  "league": {
+    "id": "d441365f-cfab-49d6-9976-6c95d91fdef7",
+    "name": "United Football League",
+    "alias": "UFL"
+  },
+  "seasons": [
+    {
+      "id": "e67a7c79-1e58-4334-b26e-7317d2efa16f",
+      "year": 2024,
+      "start_date": "2024-06-08",
+      "end_date": "2024-06-15",
+      "status": "closed",
+      "type": {
+        "code": "PST"
+      }
+    },
+    {
+      "id": "885f1348-9da8-42e9-b0a3-e8620be24242",
+      "year": 2024,
+      "start_date": "2024-03-30",
+      "end_date": "2024-06-02",
+      "status": "closed",
+      "type": {
+        "code": "REG"
+      }
+    },
+    {
+      "id": "940a2680-c865-11ef-b016-114bcfc0f1b1",
+      "year": 2025,
+      "start_date": "2025-06-07",
+      "end_date": "2025-06-14",
+      "status": "closed",
+      "type": {
+        "code": "PST"
+      }
+    },
+    {
+      "id": "94096330-c865-11ef-b016-114bcfc0f1b1",
+      "year": 2025,
+      "start_date": "2025-03-28",
+      "end_date": "2025-06-01",
+      "status": "closed",
+      "type": {
+        "code": "REG"
+      }
+    }
+  ]
+}
