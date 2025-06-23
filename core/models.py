@@ -37,6 +37,10 @@ class League(GriddyBaseModel):
     name = models.CharField(max_length=100)
     alias = models.CharField(max_length=100)
 
+    # TODO: should this be normalized to its own model?
+    # Would make it easier to maintain historical standings
+    standings = models.JSONField(default=dict)
+
     class Meta:
         db_table = 'league'
 

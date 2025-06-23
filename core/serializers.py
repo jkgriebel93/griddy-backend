@@ -26,7 +26,7 @@ class VenueSerializer(GriddyBaseModelSerializer):
 class LeagueSerializer(GriddyBaseModelSerializer):
     class Meta(GriddyBaseModelSerializer.Meta):
         model = League
-        fields = GriddyBaseModelSerializer.Meta.fields + ["name", "alias"]
+        fields = GriddyBaseModelSerializer.Meta.fields + ["name", "alias", "standings"]
 
 
 class ConferenceSerializer(GriddyBaseModelSerializer):

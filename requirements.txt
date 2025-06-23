@@ -4,3 +4,5 @@ django-cors-headers==4.7.0
 psycopg2-binary==2.9.10
 requests==2.32.4
 django-extensions==4.1
+browser-cookie3==0.20.1
+python-dotenv==1.1.0

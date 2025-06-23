@@ -13,9 +13,11 @@ import os
 
 from pathlib import Path
 
+from dotenv import load_dotenv
+
 # Build paths inside the project like this: BASE_DIR / 'subdir'.
 BASE_DIR = Path(__file__).resolve().parent.parent
-
+load_dotenv(os.path.join(BASE_DIR, ".env"))
 
 # Quick-start development settings - unsuitable for production
 # See https://docs.djangoproject.com/en/5.2/howto/deployment/checklist/
@@ -134,5 +136,22 @@ DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 
 
 #### Begin custom/griddy specific settings ####
+# TODO: This is just for playing locally.
+# A more robust solution is to use something like Selenium to generate the cookies
+# And get this info from there
+FIREFOX_COOKIES_DB = os.getenv("FIREFOX_COOKIES_DB")
+
 SPORTRADAR_API_KEY = os.getenv("SPORTRADAR_API_KEY")
-SPORTRADAR_API_BASE_URL = os.getenv("SPORTRADAR_API_BASE_URL", "https://api.sportradar.com/")
+SPORTRADAR_API_BASE_URL = os.getenv("SPORTRADAR_API_BASE_URL")
+
+NFL_AUTH_REQ_HEADERS_FILE = Path(BASE_DIR, 'example_data/nfl_auth_req_headers.json')
+NFL_API_REQ_HEADERS_FILE = Path(BASE_DIR, 'example_data/nfl_api_req_headers.json')
+
+NFL_AUTH_URL = os.getenv("NFL_AUTH_URL")
+NFL_API_BASE_URL = os.getenv("NFL_API_BASE_URL")
+
+NFL_CLIENT_KEY = os.getenv("NFL_CLIENT_KEY")
+NFL_CLIENT_SECRET = os.getenv("NFL_CLIENT_SECRET")
+NFL_DEVICE_ID = os.getenv("NFL_DEVICE_ID")
+NFL_DEVICE_INFO = os.getenv("NFL_DEVICE_INFO")
+NFL_NETWORK_TYPE = os.getenv("NFL_NETWORK_TYPE")
