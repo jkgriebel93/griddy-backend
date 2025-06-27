@@ -149,6 +149,9 @@ NFL_API_REQ_HEADERS_FILE = Path(BASE_DIR, 'example_data/nfl_api_req_headers.json
 
 NFL_AUTH_URL = os.getenv("NFL_AUTH_URL")
 NFL_API_BASE_URL = os.getenv("NFL_API_BASE_URL")
+NFL_PRO_LOGIN_URL = os.getenv("NFL_PRO_LOGIN_URL")
+NFL_PRO_EMAIL = os.getenv("NFL_PRO_EMAIL")
+NFL_PRO_PASSWORD = os.getenv("NFL_PRO_PASSWORD")
 
 NFL_CLIENT_KEY = os.getenv("NFL_CLIENT_KEY")
 NFL_CLIENT_SECRET = os.getenv("NFL_CLIENT_SECRET")
